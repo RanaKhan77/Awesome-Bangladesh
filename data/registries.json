@@ -406,5 +406,281 @@
   },
   "section": "fintech",
   "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-bank-exchange-rate",
+  "url": "https://www.npmjs.com/package/bangladesh-bank-exchange-rate",
+  "description": "npm client for BB daily published rates",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Built around Bangladesh Bank published rates"
+  },
+  "section": "APIs & integrations",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "thikkit",
+  "url": "https://www.npmjs.com/package/thikkit",
+  "description": "Bilingual Bangla-English address parsing",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Rocky Haque (rockyhaque), Bangladeshi developer; BD address data"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangla-to-english-name-translator",
+  "url": "https://www.npmjs.com/package/bangla-to-english-name-translator",
+  "description": "Bangla person names to English transliteration",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "thehriday; Bangla name transliteration for BD use cases"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "transliteration-bangla",
+  "url": "https://www.npmjs.com/package/transliteration-bangla",
+  "description": "Banglish-to-Bangla ONNX transliteration in the browser",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla language tool; inj-src"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "matra",
+  "url": "https://www.npmjs.com/package/@pantho075/matra",
+  "description": "Bangla character stroke-order data and heuristics",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Pantho Haque; linked to Lekho Bangla typing project"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangla-ipa",
+  "url": "https://pypi.org/project/bangla-ipa/",
+  "description": "Bangla text to IPA transliteration",
+  "license": "open source (GitHub bipsec/bangla-ipa)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Authors include Asif E. Shusmit and Afrar Jahin, Bangladeshi NLP researchers"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bn-i18n-notes",
+  "url": "https://codeberg.org/adnan360/bn-i18n-notes",
+  "description": "Guidelines for translating software into Bangla",
+  "license": "gpl-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "adnan360, known Bangladeshi FOSS developer; repo written in Bangla"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "TituLM",
+  "url": "https://huggingface.co/hishab/titulm-llama-3.2-3b-v2.0",
+  "description": "Open-weight Bangla LLM from Hishab (Dhaka), arXiv 2502.11187",
+  "license": "llama3.2 community licence",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Hishab Ltd, Dhaka; TituLLMs paper co-author Firoj Alam (BRAC Univ)"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaLLama",
+  "url": "https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1",
+  "description": "Instruction-tuned Bangla LLM from BanglaLLM org",
+  "license": "llama2 community licence",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "BanglaLLM org: research lead Abdullah Khan Zehady (BD)"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangladeshi-bangla-tts-vits",
+  "url": "https://huggingface.co/EMTIAZZ/bangladeshi-bangla-tts-vits",
+  "description": "Bangladeshi-dialect Bangla TTS with running demo spaces",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Model card: Emtiaz Uddin Ahmed, AI/ML Engineer at Markopolo.ai, Dhaka"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaTag",
+  "url": "https://huggingface.co/arafatfahim/BanglaTag",
+  "description": "Bangla POS tagging model (345 dl)",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "GitHub location: Dhaka, Bangladesh"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bengali-whisper-medium",
+  "url": "https://huggingface.co/SayedShaun/bengali-whisper-medium",
+  "description": "Whisper fine-tune for Bangla ASR (298 dl)",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "GitHub location: Dhaka, Bangladesh"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BengaliRegionalASR (Barishal & Sylhet)",
+  "url": "https://huggingface.co/sha1779/BengaliRegionalASR_barishal_sylhet",
+  "description": "Dialect-aware ASR on BengaliAI regional-dialect data",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Trained on BengaliAI ভাষা-বিচিত্রা dialect data (Barishal & Sylhet divisions)"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "mcp-server-bangladesh",
+  "url": "https://www.npmjs.com/package/@entrogic-net/mcp-server-bangladesh",
+  "description": "MCP server exposing Bangladesh reference data to LLMs",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Entrogic, Bangladeshi software company (BanglaClaw authors)"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangla-news-mcp",
+  "url": "https://pypi.org/project/bangla-news-mcp/",
+  "description": "MCP server retrieving live Bangla news into LLM contexts",
+  "license": "open source (GitHub hurutta/bangla-news-mcp)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Maintainer Abid Mohammad Jawad, Bangladeshi"
+  },
+  "section": "AI/ML & research",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "eps-gateway-nodejs",
+  "url": "https://www.npmjs.com/package/eps-gateway-nodejs",
+  "description": "Node SDK for Dutch-Bangla Bank EPS payments",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "EPS is Dutch-Bangla Bank (Bangladesh) payment system"
+  },
+  "section": "Fintech & e-commerce",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "steadfast-api",
+  "url": "https://www.npmjs.com/package/@dreygur/steadfast-api",
+  "description": "SDK for Steadfast Courier API",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "dreygur (BD developer, already listed); Steadfast is a Bangladeshi courier"
+  },
+  "section": "Fintech & e-commerce",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "steadfast-courier",
+  "url": "https://pypi.org/project/steadfast-courier/",
+  "description": "Python client for Steadfast Courier API",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "SteadFast is a Bangladeshi courier company"
+  },
+  "section": "Fintech & e-commerce",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bdix-tester",
+  "url": "https://gitlab.com/farhansadik/bdix-tester",
+  "description": "Test which sites/FTP/download links are alive over BDIX",
+  "license": "see repo (LICENSE present)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "farhansadik (BD); tool exclusively about BDIX, the Bangladesh Internet Exchange"
+  },
+  "section": "Cybersecurity & privacy",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "electric-bill-bd",
+  "url": "https://www.npmjs.com/package/electric-bill-bd",
+  "description": "Electricity bill calculator for DESO/DPDC/NESCO",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "BD utility tariffs; Parish Khan"
+  },
+  "section": "Civic tech & public services",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "manchitro",
+  "url": "https://www.npmjs.com/package/manchitro",
+  "description": "Typed SVG maps of all 64 BD districts",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "tofaal9152, Bangladeshi developer; all-64-district map library"
+  },
+  "section": "Geography & open maps",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Geofabrik Bangladesh extract",
+  "url": "https://download.geofabrik.de/asia/bangladesh.html",
+  "description": "Regularly updated OSM extract for Bangladesh (SHP/GeoJSON)",
+  "license": "odbl",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangladesh-specific OSM data service, updated ~daily"
+  },
+  "section": "Geography & open maps",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "OpenStreetMap Bangladesh",
+  "url": "https://wiki.openstreetmap.org/wiki/Bangladesh",
+  "description": "Community hub for Bangladesh mapping",
+  "license": "cc-by-sa (wiki)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangladesh mapping efforts and import coordination"
+  },
+  "section": "Geography & open maps",
+  "last_verified": "2026-10-25"
  }
 ]

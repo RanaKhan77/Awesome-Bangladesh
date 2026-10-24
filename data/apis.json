@@ -70,5 +70,53 @@
   },
   "section": "apis",
   "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh Bank daily rates (AllRatesToday)",
+  "url": "https://allratestoday.com/api/open/central-bank/bb",
+  "description": "Keyless JSON of BB official published exchange rates",
+  "license": "free-with-attribution (terms on site)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Serves Bangladesh Bank's official published rates; npm client exists"
+  },
+  "section": "APIs & integrations",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "World Bank Bangladesh API",
+  "url": "https://api.worldbank.org/v2/country/BGD/indicator/SP.POP.TOTAL?format=json",
+  "description": "Keyless REST for all World Bank Bangladesh indicators",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Country=BGD data API; canonical BD macro-data (external service)"
+  },
+  "section": "APIs & integrations",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangladesh Railway e-ticketing API",
+  "url": "https://railspaapi.shohoz.com/v1.0/web/all-trains/info",
+  "description": "Keyless JSON behind the official Shohoz rail e-ticketing site",
+  "license": "unofficial; no published terms",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Serves Bangladesh Railway, the national rail network; Shohoz is a Dhaka company"
+  },
+  "section": "APIs & integrations",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Open-Meteo (Bangladesh)",
+  "url": "https://api.open-meteo.com/v1/forecast",
+  "description": "Free keyless weather for any BD coordinate",
+  "license": "cc-by-4.0 non-commercial free tier",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Serves Bangladesh (any BD coordinates; external service)"
+  },
+  "section": "APIs & integrations",
+  "last_verified": "2026-10-25"
  }
 ]

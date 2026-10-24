@@ -67,10 +67,19 @@ Curated datasets on GitHub and Hugging Face:
 - [xlsum](https://huggingface.co/datasets/csebuetnlp/xlsum) - Large-scale multilingual summarisation dataset covering Bangla news. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT) - Bangla-English parallel corpus. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) - Bangla speech corpus. CC0-1.0.
+- [titulm-bangla-corpus](https://huggingface.co/datasets/hishab/titulm-bangla-corpus) - 24.3M-document Bangla pre-training corpus (147 GB) from Hishab, the Dhaka AI company behind the TituLM family. CC-BY-4.0.
+- [BanglaEng-SynCorpus](https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus) - Synthetic Bangla-English parallel corpus built by SUST CSE faculty (926 downloads). CC-BY-4.0.
+- [SUBAK.KO](https://huggingface.co/datasets/SUST-CSE-Speech/SUBAK.KO) - Bangla speech corpus from the SUST CSE speech lab. CC-BY-4.0.
 - [Bengali.AI datasets portal](https://www.bengali.ai/datasets/) - Open training partitions for Bengali language research (Ben-10, document layout, speech, handwriting) hosted on Kaggle and Hugging Face.
 - [Numta](https://github.com/BengaliAI/Numta) - Handwritten Bangla digit dataset. MIT.
 - [BADLAD](https://github.com/BengaliAI/BADLAD) - Bangla document layout analysis dataset. ⚠️ No licence file.
 - [BanglaSocialBias](https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias) - Social bias measurement dataset for Bangla. CC-BY-4.0.
+- [bangladeshi-jobs](https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs) - Weekly-refreshed Bangladeshi tech-jobs dataset (902 downloads). CC-BY-4.0.
+- [Bangla_Financial_news](https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news) - Bangla financial news corpus used for DSE stock prediction research (1,049 downloads). CC0-1.0.
+- [bangladesh-stock-market-dataset](https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset) - Dhaka Stock Exchange daily data for ABBANK to BRACBANK and beyond (835 downloads). CC-BY-4.0.
+- [BanglishRev e-commerce reviews](https://huggingface.co/datasets/BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset) - 1.74M Daraz reviews, Bangla-English code-mixed; companion paper by UIU Dhaka faculty (arXiv 2412.13161). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
+- [BanglaRQA](https://huggingface.co/datasets/sartajekram/BanglaRQA) - Reading-comprehension benchmark in Bangla from University of Chittagong researchers. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
+- [Bangla-Instruct](https://huggingface.co/datasets/md-nishat-008/Bangla-Instruct) - 172k instruction-tuning pairs built from 163 NCTB textbooks (ACL 2025). MIT.
 
 Notable Kaggle datasets about Bangladesh:
 
@@ -84,6 +93,18 @@ Notable Kaggle datasets about Bangladesh:
 - [Dhaka Stock Exchange Historical Data](https://www.kaggle.com/datasets/shuvokumarbasak2030/bd-dhaka-stock-exchange-historical-data-s1999-2023) - DSE historical prices 1999–2023. MIT.
 - [House Rent in Dhaka City](https://www.kaggle.com/datasets/taeefnajib/house-rent-in-dhaka-city) - Rental listings dataset. ⚠️ CC BY-NC 4.0.
 - [COVID-19 in Bangladesh](https://www.kaggle.com/datasets/jhossain/covid19-in-bangladesh) - Pandemic case data.
+- [Bangladesh 2026 National Election Candidates](https://www.kaggle.com/datasets/dkhalidashik/candidate-info-2026-national-election-bangladesh) - Candidate list for the 13th Jatiya Sangsad election. Apache-2.0.
+- [Bangladesh Road Accident News 2014-2025](https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-news-report-dataset) - ~3,000 road-accident reports scraped from Prothom Alo. MIT.
+- [Dengue and Weather Data Bangladesh](https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh) - Spatio-temporal dengue + weather data from DGHS, all eight divisions. CC-BY-4.0.
+- [July Revolution Sentiment (Bangla)](https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla) - Public-sentiment corpus from the July 2024 uprising; companion paper arXiv 2507.11084. CC-BY-4.0.
+- [Bengali OCR Dataset 1M](https://www.kaggle.com/datasets/mnsm92/bengali-ocr-dataset-1m) - 1M annotated printed and handwritten images for Bangla OCR. MIT.
+- [SUBESCO Bangla Speech Emotion](https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset) - Audio-only emotional speech corpus from SUST researchers (1,106 downloads). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
+- [Bangla Isolated Speech Dataset](https://www.kaggle.com/datasets/mehrabhosain/bangla-isolated-speech-dataset) - 1,800 isolated-word samples in Bangla and English (published 2025; also on Mendeley Data). LGPL-3.0.
+
+International open-data hosts carrying Bangladesh data:
+
+- [IOM NPM Cox's Bazar UAV imagery](https://data.humdata.org/dataset/iom-npm-cox-bazar-uav-imagery) - Needs and Population Monitoring imagery for the Rohingya refugee camps, from IOM Bangladesh. CC-BY-4.0 (HDX open licence).
+- [OpenDengue](https://doi.org/10.6084/m9.figshare.24259573) - Open global dengue case database including Bangladesh monthly and daily DGHS-sourced series. CC-BY-4.0.
 
 ## 🔌 APIs & integrations
 
@@ -91,6 +112,11 @@ Notable Kaggle datasets about Bangladesh:
 - [bdapi4all](https://github.com/fakhrul62/bdapi4all) - One keyless API for BD geography, prayer times, holidays, exchange rates and validators. ⚠️ Licence unspecified.
 - [bd-apis](https://github.com/SudipMHX/bd-apis) - Community collection of Bangladesh-focused APIs. ⚠️ No licence file.
 - [bangla-apis](https://github.com/rdnasim/bangla-apis) - Curated directory of BD-context APIs (payments, couriers, SMS, government, banking, laws) with auth/pricing columns; reviewed October 2026. Linked as a reference directory (no licence — data is not copied).
+- [Bangladesh Bank daily rates](https://allratestoday.com/api/open/central-bank/bb) - Keyless JSON endpoint serving Bangladesh Bank's official published exchange rates (maintained by AllRatesToday with visible attribution).
+- [World Bank Bangladesh API](https://api.worldbank.org/v2/country/BGD/indicator/SP.POP.TOTAL?format=json) - Keyless REST API for every World Bank Bangladesh indicator, population to GDP (external service, CC-BY-4.0 terms).
+- [Bangladesh Railway e-ticketing API](https://railspaapi.shohoz.com/v1.0/web/all-trains/info) - Keyless JSON API behind the official Shohoz rail e-ticketing site — unofficial, no published terms; use respectfully.
+- [Open-Meteo (Bangladesh)](https://api.open-meteo.com/v1/forecast?latitude=23.8103&longitude=90.4125&hourly=temperature_2m) - Free keyless weather forecasts and history for any Bangladeshi coordinate (external service, non-commercial free tier, CC-BY-4.0).
+- [bangladesh-bank-exchange-rate](https://www.npmjs.com/package/bangladesh-bank-exchange-rate) - npm client for Bangladesh Bank's daily published rates. MIT.
 - [ExchangeRate-API open endpoint](https://open.er-api.com/v6/latest/BDT) - Free, keyless exchange rates for BDT, refreshed daily (community endpoint of ExchangeRate-API; external service, useful until Bangladesh Bank publishes an API).
 - [Prothom Alo RSS](https://www.prothomalo.com/feed) - Verified RSS 2.0 feed of the leading Bangla daily.
 - [The Daily Star RSS](https://www.thedailystar.net/frontpage/rss.xml) - Front-page feed of the leading English daily.
@@ -146,6 +172,12 @@ Dates, numbers and text utilities:
 - [bangla-pdf](https://www.npmjs.com/package/bangla-pdf) - Generate PDFs with Bangla text (Node). BSD-3-Clause.
 - [banglapdf](https://pypi.org/project/banglapdf/) - Bangla PDF generation for Python. MIT.
 - [bangla-web-fonts](https://github.com/maateen/bangla-web-fonts) - Bangla web fonts packaged for the web. ⚠️ No licence file.
+- [thikkit](https://www.npmjs.com/package/thikkit) - Bilingual Bangla-English address parsing (ঠিকানা = address). MIT.
+- [bangla-to-english-name-translator](https://www.npmjs.com/package/bangla-to-english-name-translator) - Converts Bangla person names to English (শাহানাহিদ → Shahanaheed). MIT.
+- [transliteration-bangla](https://www.npmjs.com/package/transliteration-bangla) - Banglish-to-Bangla transliteration running ONNX models in the browser. MIT.
+- [@pantho075/matra](https://www.npmjs.com/package/@pantho075/matra) - Bangla character stroke-order data and heuristics (মাত্রা). MIT.
+- [bangla-ipa](https://pypi.org/project/bangla-ipa/) - Bangla text to IPA transliteration, by Bangladeshi NLP researchers (open source, GitHub bipsec/bangla-ipa).
+- [bn-i18n-notes](https://codeberg.org/adnan360/bn-i18n-notes) - Guidelines for translating software projects from English to Bangla, written in Bangla (Codeberg). GPL-3.0.
 
 Typesetting:
 
@@ -171,6 +203,14 @@ Typesetting:
 - [banglanlptoolkit](https://pypi.org/project/banglanlptoolkit/) - All-in-one Bangla NLP toolkit from ACI MIS AI and Intelsense AI teams. ⚠️ Licence unspecified.
 - [BanglaBBQ](https://github.com/SummitAnthony/BanglaBBQ-benchmark) - Bias benchmark for question answering in the Bangladeshi context. MIT.
 - [bangla-speech-to-text-benchmark](https://github.com/riverbornai/bangla-speech-to-text-benchmark) - Open benchmark of eight Bengali speech-to-text APIs (Sarvam, Deepgram, Gemini, OpenAI, Groq Whisper and others) on 1,001 Bangla audio clips. MIT.
+- [TituLM](https://huggingface.co/hishab/titulm-llama-3.2-3b-v2.0) - Open-weight Bangla LLM family from Hishab (Dhaka), trained on the titulm-bangla-corpus; paper arXiv 2502.11187 (1,227 downloads). Llama 3.2 community licence.
+- [BanglaLLama](https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1) - Instruction-tuned Bangla LLM from the Bangladesh-led BanglaLLM org (271 downloads). Llama 2 community licence.
+- [bangladeshi-bangla-tts-vits](https://huggingface.co/EMTIAZZ/bangladeshi-bangla-tts-vits) - Bangladeshi-dialect Bangla text-to-speech with running demo spaces, by a Dhaka-based ML engineer. Apache-2.0.
+- [BanglaTag](https://huggingface.co/arafatfahim/BanglaTag) - Bangla part-of-speech tagging model by a Dhaka developer (345 downloads). Apache-2.0.
+- [bengali-whisper-medium](https://huggingface.co/SayedShaun/bengali-whisper-medium) - Whisper fine-tune for Bangla speech recognition, Dhaka-based maintainer (298 downloads). Apache-2.0.
+- [BengaliRegionalASR (Barishal & Sylhet)](https://huggingface.co/sha1779/BengaliRegionalASR_barishal_sylhet) - Dialect-aware ASR trained on BengaliAI's regional-dialect data for two Bangladeshi divisions. Apache-2.0.
+- [@entrogic-net/mcp-server-bangladesh](https://www.npmjs.com/package/@entrogic-net/mcp-server-bangladesh) - MCP server exposing Bangladesh reference data to LLM clients, from the BanglaClaw team. Apache-2.0.
+- [bangla-news-mcp](https://pypi.org/project/bangla-news-mcp/) - MCP server that retrieves live Bangla news into LLM contexts, by Abid Mohammad Jawad (open source, GitHub hurutta/bangla-news-mcp).
 
 ## 💒 Fintech & e-commerce
 
@@ -198,6 +238,9 @@ Community SDKs and integrations:
 - [react-bangla-pay-icons](https://www.npmjs.com/package/react-bangla-pay-icons) - Bangladeshi payment brand icons as React components. MIT.
 - [bd-bank-routing](https://www.npmjs.com/package/bd-bank-routing) - BEFTN bank routing numbers as structured data. MIT.
 - [tutor-sslcommerz](https://github.com/hasinhayder/tutor-sslcommerz) - SSLCommerz payment gateway for Tutor LMS. ⚠️ No licence file.
+- [eps-gateway-nodejs](https://www.npmjs.com/package/eps-gateway-nodejs) - Node.js SDK for Dutch-Bangla Bank's EPS payment system. MIT.
+- [@dreygur/steadfast-api](https://www.npmjs.com/package/@dreygur/steadfast-api) - SDK for the Steadfast Courier API (parcel create, track, cancel). MIT.
+- [steadfast-courier](https://pypi.org/project/steadfast-courier/) - Python client for the Steadfast Courier API. MIT.
 
 Logistics, couriers and anti-fraud:
 
@@ -214,6 +257,7 @@ Logistics, couriers and anti-fraud:
 - [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted OSINT exposure checker for email, username, phone and password leaks; 22 keyless sources, HIBP k-anonymity, no API keys. MIT.
 - [2mny-security-scan](https://github.com/RanaKhan77/2mny-security-scan) - Continuous security-scan platform powering 2mny.com.
 - [BDIX servers checker](https://github.com/0xAhmadYousuf/BDIX) - Check and list BDIX-hosted servers. MIT.
+- [bdix-tester](https://gitlab.com/farhansadik/bdix-tester) - Test which sites, FTP and download links are alive over BDIX (GitLab). Licenced (see repo).
 
 ## 🏛️ Civic tech & public services
 
@@ -221,6 +265,7 @@ Logistics, couriers and anti-fraud:
 - [nyayota](https://github.com/afnan0356/nyayota) - Bangladeshi legal information platform. MIT.
 - [desco-prepaid-api](https://github.com/KhBayazidAhmed/desco-prepaid-api) - DESCO prepaid electricity meter API documentation. ⚠️ No licence file.
 - [metrox-app](https://github.com/fahim2443/metrox-app) - Dhaka Metro Rail NFC card balance app. MIT.
+- [electric-bill-bd](https://www.npmjs.com/package/electric-bill-bd) - Electricity bill calculator for DESCO, DPDC, NESCO and other utilities. MIT.
 
 ## 🚨 Crisis response
 
@@ -241,6 +286,9 @@ Logistics, couriers and anti-fraud:
 - [bd-divisons-to-unions](https://github.com/Azim-Ahmed/bd-divisons-to-unions) - Division-to-union lookup data. ISC.
 - [bd-geographical-data-api](https://github.com/md-redwan-hossain/bd-geographical-data-api) - REST API for Bangladesh geographical data. MIT.
 - [bd_gis](https://github.com/deluair/bd_gis) - 40-year geospatial analysis of the Sylhet haor region. MIT.
+- [manchitro](https://www.npmjs.com/package/manchitro) - Typed SVG maps of all 64 Bangladesh districts (মানচিত্র = map). MIT.
+- [Geofabrik Bangladesh extract](https://download.geofabrik.de/asia/bangladesh.html) - Regularly updated OpenStreetMap extract for Bangladesh, shapefile and GeoJSON. ODbL.
+- [OpenStreetMap Bangladesh](https://wiki.openstreetmap.org/wiki/Bangladesh) - Community hub for Bangladesh mapping efforts and import coordination. CC-BY-SA (wiki).
 
 ## 🎓 Education & learning
 
