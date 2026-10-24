@@ -42,6 +42,8 @@ scope and eligibility rules first.
 
 ## 🧰 Developer tools & libraries
 
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/developer-tools.md)
+
 - [DownGit](https://github.com/MinhasKamal/DownGit) - Download any GitHub directory or file as a zip archive. MIT.
 - [@waveinno/ui](https://www.npmjs.com/package/@waveinno/ui) - "The React design system from Bangladesh". MIT.
 - [banglaclaw](https://github.com/Entrogic/banglaclaw) - Web-scraping toolkit built for Bangladeshi use cases, also on [npm](https://www.npmjs.com/package/banglaclaw). Apache-2.0.
@@ -51,6 +53,8 @@ scope and eligibility rules first.
 - [vim-for-devops](https://github.com/maateen/vim-for-devops) - DevOps-tuned Vim configuration. Custom licence.
 
 ## 🗃️ Datasets & open data
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/datasets.md)
 
 Government portals:
 
@@ -114,6 +118,8 @@ International open-data hosts carrying Bangladesh data:
 
 ## 🔌 APIs & integrations
 
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/apis.md)
+
 - [bdapis](https://github.com/AbmSourav/bdapis) - REST API for divisions, districts, upazilas, thanas, post offices and postcodes in Bangla and English; live at [bdapis.com](https://bdapis.com/). MIT.
 - [bdapi4all](https://github.com/fakhrul62/bdapi4all) - One keyless API for BD geography, prayer times, holidays, exchange rates and validators. ⚠️ Licence unspecified.
 - [bd-apis](https://github.com/SudipMHX/bd-apis) - Community collection of Bangladesh-focused APIs. ⚠️ No licence file.
@@ -131,6 +137,8 @@ International open-data hosts carrying Bangladesh data:
 - [sms-service-with-bd-providers](https://github.com/sarahman/sms-service-with-bd-providers) - Laravel SMS service across BD providers. ⚠️ Licence unspecified.
 
 ## 🇧🇩 Bangla language & NLP
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/bangla-nlp.md)
 
 Input methods and phonetics:
 
@@ -192,6 +200,8 @@ Typesetting:
 
 ## 🤖 AI/ML & research
 
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/aiml.md)
+
 - [banglagov (Hugging Face)](https://huggingface.co/banglagov) - Official Hugging Face org of the Bangla.gov.bd government initiative: banGPT2-Base, banBERT-Base, banELECTRA-Base and banT5-Base pretrained models plus the Ban-Sign-Sent-9K sign-language dataset. Licence terms per model card.
 - [BanglaBERT](https://github.com/csebuetnlp/banglabert) - Pretrained Bangla language models from the BUET NLP group. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaNLG](https://github.com/csebuetnlp/BanglaNLG) - BanglaT5 generation and summarisation models. ⚠️ No licence file.
@@ -220,6 +230,8 @@ Typesetting:
 - [bangla-news-mcp](https://pypi.org/project/bangla-news-mcp/) - MCP server that retrieves live Bangla news into LLM contexts, by Abid Mohammad Jawad (open source, GitHub hurutta/bangla-news-mcp).
 
 ## 💒 Fintech & e-commerce
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/fintech.md)
 
 Official SDK families:
 
@@ -260,6 +272,8 @@ Logistics, couriers and anti-fraud:
 
 ## 🛡️ Cybersecurity & privacy
 
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/security.md)
+
 - [Website-Vulnerability-Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Open-source scanner with 202 deterministic modules: XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress and MCP/AI-LLM security. MIT.
 - [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted OSINT exposure checker for email, username, phone and password leaks; 22 keyless sources, HIBP k-anonymity, no API keys. MIT.
 - [2mny-security-scan](https://github.com/RanaKhan77/2mny-security-scan) - Continuous security-scan platform powering 2mny.com.
@@ -267,6 +281,8 @@ Logistics, couriers and anti-fraud:
 - [bdix-tester](https://gitlab.com/farhansadik/bdix-tester) - Test which sites, FTP and download links are alive over BDIX (GitLab). Licenced (see repo).
 
 ## 🏛️ Civic tech & public services
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/civic-tech.md)
 
 - [Bangla.gov.bd](https://bangla.gov.bd/bn) - The Bangladesh government's Bangla-language computing portal from the ICT Division (BCC): Kagaj AI writing assistant, Jijnsha AI government-service assistant, Borno OCR, the National Corpus, a Bangla spell checker, MS Word add-ins and free Bangla fonts, plus downloadable datasets and models on its [Hugging Face org](https://huggingface.co/banglagov). Free to use; licence terms stated per tool.
 - [protidhwani](https://github.com/ragib01-kuet/protidhwani) - Community safety intelligence platform. MIT.
@@ -277,12 +293,16 @@ Logistics, couriers and anti-fraud:
 
 ## 🚨 Crisis response
 
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/crisis-response.md)
+
 - [Nongor](https://github.com/AuvroIslam/Nongor) - Offline-first flood SOS and crisis companion for Bangladesh. MIT.
 - [mukto-mesh](https://github.com/HyperZx2O/mukto-mesh) - Community mesh-network hub born from the July 2024 internet shutdown. MIT.
 - [ResQ_Bangladesh](https://github.com/404Ah-Nafis/ResQ_Bangladesh) - Offline-first disaster response PWA. ⚠️ No licence file.
 - [HaorFloodAlert](https://github.com/shkoli/HaorFloodAlert) - Machine-learning flood prediction for the haor region. MIT.
 
 ## 🗺️ Geography & open maps
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/geography.md)
 
 - [bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode) - The classic division → district → upazila → union dataset with lat/long. MIT.
 - [bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Divisions, districts, upazilas, postcodes and full boundary GeoJSON; a model example of layered licensing (code MIT, OSM-derived layers ODbL, boundaries CC-BY-4.0).
@@ -300,6 +320,8 @@ Logistics, couriers and anti-fraud:
 
 ## 🎓 Education & learning
 
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/education.md)
+
 - [system-design-bangla](https://github.com/lahin31/system-design-bangla) - System design concepts explained in Bangla. MIT.
 - [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources) - The long-running collection of Bangla programming tutorials. MIT.
 - [interview-questions-bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh) - Interview experiences and questions from Bangladeshi tech companies. GPL-3.0.
@@ -316,6 +338,8 @@ Logistics, couriers and anti-fraud:
 - [F1.VISA.USA](https://github.com/MahediKamal/F1.VISA.USA) - Practical F-1 visa guide by a Bangladeshi engineer. MIT.
 
 ## 📚 Awesome lists & communities
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/awesome-lists.md)
 
 Specialist directories — we link to them, we do not copy their entries:
 
@@ -343,6 +367,8 @@ Communities and organisations:
 - [OmicronLab](https://github.com/OmicronLab) - Historic home of Avro Keyboard; current repositories are mirrors of the pre-GitHub project.
 
 ## 🏪 Developer services (not open)
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/services.md)
 
 Commercial and restricted services that Bangladeshi developers build against every day. These are **not open source** — they are listed so the directory reflects reality, with notes on what you can actually do. Open-source SDKs for them live in Fintech & e-commerce and APIs & integrations.
 
