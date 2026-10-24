@@ -25,10 +25,12 @@ jobs:
           #  - npmjs.com / crates.io / rubygems.org / packagist.org - registries reject bots with 403
           #  - *.gov.bd - Bangladesh government portals have TLS configs GitHub runners reject;
           #    they are checked manually during monthly verification passes
+          #  - nagad.com.bd / bb.org.bd / linkedin.com / banglaai.org - live sites that reject
+          #    or geo-block CI runners (403/999/regional 404); verified by hand instead
           args: >-
             --verbose --no-progress --max-retries 3
             --cache --max-cache-age 2d
-            --exclude 'crates\.io|rubygems\.org|packagist\.org|npmjs\.com|\.gov\.bd'
+            --exclude 'crates\.io|rubygems\.org|packagist\.org|npmjs\.com|\.gov\.bd|nagad\.com\.bd|bb\.org\.bd|linkedin\.com|banglaai\.org'
             './README.md' './docs/*.md' './CONTRIBUTING.md'
           fail: true
         env:
