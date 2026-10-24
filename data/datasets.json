@@ -12,9 +12,9 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "ogdnew.portal.gov.bd",
-  "url": "https://ogdnew.portal.gov.bd/",
-  "description": "National Open Government Data portal",
+  "name": "Open Government Data Portal",
+  "url": "https://ogdnew.sdg.gov.bd/",
+  "description": "National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets. Licence unspecified per dataset — verify on the dataset page before reuse.",
   "license": "unspecified",
   "bd_connection": {
    "tier": "C",
@@ -199,18 +199,6 @@
   "bd_connection": {
    "tier": "product",
    "evidence": "DhakaAI smart-city initiative data"
-  },
-  "section": "datasets",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "Postcodes-of-Bangladesh",
-  "url": "https://github.com/aiFdn/Postcodes-of-Bangladesh",
-  "description": "Postal code dataset",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "product",
-   "evidence": "Bangladesh postal data"
   },
   "section": "datasets",
   "last_verified": "2026-10-24"

@@ -17,6 +17,8 @@ point to (based-in-Bangladesh maintainer, verified diaspora maintainer, Banglade
 organisation, or a product explicitly built for Bangladesh) plus licence and activity
 information captured at verification time. Items we could not yet verify are tracked
 openly in the [verification queue](docs/verification-queue.md) instead of being listed.
+Items that went unmaintained move to [legacy.md](legacy.md) — still useful, honestly
+labelled with last-activity dates, never silently deleted.
 
 Maintained by [Rana Khan](https://github.com/RanaKhan77). Contributions welcome — see
 [Contributing](CONTRIBUTING.md), and please read the
@@ -53,14 +55,13 @@ scope and eligibility rules first.
 Government portals:
 
 - [Bangladesh Open Data Portal](https://data.gov.bd/) - ~90 datasets from 35+ ministries (economy, health, education, agriculture). ⚠️ Licence unspecified per dataset — verify on the dataset page before reuse.
-- [Open Government Data Portal](https://ogdnew.portal.gov.bd/) - National OGD portal with 130+ datasets. ⚠️ Licence unspecified.
+- [Open Government Data Portal](https://ogdnew.sdg.gov.bd/) - National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets. ⚠️ Licence unspecified — verify on the dataset page before reuse.
 - [Bangladesh Bureau of Statistics](https://bbs.gov.bd/) - Official statistics, surveys and census downloads. ⚠️ Licence unspecified per release.
 
 Curated datasets on GitHub and Hugging Face:
 
 - [Bangladesh-Administrative-Data](https://github.com/goshamishagar/Bangladesh-Administrative-Data) - Administrative divisions with Bangla and English names. CC0-1.0.
 - [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) - Bangla alphabet dataset for ML. MIT.
-- [medicinedb](https://github.com/WSAyan/medicinedb) - Bangladeshi medicine information dataset. MIT.
 - [Bangladesh-Legal-Acts-Dataset](https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset) - Laws of Bangladesh, machine-readable. CC-BY-4.0.
 - [bangla-bagdhara](https://huggingface.co/datasets/sakhadib/bangla-bagdhara) - Bangla idioms (bagdhara) dataset. CC-BY-SA-4.0.
 - [xlsum](https://huggingface.co/datasets/csebuetnlp/xlsum) - Large-scale multilingual summarisation dataset covering Bangla news. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
@@ -90,7 +91,7 @@ Notable Kaggle datasets about Bangladesh:
 - [bdapi4all](https://github.com/fakhrul62/bdapi4all) - One keyless API for BD geography, prayer times, holidays, exchange rates and validators. ⚠️ Licence unspecified.
 - [bd-apis](https://github.com/SudipMHX/bd-apis) - Community collection of Bangladesh-focused APIs. ⚠️ No licence file.
 - [bangla-apis](https://github.com/rdnasim/bangla-apis) - Curated directory of BD-context APIs (payments, couriers, SMS, government, banking, laws) with auth/pricing columns; reviewed October 2026. Linked as a reference directory (no licence — data is not copied).
-- [Frankfurter](https://www.frankfurter.app/) - Free, keyless ECB foreign-exchange reference rates including BDT (external service, useful until Bangladesh Bank publishes an API).
+- [ExchangeRate-API open endpoint](https://open.er-api.com/v6/latest/BDT) - Free, keyless exchange rates for BDT, refreshed daily (community endpoint of ExchangeRate-API; external service, useful until Bangladesh Bank publishes an API).
 - [Prothom Alo RSS](https://www.prothomalo.com/feed) - Verified RSS 2.0 feed of the leading Bangla daily.
 - [The Daily Star RSS](https://www.thedailystar.net/frontpage/rss.xml) - Front-page feed of the leading English daily.
 - [barta](https://github.com/iRaziul/barta) - Bangladeshi SMS gateways for Laravel. MIT.
@@ -112,14 +113,12 @@ Input methods and phonetics:
 - [Bongo](https://github.com/mehedishakeel/Bongo) - Cross-platform Avro-style phonetic keyboard for macOS, Windows, Linux and Android, built on the riti engine (15★). MPL-2.0.
 - [@subhesadek/avro-phonetic](https://www.npmjs.com/package/@subhesadek/avro-phonetic) - Avro Phonetic parser for the web. MPL-2.0.
 - [avro.py](https://github.com/hitblast/avro.py) - Avro Phonetic parser in Python. Apache-2.0.
-- [go-avro-phonetic](https://github.com/sadlil/go-avro-phonetic) - Avro Phonetic parser in Go. MIT.
 - [Bijoy2Unicode](https://github.com/JehadurRE/Bijoy2Unicode) - Bijoy to Unicode converter. MIT.
 
 Rust crates by the OpenBangla community:
 
 - [okkhor](https://crates.io/crates/okkhor) - Unicode to Bijoy and back (20k downloads).
 - [poriborton](https://crates.io/crates/poriborton) - Unicode-Bijoy converter library (16.6k downloads).
-- [rupantor](https://crates.io/crates/rupantor) - Avro Phonetic parser (13.5k downloads); developed at [OpenBangla/rupantor-rs](https://github.com/OpenBangla/rupantor-rs) (32★). MPL-2.0.
 - [upodesh](https://crates.io/crates/upodesh) - Autosuggest engine for Bangla input.
 - [emojicon](https://crates.io/crates/emojicon) - Emoji handling with Bangla text (18.8k downloads).
 - [ponjika](https://crates.io/crates/ponjika) - Bengali (Bangladeshi) calendar library.
@@ -135,7 +134,6 @@ NLP toolkits and models:
 - [Nirmol](https://github.com/Sigmakib2/Nirmol) - Bangla slang detection dataset and API. ⚠️ No licence file.
 - [BengaliDictionary](https://github.com/MinhasKamal/BengaliDictionary) - English-to-Bengali dictionary dataset and tools. GPL-3.0.
 - [avro-bangla-autocorrect-dictionary-enriched](https://github.com/afnan-hossain/avro-bangla-autocorrect-dictionary-enriched) - Enriched Avro autocorrect dictionary. ⚠️ No licence file.
-- [bd-newspaper-crawlers](https://github.com/KSMubasshir/bd-newspaper-crawlers) - Crawlers for Bangladeshi newspaper archives. MIT.
 - [laya-bangla](https://github.com/shamspias/laya-bangla) - Bangla-first LLM routing layer. Apache-2.0.
 - [bangla-embed-e5-small-banglish](https://huggingface.co/kazalbrur/bangla-embed-e5-small-banglish) - Bangla/Banglish sentence embeddings. MIT.
 - [bangla-asr-conformer-120m-dialects](https://huggingface.co/kazalbrur/bangla-asr-conformer-120m-dialects) - Dialect-aware Bangla speech recognition. Apache-2.0.
@@ -143,10 +141,6 @@ NLP toolkits and models:
 Dates, numbers and text utilities:
 
 - [number-to-bangla](https://github.com/rakibdevs/number-to-bangla) - Convert numbers to Bangla words and digits (Laravel/PHP). MIT.
-- [easy-bangla-date](https://packagist.org/packages/ronisaha/easy-bangla-date) - Bangla date conversion for PHP.
-- [bangla-calendar](https://www.npmjs.com/package/bangla-calendar) - Bangla calendar for JavaScript. MIT.
-- [to_bn](https://rubygems.org/gems/to_bn) - English-to-Bangla numeral conversion for Ruby.
-- [BanglaToEnglish](https://rubygems.org/gems/BanglaToEnglish) - Bangla-to-English text conversion for Ruby.
 - [bangla-to-banglish](https://www.npmjs.com/package/bangla-to-banglish) - Bangla script to Banglish transliteration. MIT.
 - [bangla-likhi](https://www.npmjs.com/package/bangla-likhi) - Bangla typing made easy. MIT.
 - [bangla-pdf](https://www.npmjs.com/package/bangla-pdf) - Generate PDFs with Bangla text (Node). BSD-3-Clause.
@@ -173,13 +167,10 @@ Typesetting:
 - [graphemePrepare](https://github.com/BengaliAI/graphemePrepare) - Grapheme recognition data preparation. MIT.
 - [BanglaConformer](https://huggingface.co/bengaliAI/BanglaConformer) - Conformer-based Bangla speech recognition model. MIT.
 - [BangalASR](https://github.com/menon92/BangalASR) - Automatic Bangla speech recognition experiments. MIT.
-- [BanglaTranslator](https://github.com/menon92/BanglaTranslator) - Bangla machine translation experiments. MIT.
 - [Bangla-Word2Vec](https://github.com/menon92/Bangla-Word2Vec) - Pretrained Bangla word embeddings. MIT.
-- [bengalianalyzer](https://github.com/BengaliAI/bengaliAnalyzer) - Bengali text analysis library. BSD-3-Clause.
 - [banglanlptoolkit](https://pypi.org/project/banglanlptoolkit/) - All-in-one Bangla NLP toolkit from ACI MIS AI and Intelsense AI teams. ⚠️ Licence unspecified.
 - [BanglaBBQ](https://github.com/SummitAnthony/BanglaBBQ-benchmark) - Bias benchmark for question answering in the Bangladeshi context. MIT.
 - [bangla-speech-to-text-benchmark](https://github.com/riverbornai/bangla-speech-to-text-benchmark) - Open benchmark of eight Bengali speech-to-text APIs (Sarvam, Deepgram, Gemini, OpenAI, Groq Whisper and others) on 1,001 Bangla audio clips. MIT.
-- [satellite_image_tinhouse_detector](https://github.com/yasserius/satellite_image_tinhouse_detector) - Detecting tin-roof houses from Bangladesh satellite imagery. ⚠️ No licence file.
 
 ## 💒 Fintech & e-commerce
 
@@ -188,15 +179,10 @@ Official SDK families:
 - [shurjopay-plugins](https://github.com/shurjopay-plugins) - 12 official shurjoPay SDKs: Flutter, Java, Spring, JS, PHP, Python, Node.js, .NET, Rust and usage examples. MIT.
 - [sslcommerz](https://github.com/sslcommerz) - Official SSLCommerz integrations (Laravel, PHP, Flutter, WooCommerce, ASP.NET) plus the [sslcommerz-lts](https://www.npmjs.com/package/sslcommerz-lts) npm package (12.5k monthly downloads). ⚠️ Repo licences not specified.
 - [UddoktaPay](https://github.com/UddoktaPay) - Official payment-automation SDKs including the Laravel SDK.
-- [@portwallet/nodejs-sdk](https://www.npmjs.com/package/@portwallet/nodejs-sdk) - Official PortWallet payment SDK. MIT.
 
 Community SDKs and integrations:
 
-- [bkash (PHP)](https://github.com/Shipu/bkash) - bKash payment client for PHP (187★). MIT.
-- [bkash-payment-gateway (Node)](https://github.com/shahriar-shojib/bkash-payment-gateway) - bKash Tokenized Checkout for Node.js. MIT.
-- [nagad-payment-gateway (Node)](https://github.com/shahriar-shojib/nagad-payment-gateway) - Nagad payment integration for Node.js. MIT.
 - [laravel-bkash-tokenize](https://packagist.org/packages/karim007/laravel-bkash-tokenize) - bKash Tokenized Checkout for Laravel (37k downloads).
-- [laravel-sslcommerz](https://packagist.org/packages/dgvai/laravel-sslcommerz) - SSLCommerz for Laravel (53k downloads).
 - [sslcommerz-laravel](https://github.com/iRaziul/sslcommerz-laravel) - Clean SSLCommerz integration for Laravel. MIT.
 - [nagadApi](https://github.com/arif98741/nagadApi) - Nagad payment API for PHP. ⚠️ No licence file.
 - [nagad-api](https://packagist.org/packages/xenon/nagad-api) - Nagad API client for Laravel.
@@ -207,7 +193,6 @@ Community SDKs and integrations:
 - [takaden](https://github.com/saagoor/takaden) - bKash, Nagad, Rocket and Upay payments for Laravel. MIT.
 - [laravel-bdpaygate](https://github.com/byteminus/laravel-bdpaygate) - Every Bangladeshi payment gateway behind one Laravel API, with [bdpaygate-js](https://github.com/byteminus/bdpaygate-js) for Node. MIT.
 - [bkash (Laravel, msilabs)](https://github.com/msilabs/bkash) - bKash API for Laravel. MIT.
-- [sslcommerz-sdk](https://pypi.org/project/sslcommerz-sdk/) - SSLCommerz client for Python. MIT.
 - [paykit-bd](https://www.npmjs.com/package/paykit-bd) - Payment clients for Bangladeshi gateways. MIT.
 - [bkash-js](https://www.npmjs.com/package/bkash-js) - bKash web client. MIT.
 - [react-bangla-pay-icons](https://www.npmjs.com/package/react-bangla-pay-icons) - Bangladeshi payment brand icons as React components. MIT.
@@ -232,7 +217,6 @@ Logistics, couriers and anti-fraud:
 
 ## 🏛️ Civic tech & public services
 
-- [bd-income-tax-calculator](https://github.com/ssi-anik/bd-income-tax-calculator) - Bangladeshi income tax calculator (87★). MPL-2.0.
 - [protidhwani](https://github.com/ragib01-kuet/protidhwani) - Community safety intelligence platform. MIT.
 - [nyayota](https://github.com/afnan0356/nyayota) - Bangladeshi legal information platform. MIT.
 - [desco-prepaid-api](https://github.com/KhBayazidAhmed/desco-prepaid-api) - DESCO prepaid electricity meter API documentation. ⚠️ No licence file.
@@ -240,7 +224,7 @@ Logistics, couriers and anti-fraud:
 
 ## 🚨 Crisis response
 
-- [Nongor](https://github.com/AuvroIslam/Nongor) - Offline-first flood SOS and crisis companion for Bangladesh (173★). MIT.
+- [Nongor](https://github.com/AuvroIslam/Nongor) - Offline-first flood SOS and crisis companion for Bangladesh (157★). MIT.
 - [mukto-mesh](https://github.com/HyperZx2O/mukto-mesh) - Community mesh-network hub born from the July 2024 internet shutdown. MIT.
 - [ResQ_Bangladesh](https://github.com/404Ah-Nafis/ResQ_Bangladesh) - Offline-first disaster response PWA. ⚠️ No licence file.
 - [HaorFloodAlert](https://github.com/shkoli/HaorFloodAlert) - Machine-learning flood prediction for the haor region. MIT.
@@ -255,10 +239,8 @@ Logistics, couriers and anti-fraud:
 - [@bangladeshi/bangladesh-address](https://www.npmjs.com/package/@bangladeshi/bangladesh-address) - Divisions, districts and upazilas as structured data. MIT.
 - [bangladesh-location-data](https://www.npmjs.com/package/bangladesh-location-data) - Location datasets for JavaScript apps. MIT.
 - [bd-divisons-to-unions](https://github.com/Azim-Ahmed/bd-divisons-to-unions) - Division-to-union lookup data. ISC.
-- [bangladesh_geojson_shapefile](https://github.com/yasserius/bangladesh_geojson_shapefile) - GeoJSON and shapefile exports of Bangladesh boundaries. ⚠️ No licence file.
 - [bd-geographical-data-api](https://github.com/md-redwan-hossain/bd-geographical-data-api) - REST API for Bangladesh geographical data. MIT.
 - [bd_gis](https://github.com/deluair/bd_gis) - 40-year geospatial analysis of the Sylhet haor region. MIT.
-- [Postcodes-of-Bangladesh](https://github.com/aiFdn/Postcodes-of-Bangladesh) - Postal code dataset (dormant but clean). MIT.
 
 ## 🎓 Education & learning
 
@@ -269,7 +251,7 @@ Logistics, couriers and anti-fraud:
 - [Competitive-Programming-Reference-Bangla](https://github.com/kabirpofficial/Competitive-Programming-Reference-Bangla) - Competitive programming reference in Bangla (256★). GPL-3.0.
 - [DL-Sneak-Peek](https://github.com/menon92/DL-Sneak-Peek) - Deep learning resources in Bangla (186★). Apache-2.0.
 - [montu-mia](https://github.com/KhanShaheb34/montu-mia) - সিস্টেম ডিজাইন educational toolkit in Bangla (148★). Custom licence.
-- [CSE-Passport](https://github.com/naemazam/CSE-Passport) - Resources for every CSE student in Bangladesh (101★). MIT.
+- [CSE-Passport](https://github.com/naemazam/CSE-Passport) - Resources for every CSE student in Bangladesh (100★). MIT.
 - [wordpress-developer-guideline-bangla](https://github.com/nayanchamp7/wordpress-developer-guideline-bangla) - WordPress development guidelines in Bangla (65★). GPL-3.0.
 - [nsu-study-stash](https://github.com/WinTer1165/nsu-study-stash) - Course archive for North South University students. Custom licence.
 - [RUET-OJ](https://github.com/shawon100/RUET-OJ) - Online judge used at RUET. MIT.
@@ -320,7 +302,7 @@ Commercial and restricted services that Bangladeshi developers build against eve
 | [Barikoi](https://docs.barikoi.com/)                                                                                                                                                                                  | BD geocoding, routing, Bangla address parsing (Rupantor) | Freemium                                              | Free tier for low volume; SDKs are open source                                                                                       |
 | [Porichoy](https://porichoy.gov.bd/)                                                                                                                                                                                  | Government NID/KYC verification                          | Paid merchant contract                                | Budget for it if you need real identity checks                                                                                       |
 | BD SMS gateways ([BulkSMSBD](https://bulksmsbd.com/), [Alpha SMS](https://www.alpha.net.bd/sms/), [SSL Wireless](https://sslwireless.com/), [MiM SMS](https://www.mimsms.com/), [GreenWeb](https://greenweb.com.bd/)) | Bulk/masking SMS                                         | Paid                                                  | Abstract them behind barta or laravelbdsms                                                                                           |
-| [Bangladesh Bank exchange rates](https://www.bb.org.bd/en/index.php/econdata/econposition)                                                                                                                            | Official taka rates                                      | No API; site terms apply                              | Use Frankfurter (ECB reference rates) for free BDT rates                                                                             |
+| [Bangladesh Bank exchange rates](https://www.bb.org.bd/en/index.php/econdata/econposition)                                                                                                                            | Official taka rates                                      | No API; site terms apply                              | Use the free keyless exchange-rate endpoint ([open.er-api.com](https://open.er-api.com/)) for BDT rates                              |
 | [Survey of Bangladesh](https://www.sob.gov.bd/)                                                                                                                                                                       | Official base maps and geodata                           | Verbatim terms: no reproduction, no export, no resale | Use [geoBoundaries](https://www.geoboundaries.org/) (CC-BY-4.0), HDX COD-AB (CC-BY-3.0 IGO) or OpenStreetMap (ODbL) instead          |
 | Bangladesh Meteorological Department                                                                                                                                                                                  | Weather and climate data                                 | Purchase                                              | Use open Kaggle weather datasets or NOAA for research                                                                                |
 | [Bangla AI Gateway](https://www.banglaai.org/)                                                                                                                                                                        | Commercial Bangla LLM/OCR API                            | Commercial                                            | Free SDKs ([npm](https://www.npmjs.com/package/bangla-ai), [PyPI](https://pypi.org/project/bangla-ai-sdk/)) against the paid gateway |

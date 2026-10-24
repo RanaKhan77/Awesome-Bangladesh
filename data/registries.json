@@ -24,18 +24,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "rupantor",
-  "url": "https://crates.io/crates/rupantor",
-  "description": "Avro Phonetic parser (Rust)",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "C",
-   "evidence": "https://github.com/OpenBangla"
-  },
-  "section": "bangla-nlp",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "upodesh",
   "url": "https://crates.io/crates/upodesh",
   "description": "Autosuggest engine for Bangla input",
@@ -93,18 +81,6 @@
    "evidence": "npm description: the React design system from Bangladesh"
   },
   "section": "developer-tools",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "bangla-calendar",
-  "url": "https://www.npmjs.com/package/bangla-calendar",
-  "description": "Bangla calendar for JavaScript",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/sh4hids (Feni)"
-  },
-  "section": "bangla-nlp",
   "last_verified": "2026-10-24"
  },
  {
@@ -180,18 +156,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "laravel-sslcommerz (dgvai)",
-  "url": "https://packagist.org/packages/dgvai/laravel-sslcommerz",
-  "description": "SSLCommerz for Laravel",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "B",
-   "evidence": "https://github.com/dgvai (Marietta GA, BD diaspora; package built for SSLCommerz BD)"
-  },
-  "section": "fintech",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "sslcommerz-laravel (iRaziul)",
   "url": "https://github.com/iRaziul/sslcommerz-laravel",
   "description": "SSLCommerz integration for Laravel",
@@ -201,18 +165,6 @@
    "evidence": "https://github.com/iRaziul (Bangladesh)"
   },
   "section": "fintech",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "easy-bangla-date",
-  "url": "https://packagist.org/packages/ronisaha/easy-bangla-date",
-  "description": "Bangla date conversion for PHP",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/ronisaha (Dhaka, BRAC IT)"
-  },
-  "section": "bangla-nlp",
   "last_verified": "2026-10-24"
  },
  {
@@ -237,30 +189,6 @@
    "evidence": "https://github.com/sarahman (Mirpur, Dhaka)"
   },
   "section": "apis",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "to_bn",
-  "url": "https://rubygems.org/gems/to_bn",
-  "description": "English-to-Bangla numerals (Ruby)",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/codedefine (Dhaka)"
-  },
-  "section": "bangla-nlp",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "BanglaToEnglish",
-  "url": "https://rubygems.org/gems/BanglaToEnglish",
-  "description": "Bangla-to-English conversion (Ruby)",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/antorkhan (Dhaka)"
-  },
-  "section": "bangla-nlp",
   "last_verified": "2026-10-24"
  },
  {
