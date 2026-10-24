@@ -21,10 +21,14 @@ jobs:
       - name: Run lychee
         uses: lycheeverse/lychee-action@v2
         with:
+          # Exclusions (verified by hand instead):
+          #  - npmjs.com / crates.io / rubygems.org / packagist.org - registries reject bots with 403
+          #  - *.gov.bd - Bangladesh government portals have TLS configs GitHub runners reject;
+          #    they are checked manually during monthly verification passes
           args: >-
             --verbose --no-progress --max-retries 3
             --cache --max-cache-age 2d
-            --exclude 'crates\.io|rubygems\.org|packagist\.org'
+            --exclude 'crates\.io|rubygems\.org|packagist\.org|npmjs\.com|\.gov\.bd'
             './README.md' './docs/*.md' './CONTRIBUTING.md'
           fail: true
         env:

@@ -958,5 +958,125 @@
   },
   "section": "education",
   "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla-Keyboard",
+  "url": "https://github.com/wpexpertinbd/Bangla-Keyboard",
+  "description": "Fixed-layout Bangla keyboard for macOS, Windows and Linux from one shared reordering engine",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/wpexpertinbd (Dhaka, Bangladesh)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BornoTSF",
+  "url": "https://github.com/JayedAhsan/BornoTSF",
+  "description": "Lightweight Windows Text Services Framework IME for Bangla typing, by Codepotro",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/JayedAhsan (Dhaka, Codepotro)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "khipro-m17n",
+  "url": "https://github.com/rank-coder/khipro-m17n",
+  "description": "Compositional Bangla input method for Linux, Windows and Android",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Khiproteam, Bangladesh - README and org pages"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bongo",
+  "url": "https://github.com/mehedishakeel/Bongo",
+  "description": "Cross-platform Avro-style phonetic keyboard built on the riti engine",
+  "license": "MPL-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Maintainer based in Bangladesh"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "obadh_engine",
+  "url": "https://github.com/unmukto-org/obadh_engine",
+  "description": "Deterministic rule-based Roman-to-Bangla transliteration engine in Rust, powering Obadh keyboards for Apple platforms",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://sayom.me (AIUB degree, meldCX Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "rupantor-rs",
+  "url": "https://github.com/OpenBangla/rupantor-rs",
+  "description": "Bengali phonetic parser in Rust; the parsing engine behind Avro-style typing (13k+ crate downloads)",
+  "license": "MPL-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "OpenBangla community (Bangladesh)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "LaTeXbangla",
+  "url": "https://github.com/Neehan/LaTeXbangla",
+  "description": "Write Bangla (and Assamese) with ordinary LaTeX",
+  "license": "LPPL-1.3c",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://adibhasan.com ('I grew up in Bangladesh')"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BOOKbangla",
+  "url": "https://github.com/Neehan/BOOKbangla",
+  "description": "Book class and templates for writing Bangla and Assamese books with LaTeX memoir",
+  "license": "LPPL-1.3c",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://adibhasan.com ('I grew up in Bangladesh')"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "HSC Stack",
+  "url": "https://github.com/hscstack/platform",
+  "description": "Curated free resource platform for Bangladesh HSC and SSC students",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "hscstack org, Dhaka, Bangladesh"
+  },
+  "section": "education",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangla-speech-to-text-benchmark",
+  "url": "https://github.com/riverbornai/bangla-speech-to-text-benchmark",
+  "description": "Open benchmark of eight Bengali speech-to-text APIs on 1,001 Bangla audio clips",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Riverborn AI, Bangladesh org"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-25"
  }
 ]

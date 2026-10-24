@@ -5,13 +5,13 @@ list. Anyone may supply evidence (a profile link, an org page, a README
 quote) via issue or PR — see [CONTRIBUTING](../CONTRIBUTING.md). Items with
 negative findings are marked so we do not re-research them endlessly.
 
-Last reviewed: 2026-10-24.
+Last reviewed: 2026-10-25.
 
 ## Missing Bangladesh-connection evidence
 
 | Item | What it is | What's missing | Where to look next |
 |---|---|---|---|
-| [olovajs/olova](https://github.com/olovajs/olova) | JS reactive framework, 183★, MIT | Any BD evidence at all — org page and README are silent | [org members page](https://github.com/orgs/olovajs/people), npm publisher, commit authors |
+| [olovajs/olova](https://github.com/olovajs/olova) | JS reactive framework, 183★, MIT | Any BD evidence at all — org page and README are silent | [org page](https://github.com/olovajs) (members list is hidden), npm publisher, commit authors |
 | [BanglaLLM](https://github.com/BanglaLLM) | Bangla LLM datasets org (bangla-alpaca-orca on HF) | Org location/description empty; only hint is a community reference | Org members, dataset card authors |
 | [Kowsher](https://github.com/Kowsher) | BanglaFastText (PyPI), bangla-bert (HF), ekushey fonts module | Location shows "UCF", no country evidence | Personal site, university pages, co-authors |
 | [EMTIAZZ](https://huggingface.co/EMTIAZZ) | bangladeshi-bangla-tts-vits model | Profile has only a first name, no affiliation | Model card, paper, social accounts |
@@ -65,3 +65,34 @@ Last reviewed: 2026-10-24.
 - **bdnews24 legacy RSS URL** — returns HTML, not a feed.
 - **bulksmsbd.com API endpoint** — connection failure from our sandbox at
   audit time; the service itself may still be up for customers.
+
+## From the October 2026 community-suggestion review
+
+Forty-two suggested repositories were reviewed (plus twenty discovered during research).
+Ten met the full bar and were added to the list; four BDIX IPTV collections were rejected
+on scope (they distribute pirated streams); the rest are queued below, strongest first.
+
+| Item | What it is | What's missing | Where to look next |
+|---|---|---|---|
+| [afnan-samin/lipilab](https://github.com/afnan-samin/lipilab) | Online Bangla dictionary lab, hosted at lipilab.pro.bd | LICENSE file is all-rights-reserved | Instant entry if the maintainer relicences; watch for a licence change |
+| [OpenBangla/mul](https://github.com/OpenBangla/mul) | Bengali stemmer Rust crate (1.8k crate downloads) from the OpenBangla community | Low adoption vs our activity bar | Recheck adoption once downloads pass ~5k |
+| [shhossain/BanglaTTS](https://github.com/shhossain/BanglaTTS) | Offline Bangla text-to-speech by the BanglaSpeech2Text maintainer | No licence file | Licence addition; maintainer is already verified |
+| [banglatoolbox/banglatoolbox.github.io](https://github.com/banglatoolbox/banglatoolbox.github.io) | Bijoy to Unicode converter web app, Apache-2.0, BD maintainer, active | Low adoption; single-tool site | Recheck stars/usage after some growth |
+| [fahimscirex/bangla-fonts](https://github.com/fahimscirex/bangla-fonts) | Curated 200+ Bangla fonts collection (28 stars, Dhaka maintainer) | Licence of the fonts themselves vs the collection | Font licences; whether redistribution is clean |
+| [hmjoy17/lipik-dict](https://github.com/hmjoy17/lipik-dict) | 83,010-word dictionary for the privacy-focused Lipik Bangla keyboard | Source of the word list unclear | Provenance of the dictionary data |
+| [asiff00/bangla-pdf-ocr](https://github.com/asiff00/bangla-pdf-ocr) | Extract Bangla text from PDFs (MIT, 22 stars) | Last push Oct 2024 - going stale | Any sign of renewed activity |
+| [ardevcraft/bangla_pdf_fixer](https://github.com/ardevcraft/bangla_pdf_fixer) | Flutter package fixing broken Bangla fonts in PDFs (Apache-2.0, 7 stars) | New project, adoption unproven | pub.dev download stats |
+| [open-admin-data/bangladesh-administrative-divisions](https://github.com/open-admin-data/bangladesh-administrative-divisions) | CC BY 4.0 full admin hierarchy dataset (8 divisions / 64 districts) | Maintainer identity unknown | Org page, data lineage |
+| [sunrisesineast/bangladesh-grid](https://github.com/sunrisesineast/bangladesh-grid) | Dashboard on PGCB public grid data | Unofficial; unclear maintenance path | Maintainer profile, PGCB data terms |
+| [COS-IT-FLOWS/RT_Flood_Monitoring_System](https://github.com/COS-IT-FLOWS/RT_Flood_Monitoring_System) | Real-time flood monitoring (EQUINOCT / UNILOD, MIT) | Deployment for Bangladesh unclear | Project reports, BD pilot evidence |
+| [khalilurrrahmanridoykhan/bangladesh-dengue-2018-2025](https://github.com/khalilurrrahmanridoykhan/bangladesh-dengue-2018-2025) | Reproducible national dengue analysis (MIT, active) | New, zero adoption | Dataset provenance (DGHS citations) |
+| [Druvo/Bangladesh](https://github.com/Druvo/Bangladesh) | PyPI package of Bangladesh districts and data (Dhaka maintainer, MIT) | New, low adoption | PyPI download stats |
+| [Iamsdt/awesome-bengali-ai](https://github.com/Iamsdt/awesome-bengali-ai) | Companion awesome list for Bengali AI (MIT, Khulna maintainer) | List quality/maintenance depth | Sustained updates |
+| [kishormorol/BanglaNLP-Hub](https://github.com/kishormorol/BanglaNLP-Hub) | Community catalog of Bangla NLP resources (MIT, 11 stars) | Overlap with existing NLP sections | Differentiation from bnlp/bnltk listings |
+| [AbiruzzamanMolla/bangla-ocr-by-abir](https://github.com/AbiruzzamanMolla/bangla-ocr-by-abir) | Bangla OCR toolkit by an already-listed maintainer (MIT) | Early stage | Adoption and accuracy results |
+| [muhib-karim/Rambler-Bangla](https://github.com/muhib-karim/Rambler-Bangla) | Gboard smali patcher for Bengali-first voice typing (GPL-3.0) | Bangladesh connection of the maintainer | Maintainer profile |
+| [Al-Mahamud/kagoj](https://github.com/Al-Mahamud/kagoj) | Flutter e-paper reader (KUET maintainer, MIT, active) | Zero adoption so far | Any release or store listing |
+
+Rejected with reasons (do not re-research): four BDIX IPTV M3U collections
+(Rokon-IPTV, BDXI_KB, bdiptv, Mrgify-BDIX-IPTV) distribute pirated television
+streams - excluded on scope regardless of popularity.
