@@ -192,18 +192,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "bd_location",
-  "url": "https://rubygems.org/gems/bd_location",
-  "description": "BD location data (Ruby)",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/tauhidul35 (Banani, Dhaka)"
-  },
-  "section": "geography",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "bkash-js",
   "url": "https://www.npmjs.com/package/bkash-js",
   "description": "bKash web client",
