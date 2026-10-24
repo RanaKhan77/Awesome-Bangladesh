@@ -30,6 +30,10 @@ Reasons are labelled per item:
 - [laravel-sslcommerz](https://packagist.org/packages/dgvai/laravel-sslcommerz) — SSLCommerz for Laravel. 53.9k downloads. Last release 2022-03 (4.7y).
 - [BanglaTranslator](https://github.com/menon92/BanglaTranslator) — Bangla machine translation experiments. Apache-2.0. Last push 2021 (4.6y); a transformers-era experiment repo.
 
+- [WikiTextCorpusDownloader](https://github.com/Rajan-sust/WikiTextCorpusDownloader) — Language-independent Wikipedia text-corpus downloader by a Sylhet-based researcher. No licence file; last push 2019-11 (6.9y). The tool still runs; Wikipedia's API changes may need small patches.
+- [bangla-ocr](https://github.com/kmhasan-class/bangla-ocr) — Bangla OCR research code from a Dhaka CS faculty account. MIT. Last push 2016 (10y); kept as research history.
+- [Katha Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) — First-generation Bangla text-to-speech from the BLPI group (incl. Mumit Khan, BRAC University). Beta releases 2009–2010 on SourceForge; a founding artefact of BD speech research.
+- [pakhi-bhasha](https://github.com/Shafin098/pakhi-bhasha) — Dynamically typed Bangla programming language written in Rust, by a Dhaka developer. MIT. Last push 2021-07 (5.3y); language and playground still work.
 ## Stale data
 
 - [medicinedb](https://github.com/WSAyan/medicinedb) — Bangladeshi medicine information dataset. MIT. Last push 2021 (5.1y). The project's own README notes the data is years old — the drug market moves faster than the dataset.

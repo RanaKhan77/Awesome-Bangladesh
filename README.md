@@ -42,8 +42,8 @@ scope and eligibility rules first.
 
 ## 🧰 Developer tools & libraries
 
-- [DownGit](https://github.com/MinhasKamal/DownGit) - Download any GitHub directory or file as a zip archive; 2.2k★. MIT.
-- [@waveinno/ui](https://www.npmjs.com/package/@waveinno/ui) - "The React design system from Bangladesh", 2.7k monthly downloads. MIT.
+- [DownGit](https://github.com/MinhasKamal/DownGit) - Download any GitHub directory or file as a zip archive. MIT.
+- [@waveinno/ui](https://www.npmjs.com/package/@waveinno/ui) - "The React design system from Bangladesh". MIT.
 - [banglaclaw](https://github.com/Entrogic/banglaclaw) - Web-scraping toolkit built for Bangladeshi use cases, also on [npm](https://www.npmjs.com/package/banglaclaw). Apache-2.0.
 - [filex-editor](https://www.npmjs.com/package/filex-editor) - Bangla-first terminal text editor. MIT.
 - [Online-Compiler](https://github.com/shawon100/Online-Compiler) - Self-hosted online compiler platform. ⚠️ No licence file.
@@ -68,15 +68,16 @@ Curated datasets on GitHub and Hugging Face:
 - [BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT) - Bangla-English parallel corpus. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) - Bangla speech corpus. CC0-1.0.
 - [titulm-bangla-corpus](https://huggingface.co/datasets/hishab/titulm-bangla-corpus) - 24.3M-document Bangla pre-training corpus (147 GB) from Hishab, the Dhaka AI company behind the TituLM family. CC-BY-4.0.
-- [BanglaEng-SynCorpus](https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus) - Synthetic Bangla-English parallel corpus built by SUST CSE faculty (926 downloads). CC-BY-4.0.
+- [BanglaEng-SynCorpus](https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus) - Synthetic Bangla-English parallel corpus built by SUST CSE faculty. CC-BY-4.0.
 - [SUBAK.KO](https://huggingface.co/datasets/SUST-CSE-Speech/SUBAK.KO) - Bangla speech corpus from the SUST CSE speech lab. CC-BY-4.0.
 - [Bengali.AI datasets portal](https://www.bengali.ai/datasets/) - Open training partitions for Bengali language research (Ben-10, document layout, speech, handwriting) hosted on Kaggle and Hugging Face.
 - [Numta](https://github.com/BengaliAI/Numta) - Handwritten Bangla digit dataset. MIT.
 - [BADLAD](https://github.com/BengaliAI/BADLAD) - Bangla document layout analysis dataset. ⚠️ No licence file.
 - [BanglaSocialBias](https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias) - Social bias measurement dataset for Bangla. CC-BY-4.0.
-- [bangladeshi-jobs](https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs) - Weekly-refreshed Bangladeshi tech-jobs dataset (902 downloads). CC-BY-4.0.
-- [Bangla_Financial_news](https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset) - Bangla financial news corpus used for DSE stock prediction research (1,049 downloads). CC0-1.0.
-- [bangladesh-stock-market-dataset](https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset) - Dhaka Stock Exchange daily data for ABBANK to BRACBANK and beyond (835 downloads). CC-BY-4.0.
+- [bangladeshi-jobs](https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs) - Weekly-refreshed Bangladeshi tech-jobs dataset. CC-BY-4.0.
+- [Bangla_Financial_news](https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset) - Bangla financial news corpus used for DSE stock prediction research. CC0-1.0.
+- [bangladesh-stock-market-dataset](https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset) - Dhaka Stock Exchange daily data for ABBANK to BRACBANK and beyond. CC-BY-4.0.
+- [MediBeng](https://huggingface.co/datasets/pr0mila-gh0sh/MediBeng) - Synthetic code-switched Bengali-English clinical dialogues (audio, parallel text, speaker metadata) for ASR, TTS and translation research, by a Khulna-based researcher. CC-BY-4.0.
 - [BanglishRev e-commerce reviews](https://huggingface.co/datasets/BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset) - 1.74M Daraz reviews, Bangla-English code-mixed; companion paper by UIU Dhaka faculty (arXiv 2412.13161). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaRQA](https://huggingface.co/datasets/sartajekram/BanglaRQA) - Reading-comprehension benchmark in Bangla from University of Chittagong researchers. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [Bangla-Instruct](https://huggingface.co/datasets/md-nishat-008/Bangla-Instruct) - 172k instruction-tuning pairs built from 163 NCTB textbooks (ACL 2025). MIT.
@@ -98,13 +99,18 @@ Notable Kaggle datasets about Bangladesh:
 - [Dengue and Weather Data Bangladesh](https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh-20222025) - Spatio-temporal dengue + weather data from DGHS, all eight divisions. CC-BY-4.0.
 - [July Revolution Sentiment (Bangla)](https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla) - Public-sentiment corpus from the July 2024 uprising; companion paper arXiv 2507.11084. CC-BY-4.0.
 - [Bengali OCR Dataset 1M](https://www.kaggle.com/datasets/mnsm92/bengali-ocr-dataset-1m) - 1M annotated printed and handwritten images for Bangla OCR. MIT.
-- [SUBESCO Bangla Speech Emotion](https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset) - Audio-only emotional speech corpus from SUST researchers (1,106 downloads). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
+- [BanglaLekha-Isolated](https://data.mendeley.com/datasets/hf6sf8zrkc/2) - 166,105 handwritten isolated-character images (50 basic, 10 numerals, 24 compound) with writer demographics and aesthetic-quality ratings, from University of Liberal Arts Bangladesh researchers; companion paper in Data in Brief. CC-BY-4.0.
+- [SUBESCO Bangla Speech Emotion](https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset) - Audio-only emotional speech corpus from SUST researchers. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [Bangla Isolated Speech Dataset](https://www.kaggle.com/datasets/mehrabhosain/bangla-isolated-speech-dataset) - 1,800 isolated-word samples in Bangla and English (published 2025; also on Mendeley Data). LGPL-3.0.
+
+- [BangladeshExport Export Statistics](https://bangladeshexport.com/export-statistics) - Bangladesh export statistics organised from official sources (EPB, Bangladesh Bank, NBR Customs, BIDA): monthly and full-year totals, HS-code product breakdowns, top destinations and regional splits, with downloadable XLSX and source-link dates shown. Free to access.
 
 International open-data hosts carrying Bangladesh data:
 
 - [IOM NPM Cox's Bazar UAV imagery](https://data.humdata.org/dataset/iom-npm-cox-bazar-uav-imagery) - Needs and Population Monitoring imagery for the Rohingya refugee camps, from IOM Bangladesh. CC-BY-4.0 (HDX open licence).
 - [OpenDengue](https://doi.org/10.6084/m9.figshare.24259573) - Open global dengue case database including Bangladesh monthly and daily DGHS-sourced series. CC-BY-4.0.
+- [Common Voice Scripted Speech 27.0 (Bengali)](https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r) - Mozilla's official current Bengali scripted-speech release: over a million clips and 1,277 hours of read speech from 23,019 speakers — a newer, larger distribution than the [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) copy above. CC0-1.0.
+- [Bengali Wikipedia dumps](https://dumps.wikimedia.org/bnwiki/latest/) - Wikimedia's always-current database dumps of the Bengali Wikipedia — the canonical raw corpus behind most Bangla NLP work, pages-articles multistream included. Content CC BY-SA; dumps free to download.
 
 ## 🔌 APIs & integrations
 
@@ -133,20 +139,20 @@ Input methods and phonetics:
 - [jsAvroPhonetic](https://github.com/torifat/jsAvroPhonetic) - Avro Phonetic conversion in JavaScript. ⚠️ No licence file.
 - [iAvro](https://github.com/torifat/iAvro) - Avro Phonetic for macOS. ⚠️ No licence file.
 - [Lekho](https://github.com/ARahim3/Lekho) - Avro Phonetic input for Apple Silicon Macs. Custom licence.
-- [Bangla-Keyboard](https://github.com/wpexpertinbd/Bangla-Keyboard) - Fixed-layout Bangla keyboard for macOS, Windows and Linux from one shared reordering engine (43★). MIT.
-- [BornoTSF](https://github.com/JayedAhsan/BornoTSF) - Lightweight Windows Text Services Framework IME for Bangla typing, by Codepotro (27★). GPL-3.0.
-- [khipro-m17n](https://github.com/rank-coder/khipro-m17n) - Compositional Bangla input method - neither phonetic nor an app - for Linux, Windows and Android (47★). MIT.
-- [Bongo](https://github.com/mehedishakeel/Bongo) - Cross-platform Avro-style phonetic keyboard for macOS, Windows, Linux and Android, built on the riti engine (15★). MPL-2.0.
+- [Bangla-Keyboard](https://github.com/wpexpertinbd/Bangla-Keyboard) - Fixed-layout Bangla keyboard for macOS, Windows and Linux from one shared reordering engine. MIT.
+- [BornoTSF](https://github.com/JayedAhsan/BornoTSF) - Lightweight Windows Text Services Framework IME for Bangla typing, by Codepotro. GPL-3.0.
+- [khipro-m17n](https://github.com/rank-coder/khipro-m17n) - Compositional Bangla input method - neither phonetic nor an app - for Linux, Windows and Android. MIT.
+- [Bongo](https://github.com/mehedishakeel/Bongo) - Cross-platform Avro-style phonetic keyboard for macOS, Windows, Linux and Android, built on the riti engine. MPL-2.0.
 - [@subhesadek/avro-phonetic](https://www.npmjs.com/package/@subhesadek/avro-phonetic) - Avro Phonetic parser for the web. MPL-2.0.
 - [avro.py](https://github.com/hitblast/avro.py) - Avro Phonetic parser in Python. Apache-2.0.
 - [Bijoy2Unicode](https://github.com/JehadurRE/Bijoy2Unicode) - Bijoy to Unicode converter. MIT.
 
 Rust crates by the OpenBangla community:
 
-- [okkhor](https://crates.io/crates/okkhor) - Unicode to Bijoy and back (20k downloads).
-- [poriborton](https://crates.io/crates/poriborton) - Unicode-Bijoy converter library (16.6k downloads).
+- [okkhor](https://crates.io/crates/okkhor) - Unicode to Bijoy and back.
+- [poriborton](https://crates.io/crates/poriborton) - Unicode-Bijoy converter library.
 - [upodesh](https://crates.io/crates/upodesh) - Autosuggest engine for Bangla input.
-- [emojicon](https://crates.io/crates/emojicon) - Emoji handling with Bangla text (18.8k downloads).
+- [emojicon](https://crates.io/crates/emojicon) - Emoji handling with Bangla text.
 - [ponjika](https://crates.io/crates/ponjika) - Bengali (Bangladeshi) calendar library.
 - [bangla](https://crates.io/crates/bangla) - Number formatting and calendar utilities for Bangla.
 - [obadh_engine](https://github.com/unmukto-org/obadh_engine) - Deterministic rule-based Roman-to-Bangla transliteration engine in Rust, powering the Obadh keyboards for Apple platforms. MIT.
@@ -181,19 +187,20 @@ Dates, numbers and text utilities:
 
 Typesetting:
 
-- [LaTeXbangla](https://github.com/Neehan/LaTeXbangla) - Write Bangla (and Assamese) with ordinary LaTeX (19★). LPPL-1.3c.
-- [BOOKbangla](https://github.com/Neehan/BOOKbangla) - Book class and templates for writing Bangla and Assamese books with LaTeX memoir (23★). LPPL-1.3c.
+- [LaTeXbangla](https://github.com/Neehan/LaTeXbangla) - Write Bangla (and Assamese) with ordinary LaTeX. LPPL-1.3c.
+- [BOOKbangla](https://github.com/Neehan/BOOKbangla) - Book class and templates for writing Bangla and Assamese books with LaTeX memoir. LPPL-1.3c.
 
 ## 🤖 AI/ML & research
 
-- [BanglaBERT](https://github.com/csebuetnlp/banglabert) - Pretrained Bangla language models from the BUET NLP group (50k+ downloads on Hugging Face). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
+- [banglagov (Hugging Face)](https://huggingface.co/banglagov) - Official Hugging Face org of the Bangla.gov.bd government initiative: banGPT2-Base, banBERT-Base, banELECTRA-Base and banT5-Base pretrained models plus the Ban-Sign-Sent-9K sign-language dataset. Licence terms per model card.
+- [BanglaBERT](https://github.com/csebuetnlp/banglabert) - Pretrained Bangla language models from the BUET NLP group. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaNLG](https://github.com/csebuetnlp/BanglaNLG) - BanglaT5 generation and summarisation models. ⚠️ No licence file.
-- [mT5_multilingual_XLSum](https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum) - Multilingual summarisation checkpoint covering Bangla (332 likes).
+- [mT5_multilingual_XLSum](https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum) - Multilingual summarisation checkpoint covering Bangla. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [normalizer](https://github.com/csebuetnlp/normalizer) - Bangla text normalisation utilities used across the csebuetnlp stack. ⚠️ No licence file.
 - [xl-sum](https://github.com/csebuetnlp/xl-sum) - Research code for the XL-Sum summarisation dataset. ⚠️ No licence file.
 - [CrossSum](https://github.com/csebuetnlp/CrossSum) - Cross-lingual summarisation across 45 languages. ⚠️ No licence file.
 - [IllusionVQA](https://github.com/csebuetnlp/IllusionVQA) - Optical-illusion visual question answering benchmark. ⚠️ No licence file.
-- [bangla-bert-base](https://huggingface.co/sagorsarker/bangla-bert-base) - Community Bangla BERT with 24k+ downloads. MIT.
+- [bangla-bert-base](https://huggingface.co/sagorsarker/bangla-bert-base) - Community Bangla BERT, one of the most-used Bangla encoders on Hugging Face. MIT.
 - [bangla-bert](https://github.com/sagorbrur/bangla-bert) - Training and fine-tuning code for Bangla BERT models. MIT.
 - [bbocr](https://github.com/BengaliAI/bbocr) - Bangla handwriting OCR research. BSD-3-Clause.
 - [graphemePrepare](https://github.com/BengaliAI/graphemePrepare) - Grapheme recognition data preparation. MIT.
@@ -203,11 +210,11 @@ Typesetting:
 - [banglanlptoolkit](https://pypi.org/project/banglanlptoolkit/) - All-in-one Bangla NLP toolkit from ACI MIS AI and Intelsense AI teams. ⚠️ Licence unspecified.
 - [BanglaBBQ](https://github.com/SummitAnthony/BanglaBBQ-benchmark) - Bias benchmark for question answering in the Bangladeshi context. MIT.
 - [bangla-speech-to-text-benchmark](https://github.com/riverbornai/bangla-speech-to-text-benchmark) - Open benchmark of eight Bengali speech-to-text APIs (Sarvam, Deepgram, Gemini, OpenAI, Groq Whisper and others) on 1,001 Bangla audio clips. MIT.
-- [TituLM](https://huggingface.co/hishab/titulm-llama-3.2-3b-v2.0) - Open-weight Bangla LLM family from Hishab (Dhaka), trained on the titulm-bangla-corpus; paper arXiv 2502.11187 (1,227 downloads). Llama 3.2 community licence.
-- [BanglaLLama](https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1) - Instruction-tuned Bangla LLM from the Bangladesh-led BanglaLLM org (271 downloads). Llama 2 community licence.
+- [TituLM](https://huggingface.co/hishab/titulm-llama-3.2-3b-v2.0) - Open-weight Bangla LLM family from Hishab (Dhaka), trained on the titulm-bangla-corpus; paper arXiv 2502.11187. Llama 3.2 community licence.
+- [BanglaLLama](https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1) - Instruction-tuned Bangla LLM from the Bangladesh-led BanglaLLM org. Llama 2 community licence.
 - [bangladeshi-bangla-tts-vits](https://huggingface.co/EMTIAZZ/bangladeshi-bangla-tts-vits) - Bangladeshi-dialect Bangla text-to-speech with running demo spaces, by a Dhaka-based ML engineer. Apache-2.0.
-- [BanglaTag](https://huggingface.co/arafatfahim/BanglaTag) - Bangla part-of-speech tagging model by a Dhaka developer (345 downloads). Apache-2.0.
-- [bengali-whisper-medium](https://huggingface.co/SayedShaun/bengali-whisper-medium) - Whisper fine-tune for Bangla speech recognition, Dhaka-based maintainer (298 downloads). Apache-2.0.
+- [BanglaTag](https://huggingface.co/arafatfahim/BanglaTag) - Bangla part-of-speech tagging model by a Dhaka developer. Apache-2.0.
+- [bengali-whisper-medium](https://huggingface.co/SayedShaun/bengali-whisper-medium) - Whisper fine-tune for Bangla speech recognition, Dhaka-based maintainer. Apache-2.0.
 - [BengaliRegionalASR (Barishal & Sylhet)](https://huggingface.co/sha1779/BengaliRegionalASR_barishal_sylhet) - Dialect-aware ASR trained on BengaliAI's regional-dialect data for two Bangladeshi divisions. Apache-2.0.
 - [@entrogic-net/mcp-server-bangladesh](https://www.npmjs.com/package/@entrogic-net/mcp-server-bangladesh) - MCP server exposing Bangladesh reference data to LLM clients, from the BanglaClaw team. Apache-2.0.
 - [bangla-news-mcp](https://pypi.org/project/bangla-news-mcp/) - MCP server that retrieves live Bangla news into LLM contexts, by Abid Mohammad Jawad (open source, GitHub hurutta/bangla-news-mcp).
@@ -217,12 +224,12 @@ Typesetting:
 Official SDK families:
 
 - [shurjopay-plugins](https://github.com/shurjopay-plugins) - 12 official shurjoPay SDKs: Flutter, Java, Spring, JS, PHP, Python, Node.js, .NET, Rust and usage examples. MIT.
-- [sslcommerz](https://github.com/sslcommerz) - Official SSLCommerz integrations (Laravel, PHP, Flutter, WooCommerce, ASP.NET) plus the [sslcommerz-lts](https://www.npmjs.com/package/sslcommerz-lts) npm package (12.5k monthly downloads). ⚠️ Repo licences not specified.
+- [sslcommerz](https://github.com/sslcommerz) - Official SSLCommerz integrations (Laravel, PHP, Flutter, WooCommerce, ASP.NET) plus the [sslcommerz-lts](https://www.npmjs.com/package/sslcommerz-lts) npm package. ⚠️ Repo licences not specified.
 - [UddoktaPay](https://github.com/UddoktaPay) - Official payment-automation SDKs including the Laravel SDK.
 
 Community SDKs and integrations:
 
-- [laravel-bkash-tokenize](https://packagist.org/packages/karim007/laravel-bkash-tokenize) - bKash Tokenized Checkout for Laravel (37k downloads).
+- [laravel-bkash-tokenize](https://packagist.org/packages/karim007/laravel-bkash-tokenize) - bKash Tokenized Checkout for Laravel.
 - [sslcommerz-laravel](https://github.com/iRaziul/sslcommerz-laravel) - Clean SSLCommerz integration for Laravel. MIT.
 - [nagadApi](https://github.com/arif98741/nagadApi) - Nagad payment API for PHP. ⚠️ No licence file.
 - [nagad-api](https://packagist.org/packages/xenon/nagad-api) - Nagad API client for Laravel.
@@ -261,6 +268,7 @@ Logistics, couriers and anti-fraud:
 
 ## 🏛️ Civic tech & public services
 
+- [Bangla.gov.bd](https://bangla.gov.bd/bn) - The Bangladesh government's Bangla-language computing portal from the ICT Division (BCC): Kagaj AI writing assistant, Jijnsha AI government-service assistant, Borno OCR, the National Corpus, a Bangla spell checker, MS Word add-ins and free Bangla fonts, plus downloadable datasets and models on its [Hugging Face org](https://huggingface.co/banglagov). Free to use; licence terms stated per tool.
 - [protidhwani](https://github.com/ragib01-kuet/protidhwani) - Community safety intelligence platform. MIT.
 - [nyayota](https://github.com/afnan0356/nyayota) - Bangladeshi legal information platform. MIT.
 - [desco-prepaid-api](https://github.com/KhBayazidAhmed/desco-prepaid-api) - DESCO prepaid electricity meter API documentation. ⚠️ No licence file.
@@ -269,14 +277,14 @@ Logistics, couriers and anti-fraud:
 
 ## 🚨 Crisis response
 
-- [Nongor](https://github.com/AuvroIslam/Nongor) - Offline-first flood SOS and crisis companion for Bangladesh (157★). MIT.
+- [Nongor](https://github.com/AuvroIslam/Nongor) - Offline-first flood SOS and crisis companion for Bangladesh. MIT.
 - [mukto-mesh](https://github.com/HyperZx2O/mukto-mesh) - Community mesh-network hub born from the July 2024 internet shutdown. MIT.
 - [ResQ_Bangladesh](https://github.com/404Ah-Nafis/ResQ_Bangladesh) - Offline-first disaster response PWA. ⚠️ No licence file.
 - [HaorFloodAlert](https://github.com/shkoli/HaorFloodAlert) - Machine-learning flood prediction for the haor region. MIT.
 
 ## 🗺️ Geography & open maps
 
-- [bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode) - The classic division → district → upazila → union dataset with lat/long (722★). MIT.
+- [bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode) - The classic division → district → upazila → union dataset with lat/long. MIT.
 - [bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Divisions, districts, upazilas, postcodes and full boundary GeoJSON; a model example of layered licensing (code MIT, OSM-derived layers ODbL, boundaries CC-BY-4.0).
 - [geo-vault](https://github.com/imran110219/geo-vault) - Deepest coverage: all 8 divisions, 64 districts, 494 upazilas, 4,540 unions with p-codes and 2022 census population; boundary layers CC-BY-3.0 IGO (HDX COD-AB / geoBoundaries).
 - [laravel-bangladesh-geocode](https://github.com/devfaysal/laravel-bangladesh-geocode) - Divisions, districts, thanas and unions as a Laravel package (also maintained by [sandofvega](https://github.com/sandofvega/laravel-bangladesh-geocode)). MIT.
@@ -292,27 +300,27 @@ Logistics, couriers and anti-fraud:
 
 ## 🎓 Education & learning
 
-- [system-design-bangla](https://github.com/lahin31/system-design-bangla) - System design concepts explained in Bangla (1.2k★). MIT.
-- [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources) - The long-running collection of Bangla programming tutorials (2k★). MIT.
-- [interview-questions-bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh) - Interview experiences and questions from Bangladeshi tech companies (774★). GPL-3.0.
-- [AlgorithmVisualizer](https://github.com/TamimEhsan/AlgorithmVisualizer) - Interactive algorithm visualiser (452★). MIT.
-- [Competitive-Programming-Reference-Bangla](https://github.com/kabirpofficial/Competitive-Programming-Reference-Bangla) - Competitive programming reference in Bangla (256★). GPL-3.0.
-- [DL-Sneak-Peek](https://github.com/menon92/DL-Sneak-Peek) - Deep learning resources in Bangla (186★). Apache-2.0.
-- [montu-mia](https://github.com/KhanShaheb34/montu-mia) - সিস্টেম ডিজাইন educational toolkit in Bangla (148★). Custom licence.
-- [CSE-Passport](https://github.com/naemazam/CSE-Passport) - Resources for every CSE student in Bangladesh (100★). MIT.
-- [wordpress-developer-guideline-bangla](https://github.com/nayanchamp7/wordpress-developer-guideline-bangla) - WordPress development guidelines in Bangla (65★). GPL-3.0.
+- [system-design-bangla](https://github.com/lahin31/system-design-bangla) - System design concepts explained in Bangla. MIT.
+- [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources) - The long-running collection of Bangla programming tutorials. MIT.
+- [interview-questions-bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh) - Interview experiences and questions from Bangladeshi tech companies. GPL-3.0.
+- [AlgorithmVisualizer](https://github.com/TamimEhsan/AlgorithmVisualizer) - Interactive algorithm visualiser. MIT.
+- [Competitive-Programming-Reference-Bangla](https://github.com/kabirpofficial/Competitive-Programming-Reference-Bangla) - Competitive programming reference in Bangla. GPL-3.0.
+- [DL-Sneak-Peek](https://github.com/menon92/DL-Sneak-Peek) - Deep learning resources in Bangla. Apache-2.0.
+- [montu-mia](https://github.com/KhanShaheb34/montu-mia) - সিস্টেম ডিজাইন educational toolkit in Bangla. Custom licence.
+- [CSE-Passport](https://github.com/naemazam/CSE-Passport) - Resources for every CSE student in Bangladesh. MIT.
+- [wordpress-developer-guideline-bangla](https://github.com/nayanchamp7/wordpress-developer-guideline-bangla) - WordPress development guidelines in Bangla. GPL-3.0.
 - [nsu-study-stash](https://github.com/WinTer1165/nsu-study-stash) - Course archive for North South University students. Custom licence.
 - [RUET-OJ](https://github.com/shawon100/RUET-OJ) - Online judge used at RUET. MIT.
 - [KonSchool](https://github.com/maacpiash/KonSchool) - Fuzzy-AHP school recommender for Bangladesh. AGPL-3.0.
-- [HSC Stack](https://github.com/hscstack/platform) - Curated free resource platform for Bangladesh HSC and SSC students - notes, guides and materials, by the Dhaka-based hscstack org (12★). Apache-2.0.
+- [HSC Stack](https://github.com/hscstack/platform) - Curated free resource platform for Bangladesh HSC and SSC students - notes, guides and materials, by the Dhaka-based hscstack org. Apache-2.0.
 - [F1.VISA.USA](https://github.com/MahediKamal/F1.VISA.USA) - Practical F-1 visa guide by a Bangladeshi engineer. MIT.
 
 ## 📚 Awesome lists & communities
 
 Specialist directories — we link to them, we do not copy their entries:
 
-- [tech-companies-in-bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh) - The biggest Bangladesh list on GitHub: tech companies for job seekers (646★). MIT.
-- [awesome-bangla](https://github.com/banglakit/awesome-bangla) - Bangla language resources (579★, slow maintenance).
+- [tech-companies-in-bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh) - The biggest Bangladesh list on GitHub: tech companies for job seekers. MIT.
+- [awesome-bangla](https://github.com/banglakit/awesome-bangla) - Bangla language resources (slow maintenance).
 - [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) - The historic seed list of BD-made software (dormant since 2023). MIT.
 - [Awesome-Bangladeshi-Devs](https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs) - Data-driven directory of 3,600+ Bangladeshi developers. MIT.
 - [Awesome-Bangladeshi-FOSS](https://github.com/sharf-shawon/Awesome-Bangladeshi-FOSS) - Bangladeshi FOSS projects across 12 sections.

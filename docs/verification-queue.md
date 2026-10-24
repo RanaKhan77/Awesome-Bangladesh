@@ -128,3 +128,11 @@ streams - excluded on scope regardless of popularity.
 | [bangtex (PyPI)](https://pypi.org/project/bangtex/) | Bangla LaTeX converter | Function covered by LaTeXbangla + BOOKbangla | — |
 | [prayer-time-bd (npm)](https://www.npmjs.com/package/prayer-time-bd) | CLI prayer-times app | Function covered by bdapi4all (listed) | — |
 | [@classytic/ledger-bd (npm)](https://www.npmjs.com/package/@classytic/ledger-bd) | BFRS accounting pack | Custom licence needs reading before listing | licence review |
+
+## 2026-10-25 — Wave-5 verification (user-submitted links)
+
+- **koro** (github.com/ChimeraCoder/koro, Bengali Go compiler) — REJECTED. Author Aditya Mukerjee, New York; Indian-American with no Bangladesh connection found. Falls under the hard exclusion for Indian-Bengali projects with no BD link.
+- **zabir-nabil/bangla-tts** and **lifeparticle/Bangla-Alphabet** — already listed; re-confirmed live (bangla-tts active Oct 2024; Bangla-Alphabet active Aug 2026, MIT).
+- **banglagov / bangla.gov.bd** — gap found and fixed: Wave-4 evidence existed but no verdict was ever recorded; now verified and added (portal + HF org).
+- **Common Voice Scripted Speech 27.0** — added as the official Mozilla distribution, cross-referenced against the existing bengaliAI/CommonVoiceBangla copy to avoid duplication confusion.
+- Dual-AI verification (Mercury-3 + deepseek-v4-1-flash-economy, thinking disabled): 16/16 decisions recorded; BanglaLekha-Isolated placed in main list per the frozen-by-design carve-out (both models agreed on eligibility, placement resolved by curation policy).
