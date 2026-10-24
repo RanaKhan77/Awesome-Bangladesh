@@ -6,7 +6,7 @@
 
 The data layer of the Bangladeshi open ecosystem: government portals, research corpora on Hugging Face and Kaggle, and international hosts carrying Bangladesh data. Each dataset states its licence where the publisher declares one, and licence-free items are flagged rather than silently listed. Frozen research corpora stay listed because a completed dataset is a finished product, not an abandoned one. When a dataset claims a government source, we check that the source is named and linkable.
 
-**47 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**48 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -16,6 +16,7 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [Open Government Data Portal](https://ogdnew.sdg.gov.bd/) | National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets | ⚠️ Licence unspecified — verify on the dataset page before reuse | 🔵 BD org / for-BD |
 | [Bangladesh Bureau of Statistics](https://bbs.gov.bd/) | Official statistics, surveys and census downloads | ⚠️ Licence unspecified per release | 🔵 BD org / for-BD |
 | [Bangladesh-Administrative-Data](https://github.com/goshamishagar/Bangladesh-Administrative-Data) | Administrative divisions with Bangla and English names | CC0-1.0 | 🟢 BD-based |
+| [Bangladesh-Unified-SIM-Codes](https://github.com/dibbockb/Bangladesh-Unified-SIM-Codes) | USSD, SMS and short codes for all five Bangladeshi mobile operators — Grameenphone, Robi, Banglalink, Teletalk and Airtel — plus MFS banking dial codes (bKash, Nagad, Rocket, Upay), collected in one unified reference. | ⚠️ No licence file | 🟢 BD-based |
 | [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) | Bangla alphabet dataset for ML — letters, numerals and punctuation as organised image data, a teaching and classification starter set | MIT | 🟡 Diaspora |
 | [Bangladesh-Legal-Acts-Dataset](https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset) | Laws of Bangladesh, machine-readable | CC-BY-4.0 | 🟢 BD-based |
 | [bangla-bagdhara](https://huggingface.co/datasets/sakhadib/bangla-bagdhara) | Bangla idioms (bagdhara) dataset | CC-BY-SA-4.0 | 🟢 BD-based |

@@ -1,494 +1,494 @@
 [
-  {
-    "name": "data.gov.bd",
-    "url": "https://data.gov.bd/",
-    "description": "Bangladesh Open Data Portal: ~90 datasets, 35+ ministries",
-    "license": "unspecified (per dataset)",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "National open-data portal of Bangladesh"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+ {
+  "name": "data.gov.bd",
+  "url": "https://data.gov.bd/",
+  "description": "Bangladesh Open Data Portal: ~90 datasets, 35+ ministries",
+  "license": "unspecified (per dataset)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "National open-data portal of Bangladesh"
   },
-  {
-    "name": "Open Government Data Portal",
-    "url": "https://ogdnew.sdg.gov.bd/",
-    "description": "National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets. Licence unspecified per dataset — verify on the dataset page before reuse.",
-    "license": "unspecified",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Government of Bangladesh portal"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Open Government Data Portal",
+  "url": "https://ogdnew.sdg.gov.bd/",
+  "description": "National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets. Licence unspecified per dataset — verify on the dataset page before reuse.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Government of Bangladesh portal"
   },
-  {
-    "name": "BBS",
-    "url": "https://bbs.gov.bd/",
-    "description": "Bangladesh Bureau of Statistics official data",
-    "license": "unspecified (per release)",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "National statistics office"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BBS",
+  "url": "https://bbs.gov.bd/",
+  "description": "Bangladesh Bureau of Statistics official data",
+  "license": "unspecified (per release)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "National statistics office"
   },
-  {
-    "name": "Bangladesh-Legal-Acts-Dataset",
-    "url": "https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset",
-    "description": "Laws of Bangladesh, machine-readable",
-    "license": "CC-BY-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "https://github.com/sakhadib (Bangladesh, IUT)"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh-Legal-Acts-Dataset",
+  "url": "https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset",
+  "description": "Laws of Bangladesh, machine-readable",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sakhadib (Bangladesh, IUT)"
   },
-  {
-    "name": "bangla-bagdhara",
-    "url": "https://huggingface.co/datasets/sakhadib/bangla-bagdhara",
-    "description": "Bangla idioms dataset",
-    "license": "CC-BY-SA-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "https://github.com/sakhadib"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-bagdhara",
+  "url": "https://huggingface.co/datasets/sakhadib/bangla-bagdhara",
+  "description": "Bangla idioms dataset",
+  "license": "CC-BY-SA-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sakhadib"
   },
-  {
-    "name": "xlsum",
-    "url": "https://huggingface.co/datasets/csebuetnlp/xlsum",
-    "description": "Multilingual summarisation dataset covering Bangla",
-    "license": "CC BY-NC-SA 4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "https://github.com/csebuetnlp"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "xlsum",
+  "url": "https://huggingface.co/datasets/csebuetnlp/xlsum",
+  "description": "Multilingual summarisation dataset covering Bangla",
+  "license": "CC BY-NC-SA 4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
   },
-  {
-    "name": "BanglaNMT",
-    "url": "https://huggingface.co/datasets/csebuetnlp/BanglaNMT",
-    "description": "Bangla-English parallel corpus",
-    "license": "CC BY-NC-SA 4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "https://github.com/csebuetnlp"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaNMT",
+  "url": "https://huggingface.co/datasets/csebuetnlp/BanglaNMT",
+  "description": "Bangla-English parallel corpus",
+  "license": "CC BY-NC-SA 4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
   },
-  {
-    "name": "CommonVoiceBangla",
-    "url": "https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla",
-    "description": "Bangla speech corpus",
-    "license": "CC0-1.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "https://github.com/BengaliAI"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "CommonVoiceBangla",
+  "url": "https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla",
+  "description": "Bangla speech corpus",
+  "license": "CC0-1.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/BengaliAI"
   },
-  {
-    "name": "BanglaSocialBias",
-    "url": "https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias",
-    "description": "Social bias dataset for Bangla",
-    "license": "CC-BY-4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "https://github.com/csebuetnlp"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaSocialBias",
+  "url": "https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias",
+  "description": "Social bias dataset for Bangla",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
   },
-  {
-    "name": "Bangla-Alphabet",
-    "url": "https://github.com/lifeparticle/Bangla-Alphabet",
-    "description": "Bangla alphabet dataset for ML",
-    "license": "MIT",
-    "bd_connection": {
-      "tier": "B",
-      "evidence": "https://github.com/lifeparticle (Sydney, BD diaspora)"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla-Alphabet",
+  "url": "https://github.com/lifeparticle/Bangla-Alphabet",
+  "description": "Bangla alphabet dataset for ML",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/lifeparticle (Sydney, BD diaspora)"
   },
-  {
-    "name": "RSUD20K",
-    "url": "https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding",
-    "description": "Bangladesh road scene understanding images",
-    "license": "CC BY-NC 4.0",
-    "bd_connection": {
-      "tier": "B",
-      "evidence": "https://github.com/hasibzunair (Toronto, BD diaspora)"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "RSUD20K",
+  "url": "https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding",
+  "description": "Bangladesh road scene understanding images",
+  "license": "CC BY-NC 4.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/hasibzunair (Toronto, BD diaspora)"
   },
-  {
-    "name": "assorted-medicine-dataset-of-bangladesh",
-    "url": "https://www.kaggle.com/datasets/ahmedshahriarsakib/assorted-medicine-dataset-of-bangladesh",
-    "description": "BD brand and generic medicine data",
-    "license": "CC0",
-    "bd_connection": {
-      "tier": "product",
-      "evidence": "Dataset of Bangladeshi medicines"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "assorted-medicine-dataset-of-bangladesh",
+  "url": "https://www.kaggle.com/datasets/ahmedshahriarsakib/assorted-medicine-dataset-of-bangladesh",
+  "description": "BD brand and generic medicine data",
+  "license": "CC0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Dataset of Bangladeshi medicines"
   },
-  {
-    "name": "bangla-newspaper-dataset",
-    "url": "https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset",
-    "description": "400k+ Bangla news articles",
-    "license": "other (see dataset page)",
-    "bd_connection": {
-      "tier": "B",
-      "evidence": "https://github.com/zabir-nabil (BD diaspora; furcifer on Kaggle)"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-newspaper-dataset",
+  "url": "https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset",
+  "description": "400k+ Bangla news articles",
+  "license": "other (see dataset page)",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/zabir-nabil (BD diaspora; furcifer on Kaggle)"
   },
-  {
-    "name": "bangladesh-districts-wise-population",
-    "url": "https://www.kaggle.com/datasets/msjahid/bangladesh-districts-wise-population",
-    "description": "District population statistics",
-    "license": "Apache-2.0",
-    "bd_connection": {
-      "tier": "B",
-      "evidence": "https://github.com/msjahid (Washington DC, BD diaspora)"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-districts-wise-population",
+  "url": "https://www.kaggle.com/datasets/msjahid/bangladesh-districts-wise-population",
+  "description": "District population statistics",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/msjahid (Washington DC, BD diaspora)"
   },
-  {
-    "name": "bangladesh-weather-dataset",
-    "url": "https://www.kaggle.com/datasets/yakinrubaiat/bangladesh-weather-dataset",
-    "description": "Climate observations 1901-2023",
-    "license": "CC-BY-4.0",
-    "bd_connection": {
-      "tier": "product",
-      "evidence": "Bangladesh weather data"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-weather-dataset",
+  "url": "https://www.kaggle.com/datasets/yakinrubaiat/bangladesh-weather-dataset",
+  "description": "Climate observations 1901-2023",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Bangladesh weather data"
   },
-  {
-    "name": "dengue-dataset-bangladesh",
-    "url": "https://www.kaggle.com/datasets/kawsarahmad/dengue-dataset-bangladesh",
-    "description": "Dengue cases over time",
-    "license": "CC-BY-4.0",
-    "bd_connection": {
-      "tier": "product",
-      "evidence": "Bangladesh health data"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "dengue-dataset-bangladesh",
+  "url": "https://www.kaggle.com/datasets/kawsarahmad/dengue-dataset-bangladesh",
+  "description": "Dengue cases over time",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Bangladesh health data"
   },
-  {
-    "name": "dhakaai-traffic-detection",
-    "url": "https://www.kaggle.com/datasets/rifat963/dhakaai-dhaka-based-traffic-detection-dataset",
-    "description": "Dhaka traffic detection dataset",
-    "license": "GPL-2.0",
-    "bd_connection": {
-      "tier": "product",
-      "evidence": "DhakaAI smart-city initiative data"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "dhakaai-traffic-detection",
+  "url": "https://www.kaggle.com/datasets/rifat963/dhakaai-dhaka-based-traffic-detection-dataset",
+  "description": "Dhaka traffic detection dataset",
+  "license": "GPL-2.0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "DhakaAI smart-city initiative data"
   },
-  {
-    "name": "Bangladesh-Unified-SIM-Codes",
-    "url": "https://github.com/dibbockb/Bangladesh-Unified-SIM-Codes",
-    "description": "Telecom operator codes",
-    "license": "unspecified",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "https://github.com/dibbockb (Chittagong)"
-    },
-    "section": "datasets",
-    "last_verified": "2026-10-24"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh-Unified-SIM-Codes",
+  "url": "https://github.com/dibbockb/Bangladesh-Unified-SIM-Codes",
+  "description": "USSD, SMS and short codes for all five Bangladeshi mobile operators plus MFS banking dial codes",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dibbockb (Chittagong)"
   },
-  {
-    "name": "titulm-bangla-corpus",
-    "url": "https://huggingface.co/datasets/hishab/titulm-bangla-corpus",
-    "description": "24.3M-doc Bangla pre-training corpus (147 GB) from Hishab (Dhaka)",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Hishab Ltd, Dhaka; TituLLMs paper arXiv 2502.11187"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "titulm-bangla-corpus",
+  "url": "https://huggingface.co/datasets/hishab/titulm-bangla-corpus",
+  "description": "24.3M-doc Bangla pre-training corpus (147 GB) from Hishab (Dhaka)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Hishab Ltd, Dhaka; TituLLMs paper arXiv 2502.11187"
   },
-  {
-    "name": "BanglaEng-SynCorpus",
-    "url": "https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus",
-    "description": "Synthetic Bangla-English parallel corpus (926 dl)",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Card authors: Md. Eamin Rahman + Dr. Reza Selim, Dept. of CSE, SUST"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaEng-SynCorpus",
+  "url": "https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus",
+  "description": "Synthetic Bangla-English parallel corpus (926 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Card authors: Md. Eamin Rahman + Dr. Reza Selim, Dept. of CSE, SUST"
   },
-  {
-    "name": "SUBAK.KO",
-    "url": "https://huggingface.co/datasets/SUST-CSE-Speech/SUBAK.KO",
-    "description": "Bangla speech corpus from SUST CSE speech lab (678 dl)",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Card: Developed by Dept. of CSE, SUST, Bangladesh"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "SUBAK.KO",
+  "url": "https://huggingface.co/datasets/SUST-CSE-Speech/SUBAK.KO",
+  "description": "Bangla speech corpus from SUST CSE speech lab (678 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Card: Developed by Dept. of CSE, SUST, Bangladesh"
   },
-  {
-    "name": "bangladeshi-jobs",
-    "url": "https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs",
-    "description": "Weekly-refreshed Bangladeshi tech-jobs dataset (902 dl)",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Author GitHub location: Dhaka, Bangladesh"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangladeshi-jobs",
+  "url": "https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs",
+  "description": "Weekly-refreshed Bangladeshi tech-jobs dataset (902 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Author GitHub location: Dhaka, Bangladesh"
   },
-  {
-    "name": "Bangla_Financial_news",
-    "url": "https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset",
-    "description": "Bangla financial news corpus for DSE stock research (1,049 dl)",
-    "license": "cc0-1.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Cited in 'Stock Market Prediction of Bangladesh Using Multivariate LSTM' journal paper"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla_Financial_news",
+  "url": "https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset",
+  "description": "Bangla financial news corpus for DSE stock research (1,049 dl)",
+  "license": "cc0-1.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Cited in 'Stock Market Prediction of Bangladesh Using Multivariate LSTM' journal paper"
   },
-  {
-    "name": "bangladesh-stock-market-dataset",
-    "url": "https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset",
-    "description": "Dhaka Stock Exchange daily data (835 dl)",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Content explicitly DSE: ABBANK, BANKASIA, BRACBANK..."
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangladesh-stock-market-dataset",
+  "url": "https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset",
+  "description": "Dhaka Stock Exchange daily data (835 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Content explicitly DSE: ABBANK, BANKASIA, BRACBANK..."
   },
-  {
-    "name": "BanglishRev e-commerce reviews",
-    "url": "https://huggingface.co/datasets/BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset",
-    "description": "1.74M Daraz reviews, Bangla-English code-mixed (736 dl)",
-    "license": "cc-by-nc-sa-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Paper arXiv 2412.13161 authors: UIU Dhaka faculty (Shatabda, Islam)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglishRev e-commerce reviews",
+  "url": "https://huggingface.co/datasets/BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset",
+  "description": "1.74M Daraz reviews, Bangla-English code-mixed (736 dl)",
+  "license": "cc-by-nc-sa-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Paper arXiv 2412.13161 authors: UIU Dhaka faculty (Shatabda, Islam)"
   },
-  {
-    "name": "BanglaRQA",
-    "url": "https://huggingface.co/datasets/sartajekram/BanglaRQA",
-    "description": "Bangla reading-comprehension benchmark (203 dl)",
-    "license": "cc-by-nc-sa-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Author GitHub location: Chittagong, Bangladesh; University of Chittagong co-authors"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaRQA",
+  "url": "https://huggingface.co/datasets/sartajekram/BanglaRQA",
+  "description": "Bangla reading-comprehension benchmark (203 dl)",
+  "license": "cc-by-nc-sa-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Author GitHub location: Chittagong, Bangladesh; University of Chittagong co-authors"
   },
-  {
-    "name": "Bangla-Instruct",
-    "url": "https://huggingface.co/datasets/md-nishat-008/Bangla-Instruct",
-    "description": "172k instruction pairs from 163 NCTB textbooks (ACL 2025)",
-    "license": "mit",
-    "bd_connection": {
-      "tier": "B",
-      "evidence": "Author Nishat Raihan (BD, GMU); built from NCTB Bangladesh curriculum"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla-Instruct",
+  "url": "https://huggingface.co/datasets/md-nishat-008/Bangla-Instruct",
+  "description": "172k instruction pairs from 163 NCTB textbooks (ACL 2025)",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "Author Nishat Raihan (BD, GMU); built from NCTB Bangladesh curriculum"
   },
-  {
-    "name": "Bangladesh 2026 National Election Candidates",
-    "url": "https://www.kaggle.com/datasets/dkhalidashik/candidate-info-2026-national-election-bangladesh",
-    "description": "Candidate list for 13th Jatiya Sangsad election",
-    "license": "apache-2.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Dataset explicitly the Bangladesh 2026 election candidate list"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangladesh 2026 National Election Candidates",
+  "url": "https://www.kaggle.com/datasets/dkhalidashik/candidate-info-2026-national-election-bangladesh",
+  "description": "Candidate list for 13th Jatiya Sangsad election",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Dataset explicitly the Bangladesh 2026 election candidate list"
   },
-  {
-    "name": "Bangladesh Road Accident News 2014-2025",
-    "url": "https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-data-from-prothom-alo",
-    "description": "~3,000 road-accident reports from Prothom Alo",
-    "license": "mit",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Data source Prothom Alo (leading Bangladeshi newspaper); Bangladesh road accidents"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangladesh Road Accident News 2014-2025",
+  "url": "https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-data-from-prothom-alo",
+  "description": "~3,000 road-accident reports from Prothom Alo",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Data source Prothom Alo (leading Bangladeshi newspaper); Bangladesh road accidents"
   },
-  {
-    "name": "Dengue and Weather Data Bangladesh",
-    "url": "https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh-20222025",
-    "description": "Spatio-temporal dengue + weather from DGHS, all 8 divisions",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Bangladesh DGHS data; all eight BD divisions"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Dengue and Weather Data Bangladesh",
+  "url": "https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh-20222025",
+  "description": "Spatio-temporal dengue + weather from DGHS, all 8 divisions",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangladesh DGHS data; all eight BD divisions"
   },
-  {
-    "name": "July Revolution Sentiment (Bangla)",
-    "url": "https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla",
-    "description": "Public-sentiment corpus from July 2024 uprising; arXiv 2507.11084",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Authors (Hossen, Saiduzzaman, Shaha) Bangladeshi researchers"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "July Revolution Sentiment (Bangla)",
+  "url": "https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla",
+  "description": "Public-sentiment corpus from July 2024 uprising; arXiv 2507.11084",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Authors (Hossen, Saiduzzaman, Shaha) Bangladeshi researchers"
   },
-  {
-    "name": "Bengali OCR Dataset 1M",
-    "url": "https://www.kaggle.com/datasets/mnsm92/bengali-ocr-dataset-1m",
-    "description": "1M annotated printed and handwritten images for Bangla OCR",
-    "license": "mit",
-    "bd_connection": {
-      "tier": "B",
-      "evidence": "Used by Bangla ML community; mnsm92 (BD, also OpenDengue author)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bengali OCR Dataset 1M",
+  "url": "https://www.kaggle.com/datasets/mnsm92/bengali-ocr-dataset-1m",
+  "description": "1M annotated printed and handwritten images for Bangla OCR",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "Used by Bangla ML community; mnsm92 (BD, also OpenDengue author)"
   },
-  {
-    "name": "SUBESCO Bangla Speech Emotion",
-    "url": "https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset",
-    "description": "Audio-only emotional speech corpus, SUST researchers (1,106 dl)",
-    "license": "cc-by-nc-sa-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Original: SUST researchers (Saila et al.)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "SUBESCO Bangla Speech Emotion",
+  "url": "https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset",
+  "description": "Audio-only emotional speech corpus, SUST researchers (1,106 dl)",
+  "license": "cc-by-nc-sa-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Original: SUST researchers (Saila et al.)"
   },
-  {
-    "name": "Bangla Isolated Speech Dataset",
-    "url": "https://www.kaggle.com/datasets/mehrabhosain/bangla-isolated-speech-dataset",
-    "description": "1,800 isolated-word Bangla/English samples (2025; also Mendeley)",
-    "license": "lgpl-3.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "Authors: Bhadra, Dipayan; Hosain, Mehrab; Alam, Fatema (2025)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla Isolated Speech Dataset",
+  "url": "https://www.kaggle.com/datasets/mehrabhosain/bangla-isolated-speech-dataset",
+  "description": "1,800 isolated-word Bangla/English samples (2025; also Mendeley)",
+  "license": "lgpl-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Authors: Bhadra, Dipayan; Hosain, Mehrab; Alam, Fatema (2025)"
   },
-  {
-    "name": "IOM NPM Cox's Bazar UAV imagery",
-    "url": "https://data.humdata.org/dataset/iom-npm-cox-bazar-uav-imagery",
-    "description": "Needs and Population Monitoring imagery for Rohingya camps",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "IOM Bangladesh mission; covers Cox's Bazar camps"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "IOM NPM Cox's Bazar UAV imagery",
+  "url": "https://data.humdata.org/dataset/iom-npm-cox-bazar-uav-imagery",
+  "description": "Needs and Population Monitoring imagery for Rohingya camps",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "IOM Bangladesh mission; covers Cox's Bazar camps"
   },
-  {
-    "name": "OpenDengue",
-    "url": "https://doi.org/10.6084/m9.figshare.24259573",
-    "description": "Open global dengue case database incl. Bangladesh DGHS series",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Contains Bangladesh monthly/daily dengue series (DGHS-sourced)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "OpenDengue",
+  "url": "https://doi.org/10.6084/m9.figshare.24259573",
+  "description": "Open global dengue case database incl. Bangladesh DGHS series",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Contains Bangladesh monthly/daily dengue series (DGHS-sourced)"
   },
-  {
-    "name": "BangladeshExport Export Statistics",
-    "url": "https://bangladeshexport.com/export-statistics",
-    "description": "BD export statistics organised from EPB/Bangladesh Bank/NBR/BIDA sources; monthly + FY totals, HS-code products, destinations; downloadable XLSX",
-    "license": "free access (data owned by cited government sources)",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "BD-run B2B platform; all series sourced from EPB/Bangladesh Bank/NBR Customs/BIDA"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BangladeshExport Export Statistics",
+  "url": "https://bangladeshexport.com/export-statistics",
+  "description": "BD export statistics organised from EPB/Bangladesh Bank/NBR/BIDA sources; monthly + FY totals, HS-code products, destinations; downloadable XLSX",
+  "license": "free access (data owned by cited government sources)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "BD-run B2B platform; all series sourced from EPB/Bangladesh Bank/NBR Customs/BIDA"
   },
-  {
-    "name": "BanglaLekha-Isolated",
-    "url": "https://data.mendeley.com/datasets/hf6sf8zrkc/2",
-    "description": "166,105 handwritten Bangla isolated-character images with demographics; Data in Brief companion paper",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "All authors University of Liberal Arts Bangladesh (ULAB)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaLekha-Isolated",
+  "url": "https://data.mendeley.com/datasets/hf6sf8zrkc/2",
+  "description": "166,105 handwritten Bangla isolated-character images with demographics; Data in Brief companion paper",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "All authors University of Liberal Arts Bangladesh (ULAB)"
   },
-  {
-    "name": "Common Voice Scripted Speech 27.0 (Bengali)",
-    "url": "https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r",
-    "description": "Official Mozilla Bengali scripted-speech release: 1,052,384 clips / 1,277.89 hours / 23,019 speakers",
-    "license": "cc0-1.0",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Bengali speech corpus for Bangladesh's state language; official Mozilla distribution"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Common Voice Scripted Speech 27.0 (Bengali)",
+  "url": "https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r",
+  "description": "Official Mozilla Bengali scripted-speech release: 1,052,384 clips / 1,277.89 hours / 23,019 speakers",
+  "license": "cc0-1.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bengali speech corpus for Bangladesh's state language; official Mozilla distribution"
   },
-  {
-    "name": "Bengali Wikipedia dumps",
-    "url": "https://dumps.wikimedia.org/bnwiki/latest/",
-    "description": "Always-current official database dumps of the Bengali Wikipedia; canonical raw corpus for Bangla NLP",
-    "license": "content cc-by-sa (Wikimedia terms)",
-    "bd_connection": {
-      "tier": "C",
-      "evidence": "Bengali is Bangladesh's state language; bnwiki is the primary corpus for BD NLP research"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bengali Wikipedia dumps",
+  "url": "https://dumps.wikimedia.org/bnwiki/latest/",
+  "description": "Always-current official database dumps of the Bengali Wikipedia; canonical raw corpus for Bangla NLP",
+  "license": "content cc-by-sa (Wikimedia terms)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bengali is Bangladesh's state language; bnwiki is the primary corpus for BD NLP research"
   },
-  {
-    "name": "MediBeng",
-    "url": "https://huggingface.co/datasets/pr0mila-gh0sh/MediBeng",
-    "description": "Synthetic code-switched Bengali-English clinical dialogues (audio + parallel text) for ASR/TTS/MT",
-    "license": "cc-by-4.0",
-    "bd_connection": {
-      "tier": "A",
-      "evidence": "https://github.com/pr0mila (Khulna, Bangladesh)"
-    },
-    "section": "Datasets & open data",
-    "last_verified": "2026-10-25"
-  }
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "MediBeng",
+  "url": "https://huggingface.co/datasets/pr0mila-gh0sh/MediBeng",
+  "description": "Synthetic code-switched Bengali-English clinical dialogues (audio + parallel text) for ASR/TTS/MT",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/pr0mila (Khulna, Bangladesh)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ }
 ]

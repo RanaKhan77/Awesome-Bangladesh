@@ -19,6 +19,7 @@ Reasons are labelled per item:
 - [bangla-calendar](https://www.npmjs.com/package/bangla-calendar) — Bangla calendar for JavaScript. MIT. Last publish ~2023 (3.4y); calendar math is stable.
 - [to_bn](https://rubygems.org/gems/to_bn) — English-to-Bangla numeral conversion for Ruby. Last version 2013 (12.5y); 20.5k downloads.
 - [BanglaToEnglish](https://rubygems.org/gems/BanglaToEnglish) — Bangla-to-English text conversion for Ruby. Last version 2019 (6.2y); 6.1k downloads.
+- [bd_location](https://rubygems.org/gems/bd_location) — Bangladesh address and location data for Ruby. MIT. Version 0.0.1 on RubyGems, released January 2016 (10.7y); never updated since. The gem still installs, but the data inside is frozen.
 - [bd-newspaper-crawlers](https://github.com/KSMubasshir/bd-newspaper-crawlers) — Crawlers for Bangladeshi newspaper archives. MIT. Last push 2023 (3.7y); crawlers drift as newspaper sites change layouts.
 - [bengalianalyzer](https://github.com/BengaliAI/bengalianalyzer) — Bengali text analysis library. BSD-3-Clause. Last push 2022 (4.0y).
 - [sslcommerz-sdk](https://pypi.org/project/sslcommerz-sdk/) — SSLCommerz client for Python. MIT. Last release 2021-06 (5.4y).

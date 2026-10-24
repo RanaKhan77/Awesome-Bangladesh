@@ -65,6 +65,7 @@ Government portals:
 Curated datasets on GitHub and Hugging Face:
 
 - [Bangladesh-Administrative-Data](https://github.com/goshamishagar/Bangladesh-Administrative-Data) - Administrative divisions with Bangla and English names. CC0-1.0.
+- [Bangladesh-Unified-SIM-Codes](https://github.com/dibbockb/Bangladesh-Unified-SIM-Codes) - USSD, SMS and short codes for every Bangladeshi mobile operator (Grameenphone, Robi, Banglalink, Teletalk, Airtel) plus MFS banking dial codes, unified in one reference. ⚠️ No licence file.
 - [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) - Bangla alphabet dataset for ML. MIT.
 - [Bangladesh-Legal-Acts-Dataset](https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset) - Laws of Bangladesh, machine-readable. CC-BY-4.0.
 - [bangla-bagdhara](https://huggingface.co/datasets/sakhadib/bangla-bagdhara) - Bangla idioms (bagdhara) dataset. CC-BY-SA-4.0.
