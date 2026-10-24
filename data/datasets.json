@@ -265,7 +265,7 @@
  },
  {
   "name": "Bangla_Financial_news",
-  "url": "https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news",
+  "url": "https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset",
   "description": "Bangla financial news corpus for DSE stock research (1,049 dl)",
   "license": "cc0-1.0",
   "bd_connection": {
@@ -337,7 +337,7 @@
  },
  {
   "name": "Bangladesh Road Accident News 2014-2025",
-  "url": "https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-news-report-dataset",
+  "url": "https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-data-from-prothom-alo",
   "description": "~3,000 road-accident reports from Prothom Alo",
   "license": "mit",
   "bd_connection": {
@@ -349,7 +349,7 @@
  },
  {
   "name": "Dengue and Weather Data Bangladesh",
-  "url": "https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh",
+  "url": "https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh-20222025",
   "description": "Spatio-temporal dengue + weather from DGHS, all 8 divisions",
   "license": "cc-by-4.0",
   "bd_connection": {

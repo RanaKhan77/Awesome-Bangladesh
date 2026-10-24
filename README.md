@@ -75,7 +75,7 @@ Curated datasets on GitHub and Hugging Face:
 - [BADLAD](https://github.com/BengaliAI/BADLAD) - Bangla document layout analysis dataset. ⚠️ No licence file.
 - [BanglaSocialBias](https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias) - Social bias measurement dataset for Bangla. CC-BY-4.0.
 - [bangladeshi-jobs](https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs) - Weekly-refreshed Bangladeshi tech-jobs dataset (902 downloads). CC-BY-4.0.
-- [Bangla_Financial_news](https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news) - Bangla financial news corpus used for DSE stock prediction research (1,049 downloads). CC0-1.0.
+- [Bangla_Financial_news](https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset) - Bangla financial news corpus used for DSE stock prediction research (1,049 downloads). CC0-1.0.
 - [bangladesh-stock-market-dataset](https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset) - Dhaka Stock Exchange daily data for ABBANK to BRACBANK and beyond (835 downloads). CC-BY-4.0.
 - [BanglishRev e-commerce reviews](https://huggingface.co/datasets/BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset) - 1.74M Daraz reviews, Bangla-English code-mixed; companion paper by UIU Dhaka faculty (arXiv 2412.13161). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaRQA](https://huggingface.co/datasets/sartajekram/BanglaRQA) - Reading-comprehension benchmark in Bangla from University of Chittagong researchers. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
@@ -94,8 +94,8 @@ Notable Kaggle datasets about Bangladesh:
 - [House Rent in Dhaka City](https://www.kaggle.com/datasets/taeefnajib/house-rent-in-dhaka-city) - Rental listings dataset. ⚠️ CC BY-NC 4.0.
 - [COVID-19 in Bangladesh](https://www.kaggle.com/datasets/jhossain/covid19-in-bangladesh) - Pandemic case data.
 - [Bangladesh 2026 National Election Candidates](https://www.kaggle.com/datasets/dkhalidashik/candidate-info-2026-national-election-bangladesh) - Candidate list for the 13th Jatiya Sangsad election. Apache-2.0.
-- [Bangladesh Road Accident News 2014-2025](https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-news-report-dataset) - ~3,000 road-accident reports scraped from Prothom Alo. MIT.
-- [Dengue and Weather Data Bangladesh](https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh) - Spatio-temporal dengue + weather data from DGHS, all eight divisions. CC-BY-4.0.
+- [Bangladesh Road Accident News 2014-2025](https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-data-from-prothom-alo) - ~3,000 road-accident reports scraped from Prothom Alo. MIT.
+- [Dengue and Weather Data Bangladesh](https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh-20222025) - Spatio-temporal dengue + weather data from DGHS, all eight divisions. CC-BY-4.0.
 - [July Revolution Sentiment (Bangla)](https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla) - Public-sentiment corpus from the July 2024 uprising; companion paper arXiv 2507.11084. CC-BY-4.0.
 - [Bengali OCR Dataset 1M](https://www.kaggle.com/datasets/mnsm92/bengali-ocr-dataset-1m) - 1M annotated printed and handwritten images for Bangla OCR. MIT.
 - [SUBESCO Bangla Speech Emotion](https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset) - Audio-only emotional speech corpus from SUST researchers (1,106 downloads). ⚠️ CC BY-NC-SA 4.0 — non-commercial.
