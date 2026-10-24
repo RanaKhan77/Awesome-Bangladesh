@@ -1,0 +1,59 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Awesome Bangladesh catalogue record",
+ "type": "object",
+ "required": [
+  "name",
+  "url",
+  "description",
+  "license",
+  "bd_connection",
+  "section",
+  "last_verified"
+ ],
+ "properties": {
+  "name": {
+   "type": "string"
+  },
+  "url": {
+   "type": "string",
+   "format": "uri"
+  },
+  "description": {
+   "type": "string"
+  },
+  "license": {
+   "type": "string",
+   "description": "As published at source; \"unspecified\" when absent"
+  },
+  "bd_connection": {
+   "type": "object",
+   "required": [
+    "tier",
+    "evidence"
+   ],
+   "properties": {
+    "tier": {
+     "enum": [
+      "A",
+      "B",
+      "C",
+      "product",
+      "external"
+     ]
+    },
+    "evidence": {
+     "type": "string",
+     "description": "URL or note justifying the Bangladesh connection"
+    }
+   }
+  },
+  "section": {
+   "type": "string"
+  },
+  "last_verified": {
+   "type": "string",
+   "format": "date"
+  }
+ }
+}

@@ -1,0 +1,962 @@
+[
+ {
+  "name": "DownGit",
+  "url": "https://github.com/MinhasKamal/DownGit",
+  "description": "Download any GitHub directory or file as a zip archive",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/MinhasKamal (Albany NY, BD diaspora)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "OpenBangla-Keyboard",
+  "url": "https://github.com/OpenBangla/OpenBangla-Keyboard",
+  "description": "Leading open-source Bangla keyboard for Linux",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/OpenBangla (org location: Bangladesh)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "riti",
+  "url": "https://github.com/OpenBangla/riti",
+  "description": "Next-generation Bangla input method engine in Rust",
+  "license": "MPL-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/OpenBangla"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "jsAvroPhonetic",
+  "url": "https://github.com/torifat/jsAvroPhonetic",
+  "description": "Avro Phonetic conversion in JavaScript",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/torifat (Sydney, BD diaspora)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "iAvro",
+  "url": "https://github.com/torifat/iAvro",
+  "description": "Avro Phonetic for macOS",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/torifat"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Lekho",
+  "url": "https://github.com/ARahim3/Lekho",
+  "description": "Avro Phonetic input for Apple Silicon Macs",
+  "license": "custom",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: built for Apple Silicon Macs, Avro lineage"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "avro.py",
+  "url": "https://github.com/hitblast/avro.py",
+  "description": "Avro Phonetic parser in Python",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/hitblast (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bnlp",
+  "url": "https://github.com/sagorbrur/bnlp",
+  "description": "Bangla NLP toolkit (tokenisation, stemming, POS, NER)",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sagorbrur (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bnltk",
+  "url": "https://github.com/asraf-patoary/bnltk",
+  "description": "Bangla NLP toolkit in Python",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/asraf-patoary (Munich, BD diaspora)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaSpeech2Text",
+  "url": "https://github.com/shhossain/BanglaSpeech2Text",
+  "description": "Offline Bangla speech recognition",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/shhossain (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-tts",
+  "url": "https://github.com/zabir-nabil/bangla-tts",
+  "description": "Bangla text-to-speech research code",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/zabir-nabil (UC Riverside, BD diaspora)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BengaliDictionary",
+  "url": "https://github.com/MinhasKamal/BengaliDictionary",
+  "description": "English-to-Bengali dictionary dataset and tools",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/MinhasKamal"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "system-design-bangla",
+  "url": "https://github.com/lahin31/system-design-bangla",
+  "description": "System design concepts explained in Bangla",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/lahin31 (Sylhet)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-programming-resources",
+  "url": "https://github.com/me-shaon/bangla-programming-resources",
+  "description": "Long-running collection of Bangla programming tutorials",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/me-shaon (Dhaka)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "interview-questions-bangladesh",
+  "url": "https://github.com/TamimEhsan/interview-questions-bangladesh",
+  "description": "Interview experiences from Bangladeshi tech companies",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/TamimEhsan (Singapore/NTU, BD diaspora)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "AlgorithmVisualizer",
+  "url": "https://github.com/TamimEhsan/AlgorithmVisualizer",
+  "description": "Interactive algorithm visualiser",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/TamimEhsan"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Competitive-Programming-Reference-Bangla",
+  "url": "https://github.com/kabirpofficial/Competitive-Programming-Reference-Bangla",
+  "description": "Competitive programming reference in Bangla",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/kabirpofficial (Dhaka)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "DL-Sneak-Peek",
+  "url": "https://github.com/menon92/DL-Sneak-Peek",
+  "description": "Deep learning resources in Bangla",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/menon92 (Dhaka, Verbex.ai)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "montu-mia",
+  "url": "https://github.com/KhanShaheb34/montu-mia",
+  "description": "System design educational toolkit in Bangla",
+  "license": "custom",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/KhanShaheb34 (Dhaka)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "CSE-Passport",
+  "url": "https://github.com/naemazam/CSE-Passport",
+  "description": "Resources for CSE students in Bangladesh",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: for Every CSE Student in Bangladesh"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "deshistartup",
+  "url": "https://github.com/Deshi-Startup/deshistartup",
+  "description": "Open-source startup manual in Bangla",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/Deshi-Startup (org location: Bangladesh)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-income-tax-calculator",
+  "url": "https://github.com/ssi-anik/bd-income-tax-calculator",
+  "description": "Bangladeshi income tax calculator",
+  "license": "MPL-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/ssi-anik (Dhaka, Pathao)"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "protidhwani",
+  "url": "https://github.com/ragib01-kuet/protidhwani",
+  "description": "Community safety intelligence platform",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/ragib01-kuet (Khulna)"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "nyayota",
+  "url": "https://github.com/afnan0356/nyayota",
+  "description": "Bangladeshi legal information platform",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: Bangladesh law"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "metrox-app",
+  "url": "https://github.com/fahim2443/metrox-app",
+  "description": "Dhaka Metro Rail NFC card balance app",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/fahim2443 (MetroX)"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Nongor",
+  "url": "https://github.com/AuvroIslam/Nongor",
+  "description": "Offline flood SOS companion for Bangladesh",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: offline crisis companion for Bangladesh"
+  },
+  "section": "crisis-response",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "mukto-mesh",
+  "url": "https://github.com/HyperZx2O/mukto-mesh",
+  "description": "Internet-shutdown community mesh hub",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README cites July 2024 BD internet shutdown"
+  },
+  "section": "crisis-response",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "HaorFloodAlert",
+  "url": "https://github.com/shkoli/HaorFloodAlert",
+  "description": "ML flood prediction for the haor region",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/shkoli (Sylhet)"
+  },
+  "section": "crisis-response",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Website-Vulnerability-Scanner",
+  "url": "https://github.com/RanaKhan77/Website-Vulnerability-Scanner",
+  "description": "Scanner with 202 deterministic security modules",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/RanaKhan77"
+  },
+  "section": "security",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Exposure-Check-OSINT",
+  "url": "https://github.com/RanaKhan77/Exposure-Check-OSINT",
+  "description": "Self-hosted OSINT exposure checker",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/RanaKhan77"
+  },
+  "section": "security",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BDIX",
+  "url": "https://github.com/0xAhmadYousuf/BDIX",
+  "description": "BDIX servers checker",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/0xAhmadYousuf (Dhaka)"
+  },
+  "section": "security",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-geocode",
+  "url": "https://github.com/nuhil/bangladesh-geocode",
+  "description": "Division-district-upazila-union dataset with lat/long",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/nuhil (Boise, BD diaspora)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-geojson",
+  "url": "https://github.com/ifahimreza/bangladesh-geojson",
+  "description": "GeoJSON boundaries with layered licensing",
+  "license": "MIT/ODbL/CC-BY-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/ifahimreza"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "geo-vault",
+  "url": "https://github.com/imran110219/geo-vault",
+  "description": "Deepest BD admin coverage: 4,540 unions + census",
+  "license": "mixed (boundaries CC-BY-3.0 IGO)",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "BD administrative data for all divisions/districts/upazilas/unions"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "laravel-bangladesh-geocode",
+  "url": "https://github.com/devfaysal/laravel-bangladesh-geocode",
+  "description": "BD geography as a Laravel package",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/devfaysal (Bangladesh)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd_gis",
+  "url": "https://github.com/deluair/bd_gis",
+  "description": "40-year geospatial analysis of the Sylhet haor region",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/deluair (UT Knoxville, BD diaspora)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh-Administrative-Data",
+  "url": "https://github.com/goshamishagar/Bangladesh-Administrative-Data",
+  "description": "Administrative areas with bilingual names",
+  "license": "CC0-1.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/goshamishagar (Dhaka)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "shurjopay-plugins",
+  "url": "https://github.com/shurjopay-plugins",
+  "description": "12 official shurjoPay SDKs across languages",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/shurjopay-plugins (org location: Bangladesh)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "sslcommerz",
+  "url": "https://github.com/sslcommerz",
+  "description": "Official SSLCommerz integrations",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/sslcommerz (org location: Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bkash (Shipu)",
+  "url": "https://github.com/Shipu/bkash",
+  "description": "bKash payment client for PHP",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/Shipu (Dhaka, 10 Minute School)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bkash-payment-gateway",
+  "url": "https://github.com/shahriar-shojib/bkash-payment-gateway",
+  "description": "bKash Tokenized Checkout for Node.js",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/shahriar-shojib (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "laravel-bdpaygate",
+  "url": "https://github.com/byteminus/laravel-bdpaygate",
+  "description": "Every BD payment gateway behind one Laravel API",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: Every Bangladeshi payment gateway behind one Laravel API"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "flutter-bkash",
+  "url": "https://github.com/codeboxrcodehub/flutter-bkash",
+  "description": "bKash checkout for Flutter",
+  "license": "BSD-3-Clause",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/codeboxrcodehub (Dhaka, codeboxr.com)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "takaden",
+  "url": "https://github.com/saagoor/takaden",
+  "description": "bKash/Nagad/Rocket/Upay payments for Laravel",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: Bangladeshi payment gateways"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladeshi-parcel-tracker",
+  "url": "https://github.com/mdminhazulhaque/bangladeshi-parcel-tracker",
+  "description": "Track parcels across BD couriers",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/mdminhazulhaque (Dhaka, RedQ)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "RouteXpress",
+  "url": "https://github.com/bytebrain3/RouteXpress",
+  "description": "Courier management for BD logistics",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/bytebrain3 (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "courier-woocommerce-plugin",
+  "url": "https://github.com/pathao-eng/courier-woocommerce-plugin",
+  "description": "Official Pathao courier WooCommerce plugin",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/pathao-eng (Pathao engineering)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Fraud-Checker-BD-Courier-Laravel",
+  "url": "https://github.com/AbiruzzamanMolla/Fraud-Checker-BD-Courier-Laravel",
+  "description": "Courier fraud checking for BD e-commerce",
+  "license": "custom",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/AbiruzzamanMolla (Narsingdi)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "barta",
+  "url": "https://github.com/iRaziul/barta",
+  "description": "Bangladeshi SMS gateways for Laravel",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/iRaziul (Bangladesh)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "laravelbdsms",
+  "url": "https://github.com/arif98741/laravelbdsms",
+  "description": "Multi-gateway BD SMS package for Laravel",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/arif98741 (Dhaka)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bdapis",
+  "url": "https://github.com/AbmSourav/bdapis",
+  "description": "REST API for BD geography in Bangla and English",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/AbmSourav (Rangpur)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "banglaclaw",
+  "url": "https://github.com/Entrogic/banglaclaw",
+  "description": "Web-scraping toolkit for Bangladeshi use cases",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dev-sajid007 (Dhaka)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "filex-editor",
+  "url": "https://www.npmjs.com/package/filex-editor",
+  "description": "Bangla-first terminal text editor",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dev-sajid007 (Dhaka)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Online-Compiler",
+  "url": "https://github.com/shawon100/Online-Compiler",
+  "description": "Self-hosted online compiler platform",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/shawon100 (Canada, BD diaspora)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "RUET-OJ",
+  "url": "https://github.com/shawon100/RUET-OJ",
+  "description": "Online judge used at RUET",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/shawon100"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "docker-beanstalkd",
+  "url": "https://github.com/maateen/docker-beanstalkd",
+  "description": "Docker image for Beanstalkd",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/maateen (Berlin, BD diaspora)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "vim-for-devops",
+  "url": "https://github.com/maateen/vim-for-devops",
+  "description": "DevOps-tuned Vim configuration",
+  "license": "custom",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/maateen"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaBBQ-benchmark",
+  "url": "https://github.com/SummitAnthony/BanglaBBQ-benchmark",
+  "description": "Bias benchmark for QA in the Bangladeshi context",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: bias benchmark in the Bangladeshi context"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "banglabert",
+  "url": "https://github.com/csebuetnlp/banglabert",
+  "description": "BanglaBERT pretrained models from BUET NLP",
+  "license": "CC BY-NC-SA 4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp (BUET CSE NLP group)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaNLG",
+  "url": "https://github.com/csebuetnlp/BanglaNLG",
+  "description": "BanglaT5 generation and summarisation models",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "normalizer",
+  "url": "https://github.com/csebuetnlp/normalizer",
+  "description": "Bangla text normalisation utilities",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "xl-sum",
+  "url": "https://github.com/csebuetnlp/xl-sum",
+  "description": "XL-Sum summarisation dataset research code",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "CrossSum",
+  "url": "https://github.com/csebuetnlp/CrossSum",
+  "description": "Cross-lingual summarisation across 45 languages",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "IllusionVQA",
+  "url": "https://github.com/csebuetnlp/IllusionVQA",
+  "description": "Optical-illusion VQA benchmark",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bbocr",
+  "url": "https://github.com/BengaliAI/bbocr",
+  "description": "Bangla handwriting OCR research",
+  "license": "BSD-3-Clause",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/BengaliAI (org location: Bangladesh)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "graphemePrepare",
+  "url": "https://github.com/BengaliAI/graphemePrepare",
+  "description": "Grapheme recognition data preparation",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/BengaliAI"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Numta",
+  "url": "https://github.com/BengaliAI/Numta",
+  "description": "Handwritten Bangla digit dataset",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/BengaliAI"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BADLAD",
+  "url": "https://github.com/BengaliAI/BADLAD",
+  "description": "Bangla document layout analysis dataset",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/BengaliAI"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BangalASR",
+  "url": "https://github.com/menon92/BangalASR",
+  "description": "Automatic Bangla speech recognition",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/menon92 (Dhaka)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaTranslator",
+  "url": "https://github.com/menon92/BanglaTranslator",
+  "description": "Bangla machine translation experiments",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/menon92"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla-Word2Vec",
+  "url": "https://github.com/menon92/Bangla-Word2Vec",
+  "description": "Pretrained Bangla word embeddings",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/menon92"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "satellite_image_tinhouse_detector",
+  "url": "https://github.com/yasserius/satellite_image_tinhouse_detector",
+  "description": "Tin-roof house detection from BD satellite imagery",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/yasserius (Dhaka)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-newspaper-crawlers",
+  "url": "https://github.com/KSMubasshir/bd-newspaper-crawlers",
+  "description": "Crawlers for BD newspaper archives",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/KSMubasshir (Purdue, BD diaspora)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla-Alphabet",
+  "url": "https://github.com/lifeparticle/Bangla-Alphabet",
+  "description": "Bangla alphabet dataset for ML",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/lifeparticle (Sydney, BD diaspora)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "medicinedb",
+  "url": "https://github.com/WSAyan/medicinedb",
+  "description": "Bangladeshi medicine information dataset",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/WSAyan (Dhaka, UCB)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-divisons-to-unions",
+  "url": "https://github.com/Azim-Ahmed/bd-divisons-to-unions",
+  "description": "Division-to-union lookup data",
+  "license": "ISC",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/Azim-Ahmed (Dhaka)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh_geojson_shapefile",
+  "url": "https://github.com/yasserius/bangladesh_geojson_shapefile",
+  "description": "GeoJSON and shapefile exports of BD boundaries",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/yasserius (Dhaka)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-geographical-data-api",
+  "url": "https://github.com/md-redwan-hossain/bd-geographical-data-api",
+  "description": "REST API for BD geographical data",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "BD geography API"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "KonSchool",
+  "url": "https://github.com/maacpiash/KonSchool",
+  "description": "Fuzzy-AHP school recommender for Bangladesh",
+  "license": "AGPL-3.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/maacpiash (Sydney, BD diaspora)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "F1.VISA.USA",
+  "url": "https://github.com/MahediKamal/F1.VISA.USA",
+  "description": "F-1 visa guide by a Bangladeshi engineer",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/MahediKamal (Bangladesh)"
+  },
+  "section": "education",
+  "last_verified": "2026-10-24"
+ }
+]

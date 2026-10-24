@@ -1,0 +1,12 @@
+{
+ "description": "Provenance for the Awesome Bangladesh catalogue",
+ "verification_date": "2026-10-24",
+ "method": "Each entry carries a Bangladesh-connection evidence URL checked at verification time; licences read from repository/registry pages; activity snapshots from GitHub/registry APIs.",
+ "research_inputs": [
+  "Wave-1 catalogue (2026-10-22, internal)",
+  "Wave-2 research pack (2026-10-24): 01-beyond-github.md, 02-open-data-apis.md, 03-github-expansion.md",
+  "P1 verification pass (2026-10-24): GitHub profile/org location checks + Hugging Face org memberships",
+  "Fresh 2-way API live checks for services (2026-10-24)"
+ ],
+ "excluded": "See docs/verification-queue.md for items lacking evidence and docs/curation-policy.md for exclusion rules."
+}

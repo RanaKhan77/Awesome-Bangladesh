@@ -1,0 +1,86 @@
+[
+ {
+  "name": "bdapis",
+  "url": "https://bdapis.com/",
+  "description": "REST API: divisions, districts, upazilas, postcodes (Bangla+English)",
+  "license": "MIT (code)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/AbmSourav (Rangpur)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bdapi4all",
+  "url": "https://github.com/fakhrul62/bdapi4all",
+  "description": "Keyless BD geography/prayer-times/holidays/rates API",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Bangladesh data API"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-apis",
+  "url": "https://github.com/SudipMHX/bd-apis",
+  "description": "Community collection of BD APIs",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/SudipMHX (Bangladesh)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-apis (directory)",
+  "url": "https://github.com/rdnasim/bangla-apis",
+  "description": "Curated BD API directory (link-only reference)",
+  "license": "none (directory)",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Curated Bangladesh API directory, reviewed Oct 2026"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Frankfurter (BDT)",
+  "url": "https://www.frankfurter.app/",
+  "description": "ECB reference rates incl. BDT (external, free)",
+  "license": "MIT (external)",
+  "bd_connection": {
+   "tier": "external",
+   "evidence": "External service useful for BDT rates"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Prothom Alo RSS",
+  "url": "https://www.prothomalo.com/feed",
+  "description": "RSS 2.0 feed of the leading Bangla daily",
+  "license": "external",
+  "bd_connection": {
+   "tier": "external",
+   "evidence": "Bangladeshi newspaper feed"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "The Daily Star RSS",
+  "url": "https://www.thedailystar.net/frontpage/rss.xml",
+  "description": "Front-page feed of the leading English daily",
+  "license": "external",
+  "bd_connection": {
+   "tier": "external",
+   "evidence": "Bangladeshi newspaper feed"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ }
+]

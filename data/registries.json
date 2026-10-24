@@ -1,0 +1,482 @@
+[
+ {
+  "name": "okkhor",
+  "url": "https://crates.io/crates/okkhor",
+  "description": "Unicode-Bijoy conversion (Rust)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/gulshan (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "poriborton",
+  "url": "https://crates.io/crates/poriborton",
+  "description": "Unicode-Bijoy converter library",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/OpenBangla"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "rupantor",
+  "url": "https://crates.io/crates/rupantor",
+  "description": "Avro Phonetic parser (Rust)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/OpenBangla"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "upodesh",
+  "url": "https://crates.io/crates/upodesh",
+  "description": "Autosuggest engine for Bangla input",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/OpenBangla"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "emojicon",
+  "url": "https://crates.io/crates/emojicon",
+  "description": "Emoji handling with Bangla text",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/mominul (Develops @OpenBangla)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "ponjika",
+  "url": "https://crates.io/crates/ponjika",
+  "description": "Bengali (Bangladeshi) calendar library",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/mustakimur (Milpitas CA, BD diaspora; README: Bengali (Bangladeshi) calendar)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla (crate)",
+  "url": "https://crates.io/crates/bangla",
+  "description": "Bangla number formatting and calendar utilities",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/abusayed0206 (CUET, BD)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "@waveinno/ui",
+  "url": "https://www.npmjs.com/package/@waveinno/ui",
+  "description": "The React design system from Bangladesh",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm description: the React design system from Bangladesh"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-calendar",
+  "url": "https://www.npmjs.com/package/bangla-calendar",
+  "description": "Bangla calendar for JavaScript",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sh4hids (Feni)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-to-banglish",
+  "url": "https://www.npmjs.com/package/bangla-to-banglish",
+  "description": "Bangla script to Banglish transliteration",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/hasinhayder (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-likhi",
+  "url": "https://www.npmjs.com/package/bangla-likhi",
+  "description": "Bangla typing made easy",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/toufikforyou (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-pdf",
+  "url": "https://www.npmjs.com/package/bangla-pdf",
+  "description": "Generate PDFs with Bangla text (Node)",
+  "license": "BSD-3-Clause",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/zamansheikh (Mymensingh)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "banglapdf",
+  "url": "https://pypi.org/project/banglapdf/",
+  "description": "Bangla PDF generation for Python",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/mahbub-dev (Rohanpur, Rajshahi)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "sslcommerz-lts",
+  "url": "https://www.npmjs.com/package/sslcommerz-lts",
+  "description": "Official SSLCommerz Node SDK",
+  "license": "ISC",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/sslcommerz (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "laravel-bkash-tokenize",
+  "url": "https://packagist.org/packages/karim007/laravel-bkash-tokenize",
+  "description": "bKash Tokenized Checkout for Laravel",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/karim-007 (Toronto, BD diaspora)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "laravel-sslcommerz (dgvai)",
+  "url": "https://packagist.org/packages/dgvai/laravel-sslcommerz",
+  "description": "SSLCommerz for Laravel",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/dgvai (Marietta GA, BD diaspora; package built for SSLCommerz BD)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "sslcommerz-laravel (iRaziul)",
+  "url": "https://github.com/iRaziul/sslcommerz-laravel",
+  "description": "SSLCommerz integration for Laravel",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/iRaziul (Bangladesh)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "easy-bangla-date",
+  "url": "https://packagist.org/packages/ronisaha/easy-bangla-date",
+  "description": "Bangla date conversion for PHP",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/ronisaha (Dhaka, BRAC IT)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "number-to-bangla",
+  "url": "https://github.com/rakibdevs/number-to-bangla",
+  "description": "Numbers to Bangla words and digits",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/rakibdevs (Bangladesh, Portonics)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "sms-service-with-bd-providers",
+  "url": "https://github.com/sarahman/sms-service-with-bd-providers",
+  "description": "Laravel SMS across BD providers",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sarahman (Mirpur, Dhaka)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "to_bn",
+  "url": "https://rubygems.org/gems/to_bn",
+  "description": "English-to-Bangla numerals (Ruby)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/codedefine (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaToEnglish",
+  "url": "https://rubygems.org/gems/BanglaToEnglish",
+  "description": "Bangla-to-English conversion (Ruby)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/antorkhan (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd_location",
+  "url": "https://rubygems.org/gems/bd_location",
+  "description": "BD location data (Ruby)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/tauhidul35 (Banani, Dhaka)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bkash-js",
+  "url": "https://www.npmjs.com/package/bkash-js",
+  "description": "bKash web client",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/ShejanMahamud (Bangladesh)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "paykit-bd",
+  "url": "https://www.npmjs.com/package/paykit-bd",
+  "description": "Payment clients for BD gateways",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/joarder97 (profile: payment clients for Bangladeshi gateways)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "react-bangla-pay-icons",
+  "url": "https://www.npmjs.com/package/react-bangla-pay-icons",
+  "description": "BD payment brand icons for React",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/arefinMilen (bio: Dhaka, Bangladesh)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-bank-routing",
+  "url": "https://www.npmjs.com/package/bd-bank-routing",
+  "description": "BEFTN bank routing numbers",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/MdHRShohel (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "routexpress-bd",
+  "url": "https://www.npmjs.com/package/routexpress-bd",
+  "description": "Steadfast/Pathao/RedX courier API client",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/bytebrain3 (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "pathao-courier (TS)",
+  "url": "https://github.com/shahria7k/pathao-courier",
+  "description": "Pathao courier SDK for TypeScript",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/shahria7k (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "SSLCommerz-Python",
+  "url": "https://github.com/dreygur/SSLCommerz-Python",
+  "description": "SSLCommerz client for Python",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dreygur (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bkashgo",
+  "url": "https://github.com/dreygur/bkashgo",
+  "description": "bKash API client for Go",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dreygur (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bkash-rs",
+  "url": "https://github.com/dibakarsutradhar/bkash-rs",
+  "description": "bKash payment client for Rust",
+  "license": "custom",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dibakarsutradhar (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bkash (msilabs)",
+  "url": "https://github.com/msilabs/bkash",
+  "description": "bKash API for Laravel",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/msilabs (org location: Bangladesh)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "nagadApi",
+  "url": "https://github.com/arif98741/nagadApi",
+  "description": "Nagad payment API for PHP",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/arif98741 (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bd-geo-info",
+  "url": "https://www.npmjs.com/package/bd-geo-info",
+  "description": "Zero-dependency TS/JS BD geography library",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/iamtashanto (Bangladesh)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "@bangladeshi/bangladesh-address",
+  "url": "https://www.npmjs.com/package/@bangladeshi/bangladesh-address",
+  "description": "Divisions/districts/upazilas as structured data",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/rajuAhmed1705 (Berlin, BD diaspora)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-location-data",
+  "url": "https://www.npmjs.com/package/bangladesh-location-data",
+  "description": "Location datasets for JS apps",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sohan-99 (Bogura)"
+  },
+  "section": "geography",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-ai-sdk",
+  "url": "https://pypi.org/project/bangla-ai-sdk/",
+  "description": "SDK for the Bangla AI commercial gateway",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/jayeeed (Dhaka, ACI PLC)"
+  },
+  "section": "apis",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "banglanlptoolkit",
+  "url": "https://pypi.org/project/banglanlptoolkit/",
+  "description": "All-in-one Bangla NLP toolkit",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://huggingface.co/kabir5297 (ACI MIS AI & Intelsense AI, BD companies)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladeshi-parcel-tracker (PyPI)",
+  "url": "https://pypi.org/project/bangladeshi-parcel-tracker/",
+  "description": "BD parcel tracking (Python)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/mdminhazulhaque (Dhaka)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-10-24"
+ }
+]

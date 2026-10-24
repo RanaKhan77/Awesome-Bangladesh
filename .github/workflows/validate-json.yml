@@ -1,0 +1,40 @@
+name: validate-json
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator
+        run: pip install jsonschema
+      - name: Validate catalogues
+        run: |
+          python - <<'EOF'
+          import glob
+          import json
+          import jsonschema
+
+          schema = json.load(open('data/schema.json'))
+          service_required = ['name', 'url', 'description', 'access_model', 'license', 'note', 'last_verified']
+          total = 0
+          for path in sorted(glob.glob('data/*.json')):
+              if path.endswith(('schema.json', 'sources.json')):
+                  continue
+              records = json.load(open(path))
+              for rec in records:
+                  total += 1
+                  if 'access_model' in rec:
+                      missing = [k for k in service_required if k not in rec]
+                      assert not missing, f'{path}: {rec.get("name")} missing {missing}'
+                  else:
+                      jsonschema.validate(rec, schema)
+          print(f'{total} records validated OK')
+          EOF

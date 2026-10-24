@@ -1,0 +1,230 @@
+[
+ {
+  "name": "data.gov.bd",
+  "url": "https://data.gov.bd/",
+  "description": "Bangladesh Open Data Portal: ~90 datasets, 35+ ministries",
+  "license": "unspecified (per dataset)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "National open-data portal of Bangladesh"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "ogdnew.portal.gov.bd",
+  "url": "https://ogdnew.portal.gov.bd/",
+  "description": "National Open Government Data portal",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Government of Bangladesh portal"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BBS",
+  "url": "https://bbs.gov.bd/",
+  "description": "Bangladesh Bureau of Statistics official data",
+  "license": "unspecified (per release)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "National statistics office"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh-Legal-Acts-Dataset",
+  "url": "https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset",
+  "description": "Laws of Bangladesh, machine-readable",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sakhadib (Bangladesh, IUT)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-bagdhara",
+  "url": "https://huggingface.co/datasets/sakhadib/bangla-bagdhara",
+  "description": "Bangla idioms dataset",
+  "license": "CC-BY-SA-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sakhadib"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "xlsum",
+  "url": "https://huggingface.co/datasets/csebuetnlp/xlsum",
+  "description": "Multilingual summarisation dataset covering Bangla",
+  "license": "CC BY-NC-SA 4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaNMT",
+  "url": "https://huggingface.co/datasets/csebuetnlp/BanglaNMT",
+  "description": "Bangla-English parallel corpus",
+  "license": "CC BY-NC-SA 4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "CommonVoiceBangla",
+  "url": "https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla",
+  "description": "Bangla speech corpus",
+  "license": "CC0-1.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/BengaliAI"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "BanglaSocialBias",
+  "url": "https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias",
+  "description": "Social bias dataset for Bangla",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "https://github.com/csebuetnlp"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla-Alphabet",
+  "url": "https://github.com/lifeparticle/Bangla-Alphabet",
+  "description": "Bangla alphabet dataset for ML",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/lifeparticle (Sydney, BD diaspora)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "RSUD20K",
+  "url": "https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding",
+  "description": "Bangladesh road scene understanding images",
+  "license": "CC BY-NC 4.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/hasibzunair (Toronto, BD diaspora)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "assorted-medicine-dataset-of-bangladesh",
+  "url": "https://www.kaggle.com/datasets/ahmedshahriarsakib/assorted-medicine-dataset-of-bangladesh",
+  "description": "BD brand and generic medicine data",
+  "license": "CC0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Dataset of Bangladeshi medicines"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangla-newspaper-dataset",
+  "url": "https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset",
+  "description": "400k+ Bangla news articles",
+  "license": "other (see dataset page)",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/zabir-nabil (BD diaspora; furcifer on Kaggle)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-districts-wise-population",
+  "url": "https://www.kaggle.com/datasets/msjahid/bangladesh-districts-wise-population",
+  "description": "District population statistics",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "https://github.com/msjahid (Washington DC, BD diaspora)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "bangladesh-weather-dataset",
+  "url": "https://www.kaggle.com/datasets/yakinrubaiat/bangladesh-weather-dataset",
+  "description": "Climate observations 1901-2023",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Bangladesh weather data"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "dengue-dataset-bangladesh",
+  "url": "https://www.kaggle.com/datasets/kawsarahmad/dengue-dataset-bangladesh",
+  "description": "Dengue cases over time",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Bangladesh health data"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "dhakaai-traffic-detection",
+  "url": "https://www.kaggle.com/datasets/rifat963/dhakaai-dhaka-based-traffic-detection-dataset",
+  "description": "Dhaka traffic detection dataset",
+  "license": "GPL-2.0",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "DhakaAI smart-city initiative data"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Postcodes-of-Bangladesh",
+  "url": "https://github.com/aiFdn/Postcodes-of-Bangladesh",
+  "description": "Postal code dataset",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "Bangladesh postal data"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh-Unified-SIM-Codes",
+  "url": "https://github.com/dibbockb/Bangladesh-Unified-SIM-Codes",
+  "description": "Telecom operator codes",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/dibbockb (Chittagong)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-24"
+ }
+]
