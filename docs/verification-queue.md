@@ -112,3 +112,19 @@ on scope (they distribute pirated streams); the rest are queued below, strongest
 Rejected with reasons (do not re-research): four BDIX IPTV M3U collections
 (Rokon-IPTV, BDXI_KB, bdiptv, Mrgify-BDIX-IPTV) distribute pirated television
 streams - excluded on scope regardless of popularity.
+
+## Held from Wave 4 (Hugging Face + platform research, October 2026)
+
+| Item | What it is | Why held | Watch trigger |
+|---|---|---|---|
+| [Ojogor](https://codeberg.org/ratulhasanruhan/Ojogor) | Bangla-syntax programming language (Codeberg), MIT, works | Satirical/esolang with zero adoption — add when it gains community use | stars or real projects built in it |
+| [Qwen2.5-7B-Bangla-Physics-NCTB](https://huggingface.co/livesiyam/Qwen2.5-7B-Bangla-Physics-NCTB) | Apache-2.0 NCTB physics tutor model | Adoption unproven (fresh release) | downloads/likes or classroom use reports |
+| [titu_stt_bn_fastconformer](https://huggingface.co/hishab/titu_stt_bn_fastconformer) | 18K-hr MegaBNSpeech STT, cc-by-nc-4.0 | 79 downloads; non-commercial licence | downloads or a commercial relicence |
+| [bd-mask-rct](https://gitlab.com/emily-crawford/bd-mask-rct) | Science 2021 cluster-RCT replication data (340k participants, rural Bangladesh) | International-led research team — data *about* Bangladesh, not by BD builders or a BD tool; scope call needed | maintainer decision on scope policy |
+| [bd-offline-geocoder](https://www.npmjs.com/package/bd-offline-geocoder) | Offline reverse geocoder | Maintainer Bangkok-based; BD origin unconfirmed (already queued above) | maintainer evidence |
+| [bangladesh-geojson (npm)](https://www.npmjs.com/package/bangladesh-geojson) | GeoJSON data package | Function covered by bd-geo-info, bangladesh-geocode and Geofabrik | unique-data differentiation |
+| [bengalinlp (PyPI)](https://pypi.org/project/bengalinlp/) | NLP toolkit | Registry licence unclear; function covered by bnlp/bnltk | licence clarification |
+| [banglish (PyPI)](https://pypi.org/project/banglish/) | Name transliteration | Function covered by bangla-to-english-name-translator (npm) | — |
+| [bangtex (PyPI)](https://pypi.org/project/bangtex/) | Bangla LaTeX converter | Function covered by LaTeXbangla + BOOKbangla | — |
+| [prayer-time-bd (npm)](https://www.npmjs.com/package/prayer-time-bd) | CLI prayer-times app | Function covered by bdapi4all (listed) | — |
+| [@classytic/ledger-bd (npm)](https://www.npmjs.com/package/@classytic/ledger-bd) | BFRS accounting pack | Custom licence needs reading before listing | licence review |

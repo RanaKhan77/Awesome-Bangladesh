@@ -214,5 +214,221 @@
   },
   "section": "datasets",
   "last_verified": "2026-10-24"
+ },
+ {
+  "name": "titulm-bangla-corpus",
+  "url": "https://huggingface.co/datasets/hishab/titulm-bangla-corpus",
+  "description": "24.3M-doc Bangla pre-training corpus (147 GB) from Hishab (Dhaka)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Hishab Ltd, Dhaka; TituLLMs paper arXiv 2502.11187"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaEng-SynCorpus",
+  "url": "https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus",
+  "description": "Synthetic Bangla-English parallel corpus (926 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Card authors: Md. Eamin Rahman + Dr. Reza Selim, Dept. of CSE, SUST"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "SUBAK.KO",
+  "url": "https://huggingface.co/datasets/SUST-CSE-Speech/SUBAK.KO",
+  "description": "Bangla speech corpus from SUST CSE speech lab (678 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Card: Developed by Dept. of CSE, SUST, Bangladesh"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangladeshi-jobs",
+  "url": "https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs",
+  "description": "Weekly-refreshed Bangladeshi tech-jobs dataset (902 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Author GitHub location: Dhaka, Bangladesh"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla_Financial_news",
+  "url": "https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news",
+  "description": "Bangla financial news corpus for DSE stock research (1,049 dl)",
+  "license": "cc0-1.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Cited in 'Stock Market Prediction of Bangladesh Using Multivariate LSTM' journal paper"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangladesh-stock-market-dataset",
+  "url": "https://huggingface.co/datasets/kawsersikder/bangladesh-stock-market-dataset",
+  "description": "Dhaka Stock Exchange daily data (835 dl)",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Content explicitly DSE: ABBANK, BANKASIA, BRACBANK..."
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglishRev e-commerce reviews",
+  "url": "https://huggingface.co/datasets/BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset",
+  "description": "1.74M Daraz reviews, Bangla-English code-mixed (736 dl)",
+  "license": "cc-by-nc-sa-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Paper arXiv 2412.13161 authors: UIU Dhaka faculty (Shatabda, Islam)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaRQA",
+  "url": "https://huggingface.co/datasets/sartajekram/BanglaRQA",
+  "description": "Bangla reading-comprehension benchmark (203 dl)",
+  "license": "cc-by-nc-sa-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Author GitHub location: Chittagong, Bangladesh; University of Chittagong co-authors"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla-Instruct",
+  "url": "https://huggingface.co/datasets/md-nishat-008/Bangla-Instruct",
+  "description": "172k instruction pairs from 163 NCTB textbooks (ACL 2025)",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "Author Nishat Raihan (BD, GMU); built from NCTB Bangladesh curriculum"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangladesh 2026 National Election Candidates",
+  "url": "https://www.kaggle.com/datasets/dkhalidashik/candidate-info-2026-national-election-bangladesh",
+  "description": "Candidate list for 13th Jatiya Sangsad election",
+  "license": "apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Dataset explicitly the Bangladesh 2026 election candidate list"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangladesh Road Accident News 2014-2025",
+  "url": "https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-news-report-dataset",
+  "description": "~3,000 road-accident reports from Prothom Alo",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Data source Prothom Alo (leading Bangladeshi newspaper); Bangladesh road accidents"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Dengue and Weather Data Bangladesh",
+  "url": "https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh",
+  "description": "Spatio-temporal dengue + weather from DGHS, all 8 divisions",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangladesh DGHS data; all eight BD divisions"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "July Revolution Sentiment (Bangla)",
+  "url": "https://www.kaggle.com/datasets/sabbir5622r/july-revolution-sentiment-analysis-dataset-bangla",
+  "description": "Public-sentiment corpus from July 2024 uprising; arXiv 2507.11084",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Authors (Hossen, Saiduzzaman, Shaha) Bangladeshi researchers"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bengali OCR Dataset 1M",
+  "url": "https://www.kaggle.com/datasets/mnsm92/bengali-ocr-dataset-1m",
+  "description": "1M annotated printed and handwritten images for Bangla OCR",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "Used by Bangla ML community; mnsm92 (BD, also OpenDengue author)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "SUBESCO Bangla Speech Emotion",
+  "url": "https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset",
+  "description": "Audio-only emotional speech corpus, SUST researchers (1,106 dl)",
+  "license": "cc-by-nc-sa-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Original: SUST researchers (Saila et al.)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla Isolated Speech Dataset",
+  "url": "https://www.kaggle.com/datasets/mehrabhosain/bangla-isolated-speech-dataset",
+  "description": "1,800 isolated-word Bangla/English samples (2025; also Mendeley)",
+  "license": "lgpl-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Authors: Bhadra, Dipayan; Hosain, Mehrab; Alam, Fatema (2025)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "IOM NPM Cox's Bazar UAV imagery",
+  "url": "https://data.humdata.org/dataset/iom-npm-cox-bazar-uav-imagery",
+  "description": "Needs and Population Monitoring imagery for Rohingya camps",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "IOM Bangladesh mission; covers Cox's Bazar camps"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "OpenDengue",
+  "url": "https://doi.org/10.6084/m9.figshare.24259573",
+  "description": "Open global dengue case database incl. Bangladesh DGHS series",
+  "license": "cc-by-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Contains Bangladesh monthly/daily dengue series (DGHS-sourced)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
  }
 ]
