@@ -48,18 +48,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "Frankfurter (BDT)",
-  "url": "https://www.frankfurter.app/",
-  "description": "ECB reference rates incl. BDT (external, free)",
-  "license": "MIT (external)",
-  "bd_connection": {
-   "tier": "external",
-   "evidence": "External service useful for BDT rates"
-  },
-  "section": "apis",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "Prothom Alo RSS",
   "url": "https://www.prothomalo.com/feed",
   "description": "RSS 2.0 feed of the leading Bangla daily",

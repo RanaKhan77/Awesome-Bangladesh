@@ -252,18 +252,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "bd-income-tax-calculator",
-  "url": "https://github.com/ssi-anik/bd-income-tax-calculator",
-  "description": "Bangladeshi income tax calculator",
-  "license": "MPL-2.0",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/ssi-anik (Dhaka, Pathao)"
-  },
-  "section": "civic-tech",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "protidhwani",
   "url": "https://github.com/ragib01-kuet/protidhwani",
   "description": "Community safety intelligence platform",
@@ -463,30 +451,6 @@
   "bd_connection": {
    "tier": "C",
    "evidence": "https://github.com/sslcommerz (org location: Dhaka)"
-  },
-  "section": "fintech",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "bkash (Shipu)",
-  "url": "https://github.com/Shipu/bkash",
-  "description": "bKash payment client for PHP",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/Shipu (Dhaka, 10 Minute School)"
-  },
-  "section": "fintech",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "bkash-payment-gateway",
-  "url": "https://github.com/shahriar-shojib/bkash-payment-gateway",
-  "description": "bKash Tokenized Checkout for Node.js",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/shahriar-shojib (Dhaka)"
   },
   "section": "fintech",
   "last_verified": "2026-10-24"
@@ -828,18 +792,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "BanglaTranslator",
-  "url": "https://github.com/menon92/BanglaTranslator",
-  "description": "Bangla machine translation experiments",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/menon92"
-  },
-  "section": "aiml",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "Bangla-Word2Vec",
   "url": "https://github.com/menon92/Bangla-Word2Vec",
   "description": "Pretrained Bangla word embeddings",
@@ -849,30 +801,6 @@
    "evidence": "https://github.com/menon92"
   },
   "section": "aiml",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "satellite_image_tinhouse_detector",
-  "url": "https://github.com/yasserius/satellite_image_tinhouse_detector",
-  "description": "Tin-roof house detection from BD satellite imagery",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/yasserius (Dhaka)"
-  },
-  "section": "aiml",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "bd-newspaper-crawlers",
-  "url": "https://github.com/KSMubasshir/bd-newspaper-crawlers",
-  "description": "Crawlers for BD newspaper archives",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "B",
-   "evidence": "https://github.com/KSMubasshir (Purdue, BD diaspora)"
-  },
-  "section": "bangla-nlp",
   "last_verified": "2026-10-24"
  },
  {
@@ -888,18 +816,6 @@
   "last_verified": "2026-10-24"
  },
  {
-  "name": "medicinedb",
-  "url": "https://github.com/WSAyan/medicinedb",
-  "description": "Bangladeshi medicine information dataset",
-  "license": "MIT",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/WSAyan (Dhaka, UCB)"
-  },
-  "section": "datasets",
-  "last_verified": "2026-10-24"
- },
- {
   "name": "bd-divisons-to-unions",
   "url": "https://github.com/Azim-Ahmed/bd-divisons-to-unions",
   "description": "Division-to-union lookup data",
@@ -907,18 +823,6 @@
   "bd_connection": {
    "tier": "A",
    "evidence": "https://github.com/Azim-Ahmed (Dhaka)"
-  },
-  "section": "geography",
-  "last_verified": "2026-10-24"
- },
- {
-  "name": "bangladesh_geojson_shapefile",
-  "url": "https://github.com/yasserius/bangladesh_geojson_shapefile",
-  "description": "GeoJSON and shapefile exports of BD boundaries",
-  "license": "unspecified",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "https://github.com/yasserius (Dhaka)"
   },
   "section": "geography",
   "last_verified": "2026-10-24"
@@ -1015,18 +919,6 @@
   "bd_connection": {
    "tier": "B",
    "evidence": "https://sayom.me (AIUB degree, meldCX Dhaka)"
-  },
-  "section": "bangla-nlp",
-  "last_verified": "2026-10-25"
- },
- {
-  "name": "rupantor-rs",
-  "url": "https://github.com/OpenBangla/rupantor-rs",
-  "description": "Bengali phonetic parser in Rust; the parsing engine behind Avro-style typing (13k+ crate downloads)",
-  "license": "MPL-2.0",
-  "bd_connection": {
-   "tier": "A",
-   "evidence": "OpenBangla community (Bangladesh)"
   },
   "section": "bangla-nlp",
   "last_verified": "2026-10-25"

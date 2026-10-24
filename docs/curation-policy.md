@@ -33,8 +33,24 @@ stopped working in 2019.
   automatically.
 - Licence and activity claims carry a capture date in `data/*.json` where
   machine-readable records exist.
-- Entries are not deleted merely for going dormant — archived knowledge is
-  still knowledge — but they may be annotated.
+- **Dormancy rule (3 years).** An item with no release, commit or publish
+  activity for three or more years moves to [legacy.md](../legacy.md) with its
+  last-activity date and the reason it moved. It is never silently deleted —
+  legacy.md keeps the history and the honest labels.
+- **Stale-rules / stale-data override.** Data or rules that are supposed to
+  track a changing reality (tax slabs, medicine listings, laws, postcodes) move
+  to legacy.md at any age once they no longer reflect that reality — a
+  three-year-old tax calculator is already wrong.
+- **Frozen-by-design carve-out.** Research corpora, benchmarks, trained models
+  and paper-companion code do not need activity to stay listed: a frozen
+  dataset is complete, not unmaintained. They stay in the main list as long as
+  they remain genuinely usable (downloadable, loadable, cited).
+- **Community carve-out.** Community organisations are listed for their
+  community role, not for their GitHub push activity — their real activity
+  happens offline (events, deployments, mentorship).
+- Moving an item to legacy.md is a normal maintenance action, not a judgement
+  against its author. Anyone may argue an item back into the main list by
+  showing renewed releases.
 
 ## Section rules
 

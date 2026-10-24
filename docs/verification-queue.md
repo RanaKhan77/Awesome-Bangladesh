@@ -65,6 +65,22 @@ Last reviewed: 2026-10-25.
 - **bdnews24 legacy RSS URL** — returns HTML, not a feed.
 - **bulksmsbd.com API endpoint** — connection failure from our sandbox at
   audit time; the service itself may still be up for customers.
+- **yasserius/bangladesh_geojson_shapefile** — removed October 2026: the repo
+  contains only a README and a screenshot; the claimed GeoJSON/shapefile
+  exports do not exist in the repo (data sits on external drives). Promotional
+  shell — do not re-list.
+- **Frankfurter (frankfurter.app)** — removed October 2026: it does not serve
+  BDT (ECB's reference-rate list has no BDT), so its "BDT rates" value was a
+  false claim. Replaced by the keyless open endpoint
+  [open.er-api.com/v6/latest/BDT](https://open.er-api.com/v6/latest/BDT)
+  (verified live, daily updates).
+- **ogdnew.portal.gov.bd** — domain retired (NXDOMAIN, October 2026); the OGD
+  portal now lives at ogdnew.sdg.gov.bd (verified live), which is what the
+  list points to.
+- **BanglishRev (HF org)** — graduated from this queue October 2026: the
+  companion paper (arXiv 2412.13161) lists UIU Dhaka faculty (Swakkhar
+  Shatabda, Salekul Islam) as authors; BD connection now verified — eligible
+  for the datasets section on the next content pass.
 
 ## From the October 2026 community-suggestion review
 
