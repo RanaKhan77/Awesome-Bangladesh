@@ -1,6 +1,6 @@
 # 🗃️ Datasets & open data
 
-<img src="../../assets/blog/blog-opendata.png" width="896" alt="🗃️ Datasets & open data banner">
+<img src="../../assets/sections/banner-datasets.svg" width="896" alt="🗃️ Datasets & open data banner">
 
 > Part of **[Awesome Bangladesh](../../README.md)** · All section guides: **[index](index.md)**
 
@@ -16,7 +16,7 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [Open Government Data Portal](https://ogdnew.sdg.gov.bd/) | National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets | ⚠️ Licence unspecified — verify on the dataset page before reuse | 🔵 BD org / for-BD |
 | [Bangladesh Bureau of Statistics](https://bbs.gov.bd/) | Official statistics, surveys and census downloads | ⚠️ Licence unspecified per release | 🔵 BD org / for-BD |
 | [Bangladesh-Administrative-Data](https://github.com/goshamishagar/Bangladesh-Administrative-Data) | Administrative divisions with Bangla and English names | CC0-1.0 | 🟢 BD-based |
-| [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) | Bangla alphabet dataset for ML | MIT | 🟡 Diaspora |
+| [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) | Bangla alphabet dataset for ML — letters, numerals and punctuation as organised image data, a teaching and classification starter set | MIT | 🟡 Diaspora |
 | [Bangladesh-Legal-Acts-Dataset](https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset) | Laws of Bangladesh, machine-readable | CC-BY-4.0 | 🟢 BD-based |
 | [bangla-bagdhara](https://huggingface.co/datasets/sakhadib/bangla-bagdhara) | Bangla idioms (bagdhara) dataset | CC-BY-SA-4.0 | 🟢 BD-based |
 | [xlsum](https://huggingface.co/datasets/csebuetnlp/xlsum) | Large-scale multilingual summarisation dataset covering Bangla news | ⚠️ CC BY-NC-SA 4.0 — non-commercial | 🔵 BD org / for-BD |
@@ -26,8 +26,8 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [BanglaEng-SynCorpus](https://huggingface.co/datasets/Eamin-sust/BanglaEng-SynCorpus) | Synthetic Bangla-English parallel corpus built by SUST CSE faculty | CC-BY-4.0 | 🟢 BD-based |
 | [SUBAK.KO](https://huggingface.co/datasets/SUST-CSE-Speech/SUBAK.KO) | Bangla speech corpus from the SUST CSE speech lab | CC-BY-4.0 | 🟢 BD-based |
 | [Bengali.AI datasets portal](https://www.bengali.ai/datasets/) | Open training partitions for Bengali language research (Ben-10, document layout, speech, handwriting) hosted on Kaggle and Hugging Face. | — | see list |
-| [Numta](https://github.com/BengaliAI/Numta) | Handwritten Bangla digit dataset | MIT | 🔵 BD org / for-BD |
-| [BADLAD](https://github.com/BengaliAI/BADLAD) | Bangla document layout analysis dataset | ⚠️ No licence file | 🔵 BD org / for-BD |
+| [Numta](https://github.com/BengaliAI/Numta) | Handwritten Bangla digit dataset from Bengali.AI — the classic "MNIST of Bangla" that introduced thousands of students to computer vision | MIT | 🔵 BD org / for-BD |
+| [BADLAD](https://github.com/BengaliAI/BADLAD) | Bangla document layout analysis dataset — annotated scanned documents for training models that understand Bangla page structure | ⚠️ No licence file | 🔵 BD org / for-BD |
 | [BanglaSocialBias](https://huggingface.co/datasets/csebuetnlp/BanglaSocialBias) | Social bias measurement dataset for Bangla | CC-BY-4.0 | 🔵 BD org / for-BD |
 | [bangladeshi-jobs](https://huggingface.co/datasets/swadhinbiswas/bangladeshi-jobs) | Weekly-refreshed Bangladeshi tech-jobs dataset | CC-BY-4.0 | 🟢 BD-based |
 | [Bangla_Financial_news](https://huggingface.co/datasets/ashtrayAI/Bangla_Financial_news_articles_Dataset) | Bangla financial news corpus used for DSE stock prediction research | CC0-1.0 | 🔵 BD org / for-BD |
@@ -39,13 +39,13 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [RSUD20K — Bangladesh Road Scene Understanding](https://www.kaggle.com/datasets/hasibzunair/rsud20k-bangladesh-road-scene-understanding) | 20k annotated road-scene images | ⚠️ CC BY-NC 4.0 | 🟡 Diaspora |
 | [Assorted Medicine Dataset of Bangladesh](https://www.kaggle.com/datasets/ahmedshahriarsakib/assorted-medicine-dataset-of-bangladesh) | Brand and generic medicine data | CC0 | see list |
 | [Bangla Newspaper Dataset](https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset) | 400k+ Bangla news articles from Bangladeshi papers. | — | 🟡 Diaspora |
-| [Bangladesh District-wise Population](https://www.kaggle.com/datasets/msjahid/bangladesh-districts-wise-population) | District population statistics | Apache-2.0 | 🟡 Diaspora |
+| [Bangladesh District-wise Population](https://www.kaggle.com/datasets/msjahid/bangladesh-districts-wise-population) | District population statistics — all 64 districts in one table for per-capita maths and choropleth maps | Apache-2.0 | 🟡 Diaspora |
 | [Bangladesh Weather Dataset 1901–2023](https://www.kaggle.com/datasets/yakinrubaiat/bangladesh-weather-dataset) | Century of climate observations | CC-BY-4.0 | see list |
-| [Dengue Dataset Bangladesh](https://www.kaggle.com/datasets/kawsarahmad/dengue-dataset-bangladesh) | Dengue cases over time | CC-BY-4.0 | see list |
+| [Dengue Dataset Bangladesh](https://www.kaggle.com/datasets/kawsarahmad/dengue-dataset-bangladesh) | Dengue cases over time — the time-series baseline for the annual outbreak problem | CC-BY-4.0 | see list |
 | [Dhaka AI Traffic Detection Dataset](https://www.kaggle.com/datasets/rifat963/dhakaai-dhaka-based-traffic-detection-dataset) | Dhaka traffic detection for smart-city research | GPL-2.0 | see list |
 | [Dhaka Stock Exchange Historical Data](https://www.kaggle.com/datasets/shuvokumarbasak2030/bd-dhaka-stock-exchange-historical-data-s1999-2023) | DSE historical prices 1999–2023 | MIT | see list |
-| [House Rent in Dhaka City](https://www.kaggle.com/datasets/taeefnajib/house-rent-in-dhaka-city) | Rental listings dataset | ⚠️ CC BY-NC 4.0 | see list |
-| [COVID-19 in Bangladesh](https://www.kaggle.com/datasets/jhossain/covid19-in-bangladesh) | Pandemic case data. | — | see list |
+| [House Rent in Dhaka City](https://www.kaggle.com/datasets/taeefnajib/house-rent-in-dhaka-city) | Rental listings dataset for the capital — the reality of Dhaka housing costs in structured form | ⚠️ CC BY-NC 4.0 | see list |
+| [COVID-19 in Bangladesh](https://www.kaggle.com/datasets/jhossain/covid19-in-bangladesh) | Pandemic case data for Bangladesh — the historical record of the 2020–2023 period | — | see list |
 | [Bangladesh 2026 National Election Candidates](https://www.kaggle.com/datasets/dkhalidashik/candidate-info-2026-national-election-bangladesh) | Candidate list for the 13th Jatiya Sangsad election | Apache-2.0 | 🟢 BD-based |
 | [Bangladesh Road Accident News 2014-2025](https://www.kaggle.com/datasets/altakvirahmedjisan/bangladesh-road-accident-data-from-prothom-alo) | ~3,000 road-accident reports scraped from Prothom Alo | MIT | 🔵 BD org / for-BD |
 | [Dengue and Weather Data Bangladesh](https://www.kaggle.com/datasets/brownsugar297/dengue-and-weather-data-bangladesh-20222025) | Spatio-temporal dengue + weather data from DGHS, all eight divisions | CC-BY-4.0 | 🔵 BD org / for-BD |
@@ -62,9 +62,9 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 
 ## Editor's picks
 
-### **Bangla.gov.bd datasets & models**
+### [titulm-bangla-corpus](https://huggingface.co/datasets/hishab/titulm-bangla-corpus)
 
-The state's own Bangla-language computing programme publishing models, corpora and tools — the most consequential open-data development for the language in years.
+24.3 million documents, 147 GB, CC-BY-4.0 — the largest cleanly licensed Bangla text corpus in existence, published by the Dhaka AI company that trained its own LLM family on it. When the corpus behind a model is this open, everyone's Bangla NLP work gets better.
 
 ### [Common Voice Scripted Speech 27.0 (Bengali)](https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r)
 

@@ -3,7 +3,7 @@
   "name": "okkhor",
   "url": "https://crates.io/crates/okkhor",
   "description": "Unicode-Bijoy conversion (Rust)",
-  "license": "unspecified",
+  "license": "MIT",
   "bd_connection": {
    "tier": "A",
    "evidence": "https://github.com/gulshan (Dhaka)"
@@ -15,7 +15,7 @@
   "name": "poriborton",
   "url": "https://crates.io/crates/poriborton",
   "description": "Unicode-Bijoy converter library",
-  "license": "unspecified",
+  "license": "MIT",
   "bd_connection": {
    "tier": "C",
    "evidence": "https://github.com/OpenBangla"
@@ -27,7 +27,7 @@
   "name": "upodesh",
   "url": "https://crates.io/crates/upodesh",
   "description": "Autosuggest engine for Bangla input",
-  "license": "unspecified",
+  "license": "MIT",
   "bd_connection": {
    "tier": "C",
    "evidence": "https://github.com/OpenBangla"
@@ -39,7 +39,7 @@
   "name": "emojicon",
   "url": "https://crates.io/crates/emojicon",
   "description": "Emoji handling with Bangla text",
-  "license": "unspecified",
+  "license": "MIT",
   "bd_connection": {
    "tier": "C",
    "evidence": "https://github.com/mominul (Develops @OpenBangla)"
@@ -51,7 +51,7 @@
   "name": "ponjika",
   "url": "https://crates.io/crates/ponjika",
   "description": "Bengali (Bangladeshi) calendar library",
-  "license": "unspecified",
+  "license": "GPL-3.0",
   "bd_connection": {
    "tier": "B",
    "evidence": "https://github.com/mustakimur (Milpitas CA, BD diaspora; README: Bengali (Bangladeshi) calendar)"

@@ -1,119 +1,173 @@
 [
-  {
-    "name": "bKash Payment Gateway",
-    "url": "https://developer.bka.sh/",
-    "description": "Tokenized Checkout, refunds, payouts, webhooks",
-    "access_model": "sandbox free with registration",
-    "license": "commercial",
-    "note": "BD MFS payments",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "SSLCommerz",
-    "url": "https://developer.sslcommerz.com/",
-    "description": "Card/net-banking/MFS aggregation",
-    "access_model": "sandbox free with registration",
-    "license": "commercial",
-    "note": "BD payment gateway",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "aamarPay",
-    "url": "https://developer.aamarpay.com/",
-    "description": "Hosted checkout, IPN, plugins",
-    "access_model": "sandbox free with registration",
-    "license": "commercial",
-    "note": "BD payment gateway",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Pathao Courier API",
-    "url": "https://merchant.pathao.com/courier/developer-api",
-    "description": "Courier orders, pricing, tracking, OAuth2",
-    "access_model": "sandbox via merchant account",
-    "license": "commercial",
-    "note": "BD logistics",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "RedX Courier API",
-    "url": "https://redx.com.bd/developer-api",
-    "description": "OpenAPI-documented courier operations",
-    "access_model": "sandbox via merchant account",
-    "license": "commercial",
-    "note": "BD logistics",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Nagad",
-    "url": "https://nagad.com.bd/",
-    "description": "MFS payments",
-    "access_model": "merchant-only, no public portal",
-    "license": "commercial",
-    "note": "BD MFS payments",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "upay",
-    "url": "https://www.upaybd.com/",
-    "description": "MFS payments",
-    "access_model": "merchant-only",
-    "license": "commercial",
-    "note": "BD MFS payments",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Barikoi",
-    "url": "https://docs.barikoi.com/",
-    "description": "BD geocoding, routing, Bangla address parsing",
-    "access_model": "free tier for low volume",
-    "license": "freemium",
-    "note": "BD maps platform",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Porichoy",
-    "url": "https://porichoy.gov.bd/",
-    "description": "Government NID/KYC verification",
-    "access_model": "merchant contract",
-    "license": "paid",
-    "note": "BD identity gateway",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Bangladesh Bank rates",
-    "url": "https://www.bb.org.bd/en/index.php/econdata/econposition",
-    "description": "Official taka rates",
-    "access_model": "site terms",
-    "license": "no API",
-    "note": "Use Frankfurter/ECB for free BDT rates",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Survey of Bangladesh",
-    "url": "https://www.sob.gov.bd/",
-    "description": "Official base maps",
-    "access_model": "no reproduction/export/resale",
-    "license": "restricted",
-    "note": "Use geoBoundaries/HDX/OSM instead",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Bangla AI Gateway",
-    "url": "https://www.banglaai.org/",
-    "description": "Commercial Bangla LLM/OCR API",
-    "access_model": "paid gateway, free SDKs",
-    "license": "commercial",
-    "note": "BD AI services",
-    "last_verified": "2026-10-24"
-  },
-  {
-    "name": "Bangla.gov.bd portal",
-    "url": "https://bangla.gov.bd/bn",
-    "description": "BD government Bangla-language computing portal: Kagaj AI, Jijnsha AI, Borno OCR, National Corpus, spell checker, fonts, datasets, models",
-    "access_model": "free",
-    "license": "per tool (government portal)",
-    "note": "Run by ICT Division / BCC Bangladesh",
-    "last_verified": "2026-10-25"
-  }
+ {
+  "name": "bKash Payment Gateway",
+  "url": "https://developer.bka.sh/",
+  "description": "Tokenized Checkout, refunds, payouts, webhooks",
+  "access_model": "sandbox free with registration",
+  "license": "commercial",
+  "note": "BD MFS payments",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "SSLCommerz",
+  "url": "https://developer.sslcommerz.com/",
+  "description": "Card/net-banking/MFS aggregation",
+  "access_model": "sandbox free with registration",
+  "license": "commercial",
+  "note": "BD payment gateway",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "aamarPay",
+  "url": "https://developer.aamarpay.com/",
+  "description": "Hosted checkout, IPN, plugins",
+  "access_model": "sandbox free with registration",
+  "license": "commercial",
+  "note": "BD payment gateway",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Pathao Courier API",
+  "url": "https://merchant.pathao.com/courier/developer-api",
+  "description": "Courier orders, pricing, tracking, OAuth2",
+  "access_model": "sandbox via merchant account",
+  "license": "commercial",
+  "note": "BD logistics",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "RedX Courier API",
+  "url": "https://redx.com.bd/developer-api",
+  "description": "OpenAPI-documented courier operations",
+  "access_model": "sandbox via merchant account",
+  "license": "commercial",
+  "note": "BD logistics",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Nagad",
+  "url": "https://nagad.com.bd/",
+  "description": "MFS payments",
+  "access_model": "merchant-only, no public portal",
+  "license": "commercial",
+  "note": "BD MFS payments",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "upay",
+  "url": "https://www.upaybd.com/",
+  "description": "MFS payments",
+  "access_model": "merchant-only",
+  "license": "commercial",
+  "note": "BD MFS payments",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Barikoi",
+  "url": "https://docs.barikoi.com/",
+  "description": "BD geocoding, routing, Bangla address parsing",
+  "access_model": "free tier for low volume",
+  "license": "freemium",
+  "note": "BD maps platform",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Porichoy",
+  "url": "https://porichoy.gov.bd/",
+  "description": "Government NID/KYC verification",
+  "access_model": "merchant contract",
+  "license": "paid",
+  "note": "BD identity gateway",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangladesh Bank rates",
+  "url": "https://www.bb.org.bd/en/index.php/econdata/econposition",
+  "description": "Official taka rates",
+  "access_model": "site terms",
+  "license": "no API",
+  "note": "Use Frankfurter/ECB for free BDT rates",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Survey of Bangladesh",
+  "url": "https://www.sob.gov.bd/",
+  "description": "Official base maps",
+  "access_model": "no reproduction/export/resale",
+  "license": "restricted",
+  "note": "Use geoBoundaries/HDX/OSM instead",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla AI Gateway",
+  "url": "https://www.banglaai.org/",
+  "description": "Commercial Bangla LLM/OCR API",
+  "access_model": "paid gateway, free SDKs",
+  "license": "commercial",
+  "note": "BD AI services",
+  "last_verified": "2026-10-24"
+ },
+ {
+  "name": "Bangla.gov.bd portal",
+  "url": "https://bangla.gov.bd/bn",
+  "description": "BD government Bangla-language computing portal: Kagaj AI, Jijnsha AI, Borno OCR, National Corpus, spell checker, fonts, datasets, models",
+  "access_model": "free",
+  "license": "per tool (government portal)",
+  "note": "Run by ICT Division / BCC Bangladesh",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BulkSMSBD",
+  "url": "https://bulksmsbd.com/",
+  "description": "Bangladeshi bulk and masking SMS gateway for OTP, notifications and marketing",
+  "access_model": "paid",
+  "license": "commercial service (not open)",
+  "note": "Abstract behind the open-source barta or laravelbdsms packages",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Alpha SMS",
+  "url": "https://www.alpha.net.bd/sms/",
+  "description": "Bulk and masking SMS gateway by Alpha Net",
+  "access_model": "paid",
+  "license": "commercial service (not open)",
+  "note": "Abstract behind the open-source barta or laravelbdsms packages",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "SSL Wireless SMS",
+  "url": "https://sslwireless.com/",
+  "description": "Enterprise bulk and masking SMS gateway from SSL Wireless",
+  "access_model": "paid",
+  "license": "commercial service (not open)",
+  "note": "Abstract behind the open-source barta or laravelbdsms packages",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "MiM SMS",
+  "url": "https://www.mimsms.com/",
+  "description": "Bangladeshi bulk and masking SMS gateway",
+  "access_model": "paid",
+  "license": "commercial service (not open)",
+  "note": "Abstract behind the open-source barta or laravelbdsms packages",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "GreenWeb SMS",
+  "url": "https://greenweb.com.bd/",
+  "description": "Bangladeshi bulk SMS gateway with HTTP API",
+  "access_model": "paid",
+  "license": "commercial service (not open)",
+  "note": "Abstract behind the open-source barta or laravelbdsms packages",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangladesh Meteorological Department",
+  "url": "https://bmd.gov.bd/",
+  "description": "National weather and climate data authority; no public developer API",
+  "access_model": "purchase",
+  "license": "commercial terms (not open)",
+  "note": "Use open Kaggle weather datasets or NOAA open data for research",
+  "last_verified": "2026-10-25"
+ }
 ]

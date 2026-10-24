@@ -1,5 +1,7 @@
 # Section guides
 
+<img src="../../assets/sections/banner-guides.svg" width="896" alt="📖 Section guides banner">
+
 Deep-dive companions to the [main list](../../README.md) — one guide per section,
 with full tables, editor's picks and verification notes.
 
