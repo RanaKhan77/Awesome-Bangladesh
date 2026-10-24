@@ -74,10 +74,10 @@
  {
   "name": "Porichoy",
   "url": "https://porichoy.gov.bd/",
-  "description": "Government NID/KYC verification",
+  "description": "Government NID/KYC identity verification gateway for regulated businesses",
   "access_model": "merchant contract",
   "license": "paid",
-  "note": "BD identity gateway",
+  "note": "Official portal domain porichoy.gov.bd unresolvable at last verification; check with BNDA or onboarding partner",
   "last_verified": "2026-10-24"
  },
  {
