@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the curation rules first
+    url: https://github.com/RanaKhan77/Awesome-Bangladesh/blob/main/docs/scope-and-eligibility.md
+    about: Scope and eligibility — what counts as Bangladeshi and what is out of scope.
+  - name: Security or safety problem with a listed link
+    url: https://github.com/RanaKhan77/Awesome-Bangladesh/security/advisories/new
+    about: Report malicious entries privately — do not open a public issue.
