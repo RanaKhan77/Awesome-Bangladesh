@@ -17,7 +17,7 @@ SECTIONS = [
      "Open-source developer tools from Bangladesh — React design systems, scraping toolkits, Bangla terminal editors and Docker images.",
      "developer tools, bangladesh libraries, react design system bangladesh, npm packages bangladesh, docker bangladesh"),
     ("datasets", "📦", "Datasets & open data",
-     "48 verified Bangladesh datasets — government portals plus Hugging Face and Kaggle corpora for Bangla NLP, speech, weather, health and finance.",
+     "58 verified Bangladesh datasets — government portals plus Hugging Face and Kaggle corpora for Bangla NLP, speech, weather, health and finance.",
      "bangladesh dataset, bangla dataset, bangladesh open data, data.gov.bd, kaggle bangladesh, huggingface bangla"),
     ("apis", "🔌", "APIs & integrations",
      "Free Bangladesh APIs — keyless endpoints for geography, prayer times, exchange rates, railway schedules and Bangla news, plus SDK wrappers.",

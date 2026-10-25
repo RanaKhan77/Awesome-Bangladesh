@@ -6,7 +6,7 @@
 
 The data layer of the Bangladeshi open ecosystem: government portals, research corpora on Hugging Face and Kaggle, and international hosts carrying Bangladesh data. Each dataset states its licence where the publisher declares one, and licence-free items are flagged rather than silently listed. Frozen research corpora stay listed because a completed dataset is a finished product, not an abandoned one. When a dataset claims a government source, we check that the source is named and linkable.
 
-**48 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**58 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -60,6 +60,16 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [OpenDengue](https://doi.org/10.6084/m9.figshare.24259573) | Open global dengue case database including Bangladesh monthly and daily DGHS-sourced series | CC-BY-4.0 | 🔵 BD org / for-BD |
 | [Common Voice Scripted Speech 27.0 (Bengali)](https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r) | Mozilla's official current Bengali scripted-speech release: over a million clips and 1,277 hours of read speech from 23,019 speakers — a newer, larger distribution than the [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) copy above | CC0-1.0 | 🔵 BD org / for-BD |
 | [Bengali Wikipedia dumps](https://dumps.wikimedia.org/bnwiki/latest/) | Wikimedia's always-current database dumps of the Bengali Wikipedia — the canonical raw corpus behind most Bangla NLP work, pages-articles multistream included | Content CC BY-SA; dumps free to download | 🔵 BD org / for-BD |
+| [BanglaParaphrase](https://github.com/csebuetnlp/BanglaParaphrase) | 465k-pair Bangla paraphrase corpus from the BUET NLP group (LREC 2022) | unspecified | 🔵 BD org/for-BD |
+| [BanglaBook](https://github.com/mohsinulkabir14/BanglaBook) | Benchmark of 14 Bangla NLP tasks over five large datasets (ACL 2024) | unspecified | 🟢 BD-based |
+| [SentNoB](https://github.com/khondokerislam/SentNoB) | 15,000 sentiment-labelled noisy Bangla texts (LREC 2022) | unspecified | 🟢 BD-based |
+| [BANNERD](https://github.com/eblict-gigatech/bannerd) | Bangla handwriting dataset from the Government of Bangladesh EBLICT programme | unspecified (govt research output) | 🔵 BD org/for-BD |
+| [Bangla synthetic license plates](https://github.com/zabir-nabil/bangla-synthetic-license-plates) | Synthetic Bangladeshi vehicle license-plate images for OCR research | Unlicense | 🟡 Diaspora |
+| [BanglaSenti](https://github.com/fahad35/BanglaSenti-A-dataset-of-Bangla-words-for-sentiment-analysis) | 61,582 Bangla words labelled for sentiment polarity | unspecified | 🟢 BD-based |
+| [BanglaCHQ-Summ](https://github.com/alvi-khan/banglachq-summ) | Abstractive summarisation corpus of Bangla community-health questions | unspecified | 🟢 BD-based |
+| [Bangla speech corpora (bangla-language-processing)](https://github.com/bangla-language-processing/bangla-speech-corpora) | Cleaned Bangla speech corpus collection for ASR research | unspecified | 🔵 BD org/for-BD |
+| [Bangla news headline categorisation](https://github.com/eftekhar-hossain/bangla-news-headlines-categorization) | Deep-learning dataset and baselines for Bangla headline topic classification (GPL-3.0) | GPL-3.0 | 🟡 Diaspora |
+| [Bengali hate speech dataset](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset) | Hate-speech dataset distilled from 250M articles of Bangla news and social media (MIT) | MIT | 🟡 Diaspora |
 
 ## Editor's picks
 
@@ -70,6 +80,46 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 ### [Common Voice Scripted Speech 27.0 (Bengali)](https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r)
 
 Mozilla's current official release: 1,277 hours of read Bengali speech, CC0, downloadable in one archive. The largest cleanly-licensed Bangla speech corpus available.
+
+### [BanglaParaphrase](https://github.com/csebuetnlp/BanglaParaphrase)
+
+465,000 Bangla paraphrase pairs with round-trip translation and quality filtering, published by the BUET NLP group for LREC 2022. Paraphrase data at this scale is what makes Bangla summarisation and semantic-similarity models actually trainable.
+
+### [BanglaBook](https://github.com/mohsinulkabir14/BanglaBook)
+
+A unified benchmark covering 14 tasks — summarisation, QA, NER, sentiment and more — across five Bangla datasets, introduced at ACL 2024 by a Dhaka-based researcher. BanglaBook finally makes it possible to compare Bangla models across the whole NLP spectrum on one leaderboard.
+
+### [SentNoB](https://github.com/khondokerislam/SentNoB)
+
+Sentiment analysis on real-world noisy Bangla — transliterated words, spelling errors and code-mixing included — from authors at SUST Bangladesh (LREC 2022). Noisy-text sentiment is the condition Bangla social-media work actually operates in, and this is the reference dataset for it.
+
+### [BANNERD](https://github.com/eblict-gigatech/bannerd)
+
+Handwritten Bangla recognition data produced under the Enhancement of Bangla Language in ICT (EBLICT) programme of the Bangladesh Computer Council, built by Giga Tech with the Dhaka University Linguistics department — one of the few Bangla NLP datasets with direct Government of Bangladesh backing.
+
+### [Bangla synthetic license plates](https://github.com/zabir-nabil/bangla-synthetic-license-plates)
+
+Synthetically generated Bangladeshi license plates in the Unlicense — the plate format is the real Dhaka-registered layout, and synthetic generation means unlimited training data for BD ANPR systems without privacy concerns.
+
+### [BanglaSenti](https://github.com/fahad35/BanglaSenti-A-dataset-of-Bangla-words-for-sentiment-analysis)
+
+A Dhaka-maintained lexicon-style dataset assigning sentiment polarity to 61,582 Bangla words — useful as ready-made features for classical ML sentiment pipelines and for expanding Bangla stopword/negation handling.
+
+### [BanglaCHQ-Summ](https://github.com/alvi-khan/banglachq-summ)
+
+Community-health-question summarisation data for Bangla — real patient-style questions from health forums, summarised by humans. Health-domain Bangla text data is scarce, and this targets the exact language style of Bangladeshi telehealth and helpline traffic.
+
+### [Bangla speech corpora (bangla-language-processing)](https://github.com/bangla-language-processing/bangla-speech-corpora)
+
+The bangla-language-processing organisation (GitHub location: Bangladesh) consolidates cleaned Bangla speech recordings for ASR work. Speech corpora are the hardest Bangla data to license cleanly, which makes every consolidation effort worth listing.
+
+### [Bangla news headline categorisation](https://github.com/eftekhar-hossain/bangla-news-headlines-categorization)
+
+From a SUST-trained NLP researcher: labelled Bangla news headlines across topic categories with deep-learning baselines, GPL-3.0. Headline classification is a standard Bangla media-monitoring task and this ships with working reference code.
+
+### [Bengali hate speech dataset](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset)
+
+Built from a 250-million-article raw corpus including Bangladeshi newspapers (Prothom Alo, NTV) and BD Facebook pages, then labelled for hate speech — MIT licensed. Political and religious hate in Bangla online spaces is a documented moderation problem, and this dataset is the most-cited open resource for it.
 
 ## How this section is verified
 

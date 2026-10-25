@@ -6,7 +6,7 @@
 
 Everything that makes Bangla work on computers: keyboards and input methods, Unicode-Bijoy conversion, normalizers, tokenizers, spell checkers, PDF generation and full NLP stacks. This is the deepest section of Bangladeshi open source — the Avro phonetic lineage alone spans two decades of maintained forks, from the original OmicronLab keyboard through today's Rust engines. Licences matter here and are stated per entry; the BUET research models with non-commercial terms live in the [AI/ML section](aiml.md) with their ⚠️ flags.
 
-**43 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**44 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -55,6 +55,7 @@ Everything that makes Bangla work on computers: keyboards and input methods, Uni
 | [bn-i18n-notes](https://codeberg.org/adnan360/bn-i18n-notes) | Guidelines for translating software projects from English to Bangla, written in Bangla (Codeberg) — hard-won i18n conventions for the language. | GPL-3.0 | 🟢 BD-based |
 | [LaTeXbangla](https://github.com/Neehan/LaTeXbangla) | Write Bangla (and Assamese) with ordinary LaTeX — typesetting without XeLaTeX gymnastics. | LPPL-1.3c | 🟡 Diaspora |
 | [BOOKbangla](https://github.com/Neehan/BOOKbangla) | Book class and templates for writing Bangla and Assamese books with LaTeX memoir — the publishing-ready companion to LaTeXbangla. | LPPL-1.3c | 🟡 Diaspora |
+| [sbnltk](https://github.com/Foysal87/sbnltk) | SUST-Bangla NLP toolkit: NER, POS tagging, stemming, word embeddings (MIT) | MIT | 🔵 BD org/for-BD |
 
 ## Editor's picks
 
@@ -65,6 +66,10 @@ The flagship consumer Bangla input method — cross-platform, actively maintaine
 ### [thikkit](https://www.npmjs.com/package/thikkit)
 
 Bilingual Bangla-English address parsing is the kind of problem every Bangladeshi engineering team hits and few solve properly — freeform mixed-script addresses with no standard format. A focused npm package that does one hard local job well.
+
+### [sbnltk](https://github.com/Foysal87/sbnltk)
+
+A Bangla NLP toolkit self-described as the SUST-Bangla effort: named-entity recognition, POS tagging, stemming and Bangla word embeddings in one MIT-licensed Python package. Together with bnlp and bnltk, it gives Bangla NLP a third home-grown toolkit option.
 
 ## How this section is verified
 

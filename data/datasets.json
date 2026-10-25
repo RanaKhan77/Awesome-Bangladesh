@@ -490,5 +490,125 @@
   },
   "section": "Datasets & open data",
   "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaParaphrase",
+  "url": "https://github.com/csebuetnlp/BanglaParaphrase",
+  "description": "465k-pair Bangla paraphrase corpus from the BUET NLP group (LREC 2022)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "org location: Bangladesh (csebuetnlp)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaBook",
+  "url": "https://github.com/mohsinulkabir14/BanglaBook",
+  "description": "Benchmark of 14 Bangla NLP tasks over five large datasets (ACL 2024)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/mohsinulkabir14 (Gazipur, Dhaka)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "SentNoB",
+  "url": "https://github.com/khondokerislam/SentNoB",
+  "description": "15,000 sentiment-labelled noisy Bangla texts (LREC 2022)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "paper affiliation: Shahjalal University of Science and Technology, Bangladesh"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BANNERD",
+  "url": "https://github.com/eblict-gigatech/bannerd",
+  "description": "Bangla handwriting dataset from the Government of Bangladesh EBLICT programme",
+  "license": "unspecified (govt research output)",
+  "bd_connection": {
+   "tier": "product",
+   "evidence": "README: EBLICT initiative, Bangladesh Computer Council / ICT Division, Giga Tech Ltd, Dhaka University"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla synthetic license plates",
+  "url": "https://github.com/zabir-nabil/bangla-synthetic-license-plates",
+  "description": "Synthetic Bangladeshi vehicle license-plate images for OCR research",
+  "license": "unlicense",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "BUET alum (now UC Riverside); plates of Bangladesh"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaSenti",
+  "url": "https://github.com/fahad35/BanglaSenti-A-dataset-of-Bangla-words-for-sentiment-analysis",
+  "description": "61,582 Bangla words labelled for sentiment polarity",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/fahad35 (Dhaka, Bangladesh)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "BanglaCHQ-Summ",
+  "url": "https://github.com/alvi-khan/banglachq-summ",
+  "description": "Abstractive summarisation corpus of Bangla community-health questions",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/alvi-khan (Dhaka, Bangladesh)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla speech corpora (bangla-language-processing)",
+  "url": "https://github.com/bangla-language-processing/bangla-speech-corpora",
+  "description": "Cleaned Bangla speech corpus collection for ASR research",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "org location: Bangladesh"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bangla news headline categorisation",
+  "url": "https://github.com/eftekhar-hossain/bangla-news-headlines-categorization",
+  "description": "Deep-learning dataset and baselines for Bangla headline topic classification (GPL-3.0)",
+  "license": "gpl-3.0",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "SUST Bangladesh researcher (NLP publications)"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "Bengali hate speech dataset",
+  "url": "https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset",
+  "description": "Hate-speech dataset distilled from 250M articles of Bangla news and social media (MIT)",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "corpus sources: Prothom Alo, NTV, BD Facebook pages"
+  },
+  "section": "Datasets & open data",
+  "last_verified": "2026-10-25"
  }
 ]
