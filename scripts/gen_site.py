@@ -156,6 +156,7 @@ def head_block(title, desc, keywords, url, og_image=None):
     og = og_image or SITE + "/assets/og-card.png"
     return f'''<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="udVeOT52mzcxhqNNak5tWgXAQpiCmsjgeW-fYJl9nPE">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <meta name="keywords" content="{esc(keywords)}">
