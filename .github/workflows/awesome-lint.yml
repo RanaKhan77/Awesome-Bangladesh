@@ -18,3 +18,5 @@ jobs:
         with:
           node-version: '22'
       - run: npx awesome-lint
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
