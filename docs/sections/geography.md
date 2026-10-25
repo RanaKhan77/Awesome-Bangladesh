@@ -1,6 +1,6 @@
-# 🗺️ Geography & open maps
+# 🧭 Geography & open maps
 
-<img src="../../assets/sections/banner-geography.svg" width="896" alt="🗺️ Geography & open maps banner">
+<img src="../../assets/sections/banner-geography.svg" width="896" alt="🧭 Geography & open maps banner">
 
 > Part of **[Awesome Bangladesh](../../README.md)** · All section guides: **[index](index.md)**
 

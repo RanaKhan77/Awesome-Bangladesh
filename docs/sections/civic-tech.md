@@ -1,6 +1,6 @@
-# 🏛️ Civic tech & public services
+# 🏢 Civic tech & public services
 
-<img src="../../assets/sections/banner-civic-tech.svg" width="896" alt="🏛️ Civic tech & public services banner">
+<img src="../../assets/sections/banner-civic-tech.svg" width="896" alt="🏢 Civic tech & public services banner">
 
 > Part of **[Awesome Bangladesh](../../README.md)** · All section guides: **[index](index.md)**
 
