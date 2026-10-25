@@ -358,7 +358,6 @@ Specialist directories — we link to them, we do not copy their entries:
 - [bangla-corpus](https://github.com/sagorbrur/bangla-corpus) - Curated list of Bangla NLP corpora and datasets. unspecified.
 - [awesome-bangla (BanglaKit)](https://github.com/banglakit/awesome-bangla) - Collection of tools, datasets and resources for Bangla computing (579 stars). unspecified.
 - [tech-companies-in-bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh) - The biggest Bangladesh list on GitHub: tech companies for job seekers. MIT.
-- [awesome-bangla](https://github.com/banglakit/awesome-bangla) - Bangla language resources (slow maintenance).
 - [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) - The historic seed list of BD-made software (dormant since 2023). MIT.
 - [Awesome-Bangladeshi-Devs](https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs) - Data-driven directory of 3,600+ Bangladeshi developers. MIT.
 - [Awesome-Bangladeshi-FOSS](https://github.com/sharf-shawon/Awesome-Bangladeshi-FOSS) - Bangladeshi FOSS projects across 12 sections.
