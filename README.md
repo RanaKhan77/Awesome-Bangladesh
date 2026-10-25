@@ -58,6 +58,16 @@ scope and eligibility rules first.
 
 Government portals:
 
+- [BanglaParaphrase](https://github.com/csebuetnlp/BanglaParaphrase) - 465k-pair Bangla paraphrase corpus from the BUET NLP group (LREC 2022). unspecified.
+- [BanglaBook](https://github.com/mohsinulkabir14/BanglaBook) - Benchmark of 14 Bangla NLP tasks over five large datasets (ACL 2024). unspecified.
+- [SentNoB](https://github.com/khondokerislam/SentNoB) - 15,000 sentiment-labelled noisy Bangla texts (LREC 2022). unspecified.
+- [BANNERD](https://github.com/eblict-gigatech/bannerd) - Bangla handwriting dataset from the Government of Bangladesh EBLICT programme. unspecified (govt research output).
+- [Bangla synthetic license plates](https://github.com/zabir-nabil/bangla-synthetic-license-plates) - Synthetic Bangladeshi vehicle license-plate images for OCR research. Unlicense.
+- [BanglaSenti](https://github.com/fahad35/BanglaSenti-A-dataset-of-Bangla-words-for-sentiment-analysis) - 61,582 Bangla words labelled for sentiment polarity. unspecified.
+- [BanglaCHQ-Summ](https://github.com/alvi-khan/banglachq-summ) - Abstractive summarisation corpus of Bangla community-health questions. unspecified.
+- [Bangla speech corpora (bangla-language-processing)](https://github.com/bangla-language-processing/bangla-speech-corpora) - Cleaned Bangla speech corpus collection for ASR research. unspecified.
+- [Bangla news headline categorisation](https://github.com/eftekhar-hossain/bangla-news-headlines-categorization) - Deep-learning dataset and baselines for Bangla headline topic classification (GPL-3.0). GPL-3.0.
+- [Bengali hate speech dataset](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset) - Hate-speech dataset distilled from 250M articles of Bangla news and social media (MIT). MIT.
 - [Bangladesh Open Data Portal](https://data.gov.bd/) - ~90 datasets from 35+ ministries (economy, health, education, agriculture). ⚠️ Licence unspecified per dataset — verify on the dataset page before reuse.
 - [Open Government Data Portal](https://ogdnew.sdg.gov.bd/) - National OGD portal (now hosted at sdg.gov.bd) with 130+ datasets. ⚠️ Licence unspecified — verify on the dataset page before reuse.
 - [Bangladesh Bureau of Statistics](https://bbs.gov.bd/) - Official statistics, surveys and census downloads. ⚠️ Licence unspecified per release.
@@ -143,6 +153,7 @@ International open-data hosts carrying Bangladesh data:
 
 Input methods and phonetics:
 
+- [sbnltk](https://github.com/Foysal87/sbnltk) - SUST-Bangla NLP toolkit: NER, POS tagging, stemming, word embeddings (MIT). MIT.
 - [OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard) - The leading open-source Bangla keyboard for Linux. GPL-3.0.
 - [riti](https://github.com/OpenBangla/riti) - Next-generation Bangla input method engine in Rust. MPL-2.0.
 - [jsAvroPhonetic](https://github.com/torifat/jsAvroPhonetic) - Avro Phonetic conversion in JavaScript. ⚠️ No licence file.
@@ -344,6 +355,8 @@ Logistics, couriers and anti-fraud:
 
 Specialist directories — we link to them, we do not copy their entries:
 
+- [bangla-corpus](https://github.com/sagorbrur/bangla-corpus) - Curated list of Bangla NLP corpora and datasets. unspecified.
+- [awesome-bangla (BanglaKit)](https://github.com/banglakit/awesome-bangla) - Collection of tools, datasets and resources for Bangla computing (579 stars). unspecified.
 - [tech-companies-in-bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh) - The biggest Bangladesh list on GitHub: tech companies for job seekers. MIT.
 - [awesome-bangla](https://github.com/banglakit/awesome-bangla) - Bangla language resources (slow maintenance).
 - [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) - The historic seed list of BD-made software (dormant since 2023). MIT.

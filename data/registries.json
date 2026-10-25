@@ -670,5 +670,29 @@
   },
   "section": "Geography & open maps",
   "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangla-corpus",
+  "url": "https://github.com/sagorbrur/bangla-corpus",
+  "description": "Curated list of Bangla NLP corpora and datasets",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "https://github.com/sagorbrur (Dhaka, Bangladesh)"
+  },
+  "section": "Awesome lists & communities",
+  "last_verified": "2026-10-25"
+ },
+ {
+  "name": "awesome-bangla (BanglaKit)",
+  "url": "https://github.com/banglakit/awesome-bangla",
+  "description": "Collection of tools, datasets and resources for Bangla computing (579 stars)",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "BanglaKit: tools for working with the Bangla language"
+  },
+  "section": "Awesome lists & communities",
+  "last_verified": "2026-10-25"
  }
 ]

@@ -994,5 +994,17 @@
   },
   "section": "crisis-response",
   "last_verified": "2026-10-25"
+ },
+ {
+  "name": "sbnltk",
+  "url": "https://github.com/Foysal87/sbnltk",
+  "description": "SUST-Bangla NLP toolkit: NER, POS tagging, stemming, word embeddings (MIT)",
+  "license": "mit",
+  "bd_connection": {
+   "tier": "B",
+   "evidence": "README: 'SUST-Bangla Natural Language toolkit'"
+  },
+  "section": "Bangla language & NLP",
+  "last_verified": "2026-10-25"
  }
 ]

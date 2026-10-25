@@ -6,7 +6,7 @@
 
 Sibling lists and community directories that map the wider Bangladeshi ecosystem — developer directories, FOSS indexes, portfolios, and the older Bangla-computing lists that predate this one. We link rather than duplicate: if another list covers a niche better, it belongs here. Community organisations are listed for their community role, not their git activity, and sleeping lists stay listed when they are still the best map of their territory — with their dormancy stated plainly.
 
-**19 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**21 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -31,6 +31,8 @@ Sibling lists and community directories that map the wider Bangladeshi ecosystem
 | [Deshi-Startup](https://github.com/Deshi-Startup) | Open-source startup manual and community in Bangla — how to build a Bangladeshi startup, written in Bangla, maintained as a public playbook. | MIT | see list |
 | [OpenBangla](https://github.com/OpenBangla) | Community behind OpenBangla Keyboard and its Rust input stack — the modern continuation of the Avro lineage, see the [Bangla NLP section](bangla-nlp.md). | — | see list |
 | [OmicronLab](https://github.com/OmicronLab) | Historic home of Avro Keyboard — the input method that put Bangla on millions of machines. Current repositories are mirrors of the pre-GitHub project, kept for the record. | — | see list |
+| [bangla-corpus](https://github.com/sagorbrur/bangla-corpus) | Curated list of Bangla NLP corpora and datasets | unspecified | 🟢 BD-based |
+| [awesome-bangla (BanglaKit)](https://github.com/banglakit/awesome-bangla) | Collection of tools, datasets and resources for Bangla computing (579 stars) | unspecified | 🔵 BD org/for-BD |
 
 ## Editor's picks
 
@@ -41,6 +43,14 @@ The biggest Bangladesh-focused list on GitHub — company names, stacks and hiri
 ### [Bengali.AI](https://github.com/BengaliAI)
 
 The volunteer community that did more for Bengali language AI than any institution — the Kaggle competitions it ran produced the speech, handwriting and grapheme datasets that today's Bangla NLP work is built on, and its Hugging Face org keeps them open.
+
+### [bangla-corpus](https://github.com/sagorbrur/bangla-corpus)
+
+A Dhaka-maintained index of Bangla corpora — the same author maintains the bnlp toolkit. A good companion when hunting for a specific Bangla dataset by task.
+
+### [awesome-bangla (BanglaKit)](https://github.com/banglakit/awesome-bangla)
+
+The highest-starred Bangla-language awesome list: tools, datasets and resources for Bangla computing overall (not just NLP). Complements this list with a language-first rather than country-first perspective.
 
 ## How this section is verified
 
