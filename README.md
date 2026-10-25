@@ -27,15 +27,15 @@ scope and eligibility rules first.
 ## Contents
 
 - [🧰 Developer tools & libraries](#-developer-tools--libraries)
-- [🗃️ Datasets & open data](#️-datasets--open-data)
+- [📦 Datasets & open data](#-datasets--open-data)
 - [🔌 APIs & integrations](#-apis--integrations)
 - [🇧🇩 Bangla language & NLP](#-bangla-language--nlp)
 - [🤖 AI/ML & research](#-aiml--research)
 - [💒 Fintech & e-commerce](#-fintech--e-commerce)
-- [🛡️ Cybersecurity & privacy](#️-cybersecurity--privacy)
-- [🏛️ Civic tech & public services](#️-civic-tech--public-services)
+- [🔒 Cybersecurity & privacy](#-cybersecurity--privacy)
+- [🏢 Civic tech & public services](#-civic-tech--public-services)
 - [🚨 Crisis response](#-crisis-response)
-- [🗺️ Geography & open maps](#️-geography--open-maps)
+- [🧭 Geography & open maps](#-geography--open-maps)
 - [🎓 Education & learning](#-education--learning)
 - [📚 Awesome lists & communities](#-awesome-lists--communities)
 - [🏪 Developer services (not open)](#-developer-services-not-open)
@@ -52,7 +52,7 @@ scope and eligibility rules first.
 - [docker-beanstalkd](https://github.com/maateen/docker-beanstalkd) - Docker image for the Beanstalkd work queue. MIT.
 - [vim-for-devops](https://github.com/maateen/vim-for-devops) - DevOps-tuned Vim configuration. Custom licence.
 
-## 🗃️ Datasets & open data
+## 📦 Datasets & open data
 
 > 📖 Deep dive with full tables and picks: [section guide](docs/sections/datasets.md)
 
@@ -271,7 +271,7 @@ Logistics, couriers and anti-fraud:
 - [courier-woocommerce-plugin](https://github.com/pathao-eng/courier-woocommerce-plugin) - Official Pathao courier plugin for WooCommerce. GPL-3.0.
 - [Fraud-Checker-BD-Courier-Laravel](https://github.com/AbiruzzamanMolla/Fraud-Checker-BD-Courier-Laravel) - Courier fraud checking for Bangladeshi e-commerce. Custom licence.
 
-## 🛡️ Cybersecurity & privacy
+## 🔒 Cybersecurity & privacy
 
 > 📖 Deep dive with full tables and picks: [section guide](docs/sections/security.md)
 
@@ -281,7 +281,7 @@ Logistics, couriers and anti-fraud:
 - [BDIX servers checker](https://github.com/0xAhmadYousuf/BDIX) - Check and list BDIX-hosted servers. MIT.
 - [bdix-tester](https://gitlab.com/farhansadik/bdix-tester) - Test which sites, FTP and download links are alive over BDIX (GitLab). Licenced (see repo).
 
-## 🏛️ Civic tech & public services
+## 🏢 Civic tech & public services
 
 > 📖 Deep dive with full tables and picks: [section guide](docs/sections/civic-tech.md)
 
@@ -301,7 +301,7 @@ Logistics, couriers and anti-fraud:
 - [ResQ_Bangladesh](https://github.com/404Ah-Nafis/ResQ_Bangladesh) - Offline-first disaster response PWA. ⚠️ No licence file.
 - [HaorFloodAlert](https://github.com/shkoli/HaorFloodAlert) - Machine-learning flood prediction for the haor region. MIT.
 
-## 🗺️ Geography & open maps
+## 🧭 Geography & open maps
 
 > 📖 Deep dive with full tables and picks: [section guide](docs/sections/geography.md)
 

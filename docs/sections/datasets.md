@@ -1,6 +1,6 @@
-# 🗃️ Datasets & open data
+# 📦 Datasets & open data
 
-<img src="../../assets/sections/banner-datasets.svg" width="896" alt="🗃️ Datasets & open data banner">
+<img src="../../assets/sections/banner-datasets.svg" width="896" alt="📦 Datasets & open data banner">
 
 > Part of **[Awesome Bangladesh](../../README.md)** · All section guides: **[index](index.md)**
 

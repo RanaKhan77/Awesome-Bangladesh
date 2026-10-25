@@ -1,6 +1,6 @@
-# 🛡️ Cybersecurity & privacy
+# 🔒 Cybersecurity & privacy
 
-<img src="../../assets/sections/banner-security.svg" width="896" alt="🛡️ Cybersecurity & privacy banner">
+<img src="../../assets/sections/banner-security.svg" width="896" alt="🔒 Cybersecurity & privacy banner">
 
 > Part of **[Awesome Bangladesh](../../README.md)** · All section guides: **[index](index.md)**
 
