@@ -1,0 +1,64 @@
+name: regen-pages
+
+# Auto-sync: whenever list content changes on main (README, guides, data),
+# regenerate the GitHub Pages site and push it to the gh-pages branch.
+# This keeps every count on the Pages site in sync with the README automatically.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'docs/sections/**'
+      - 'docs/*.md'
+      - 'legacy.md'
+      - 'data/*.json'
+      - 'assets/pages/**'
+      - 'scripts/gen_site.py'
+      - 'scripts/site_lib.py'
+      - 'scripts/gen_pages.py'
+      - '.github/workflows/regen-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regen-pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build site (stdlib-only generator)
+        run: python scripts/gen_pages.py
+
+      - name: Verify build output
+        run: |
+          test -f _site/index.html || (echo "index.html missing" && exit 1)
+          test -f _site/sitemap.xml || (echo "sitemap.xml missing" && exit 1)
+          test -f _site/favicon.svg || (echo "favicon.svg missing" && exit 1)
+          test -f _site/robots.txt || (echo "robots.txt missing" && exit 1)
+          echo "pages built: $(ls _site/*.html | wc -l) HTML files"
+
+      - name: Deploy to gh-pages branch
+        run: |
+          cd _site
+          git init -q -b gh-pages
+          git config user.name "RanaKhan77"
+          git config user.email "235051016+RanaKhan77@users.noreply.github.com"
+          git add -A
+          git commit -qm "pages: auto-regenerated from main@${GITHUB_SHA::7}"
+          git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages:gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ping IndexNow (Bing/Yandex/Naver/Seznam)
+        run: python scripts/ping_indexnow.py
