@@ -216,6 +216,18 @@
   "last_verified": "2026-10-24"
  },
  {
+  "name": "Bangladesh District-Level Weather & Pollution Dataset",
+  "url": "https://github.com/Albab-Hasan/Bangladesh-District-Level-Weather-Pollution-DataSet",
+  "description": "Daily weather and air-quality CSVs for all 64 districts, collected daily since August 2025",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "maintainer GitHub profile location: Bangladesh (https://github.com/Albab-Hasan)"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-28"
+ },
+ {
   "name": "titulm-bangla-corpus",
   "url": "https://huggingface.co/datasets/hishab/titulm-bangla-corpus",
   "description": "24.3M-doc Bangla pre-training corpus (147 GB) from Hishab (Dhaka)",
