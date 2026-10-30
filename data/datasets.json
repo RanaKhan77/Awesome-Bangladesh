@@ -622,5 +622,125 @@
   },
   "section": "Datasets & open data",
   "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bangladesh-scob-judgment-summarization",
+  "url": "https://huggingface.co/datasets/Hasin2026/bangladesh-scob-judgment-summarization",
+  "description": "Supreme Court of Bangladesh judgment summarisation dataset",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "SCOB = Bangladesh Supreme Court"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "bangladesh-civil-litigation-dataset",
+  "url": "https://huggingface.co/datasets/advafzal/bangladesh-civil-litigation-dataset",
+  "description": "Bangla civil-litigation corpus with CITATION.cff and changelogs",
+  "license": "CC-BY-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh legal-domain dataset"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "bangladesh-family-law-wiki",
+  "url": "https://huggingface.co/datasets/advafzal/bangladesh-family-law-wiki",
+  "description": "Structured Bangla family-law knowledge base",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh legal-domain dataset"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "bangladesh-law-professional",
+  "url": "https://huggingface.co/datasets/Sadatsami/bangladesh-law-professional",
+  "description": "Bangla legal-domain instruction-tuning dataset",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladeshi law instruction data"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "all-Bangladeshi-medicines",
+  "url": "https://huggingface.co/datasets/Rifat23434/all-Bangladeshi-medicines",
+  "description": "Brand and generic medicine data for Bangladesh (twin exists at Mahadih534)",
+  "license": "CC-BY-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh medicines data"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "bdlaws (flat table)",
+  "url": "https://huggingface.co/datasets/Ashik2380/bdlaws",
+  "description": "Bangladesh laws from bdlaws.minlaw.gov.bd as flat table - license unknown, link only",
+  "license": "unknown - link only",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh law scrape"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "ipfs_bangladesh_laws",
+  "url": "https://huggingface.co/datasets/endomorphosis/ipfs_bangladesh_laws",
+  "description": "Parquet snapshot of Bangladesh law corpus - license unknown, link only",
+  "license": "unknown - link only",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh law corpus"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "ipfs_bangladesh_laws_ir",
+  "url": "https://huggingface.co/datasets/justicedao/ipfs_bangladesh_laws_ir",
+  "description": "IR/GraphRAG re-package of Bangladesh law corpus - license unknown, link only",
+  "license": "unknown - link only",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh law corpus"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "bangladesh-bar-council-exam-dataset",
+  "url": "https://huggingface.co/datasets/momahadi/bangladesh-bar-council-exam-dataset",
+  "description": "Bangladesh Bar Council exam questions - license unknown, link only",
+  "license": "unknown - link only",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh Bar Council"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "bd-legal-sft",
+  "url": "https://huggingface.co/datasets/tanziro/bd-legal-sft",
+  "description": "SFT set built on BLAD legal corpus - license unknown, link only",
+  "license": "unknown - link only",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh legal SFT"
+  },
+  "section": "datasets",
+  "last_verified": "2026-10-30"
  }
 ]

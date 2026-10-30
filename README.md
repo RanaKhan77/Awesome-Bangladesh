@@ -79,6 +79,16 @@ Curated datasets on GitHub and Hugging Face:
 - [Bangladesh District-Level Weather & Pollution Dataset](https://github.com/Albab-Hasan/Bangladesh-District-Level-Weather-Pollution-DataSet) - Daily weather and air-quality CSVs (temperature, humidity, wind, AQI, PM2.5, PM10, O3, NO2, SO2, CO) for all 64 districts, collected daily since August 2025. ⚠️ No licence file.
 - [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) - Bangla alphabet dataset for ML. MIT.
 - [Bangladesh-Legal-Acts-Dataset](https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset) - Laws of Bangladesh, machine-readable. CC-BY-4.0.
+- [bangladesh-scob-judgment-summarization](https://huggingface.co/datasets/Hasin2026/bangladesh-scob-judgment-summarization) - Supreme Court of Bangladesh judgment summarisation dataset. CC-BY-4.0.
+- [bangladesh-civil-litigation-dataset](https://huggingface.co/datasets/advafzal/bangladesh-civil-litigation-dataset) - Bangla civil-litigation corpus with exemplary dataset hygiene (CITATION.cff, changelogs). CC-BY-4.0.
+- [bangladesh-family-law-wiki](https://huggingface.co/datasets/advafzal/bangladesh-family-law-wiki) - Structured Bangla family-law knowledge base. MIT.
+- [bangladesh-law-professional](https://huggingface.co/datasets/Sadatsami/bangladesh-law-professional) - Bangla legal-domain instruction-tuning dataset. Apache-2.0.
+- [all-Bangladeshi-medicines](https://huggingface.co/datasets/Rifat23434/all-Bangladeshi-medicines) - Brand and generic medicine data for Bangladesh. CC-BY-2.0. (Near-identical twin dataset exists at Mahadih534/all-Bangladeshi-medicines - verify which is canonical before citing.)
+- [bdlaws (flat table)](https://huggingface.co/datasets/Ashik2380/bdlaws) - Bangladesh laws scraped from bdlaws.minlaw.gov.bd as a flat section table. ⚠️ Licence unknown - link only, do not redistribute.
+- [ipfs_bangladesh_laws](https://huggingface.co/datasets/endomorphosis/ipfs_bangladesh_laws) - Parquet snapshot of the Bangladesh law corpus. ⚠️ Licence unknown - link only, do not redistribute.
+- [ipfs_bangladesh_laws_ir](https://huggingface.co/datasets/justicedao/ipfs_bangladesh_laws_ir) - IR/GraphRAG re-package of the Bangladesh law corpus. ⚠️ Licence unknown - link only, do not redistribute.
+- [bangladesh-bar-council-exam-dataset](https://huggingface.co/datasets/momahadi/bangladesh-bar-council-exam-dataset) - Bangladesh Bar Council examination questions. ⚠️ Licence unknown - link only.
+- [bd-legal-sft](https://huggingface.co/datasets/tanziro/bd-legal-sft) - Supervised-fine-tuning set built on the BLAD legal corpus. ⚠️ Licence unknown - link only.
 - [bangla-bagdhara](https://huggingface.co/datasets/sakhadib/bangla-bagdhara) - Bangla idioms (bagdhara) dataset. CC-BY-SA-4.0.
 - [xlsum](https://huggingface.co/datasets/csebuetnlp/xlsum) - Large-scale multilingual summarisation dataset covering Bangla news. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT) - Bangla-English parallel corpus. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
@@ -190,6 +200,10 @@ NLP toolkits and models:
 - [laya-bangla](https://github.com/shamspias/laya-bangla) - Bangla-first LLM routing layer. Apache-2.0.
 - [bangla-embed-e5-small-banglish](https://huggingface.co/kazalbrur/bangla-embed-e5-small-banglish) - Bangla/Banglish sentence embeddings. MIT.
 - [bangla-asr-conformer-120m-dialects](https://huggingface.co/kazalbrur/bangla-asr-conformer-120m-dialects) - Dialect-aware Bangla speech recognition. Apache-2.0.
+- [indicf5-bangla-tts](https://huggingface.co/ehzawad/indicf5-bangla-tts) - IndicF5-based Bangla text-to-speech from a Bangladesh-based researcher. ⚠️ Gated download, non-commercial research licence.
+- [whisper-large-v3-turbo-bn-BD](https://huggingface.co/ehzawad/whisper-large-v3-turbo-bn-BD) - Whisper large-v3-turbo fine-tune for Bangla (Bangladesh). ⚠️ Gated download, non-commercial research licence.
+- [Qwen3-ASR-1.7B-bn-BD](https://huggingface.co/ehzawad/Qwen3-ASR-1.7B-bn-BD) - Compact Qwen3 ASR fine-tune for Bangla. ⚠️ Gated download, non-commercial research licence.
+- [BanglaLLM (Hugging Face org)](https://huggingface.co/BanglaLLM) - Bangladesh-led org behind the BanglaLLama family, BanglaSafe, bangla-alpaca-orca and 30+ open Bangla models and datasets.
 
 Dates, numbers and text utilities:
 
@@ -235,6 +249,7 @@ Typesetting:
 - [bangla-speech-to-text-benchmark](https://github.com/riverbornai/bangla-speech-to-text-benchmark) - Open benchmark of eight Bengali speech-to-text APIs (Sarvam, Deepgram, Gemini, OpenAI, Groq Whisper and others) on 1,001 Bangla audio clips. MIT.
 - [TituLM](https://huggingface.co/hishab/titulm-llama-3.2-3b-v2.0) - Open-weight Bangla LLM family from Hishab (Dhaka), trained on the titulm-bangla-corpus; paper arXiv 2502.11187. Llama 3.2 community licence.
 - [BanglaLLama](https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1) - Instruction-tuned Bangla LLM from the Bangladesh-led BanglaLLM org. Llama 2 community licence.
+- [Qwen-MediCare-BD](https://huggingface.co/CBrootA/Qwen-MediCare-BD) - Offline-first Bangla medical-assistant model (GGUF builds for local use) fine-tuned on Bangladeshi medicines data. MIT.
 - [bangladeshi-bangla-tts-vits](https://huggingface.co/EMTIAZZ/bangladeshi-bangla-tts-vits) - Bangladeshi-dialect Bangla text-to-speech with running demo spaces, by a Dhaka-based ML engineer. Apache-2.0.
 - [BanglaTag](https://huggingface.co/arafatfahim/BanglaTag) - Bangla part-of-speech tagging model by a Dhaka developer. Apache-2.0.
 - [bengali-whisper-medium](https://huggingface.co/SayedShaun/bengali-whisper-medium) - Whisper fine-tune for Bangla speech recognition, Dhaka-based maintainer. Apache-2.0.
@@ -292,6 +307,7 @@ Logistics, couriers and anti-fraud:
 - [2mny-security-scan](https://github.com/RanaKhan77/2mny-security-scan) - Continuous security-scan platform powering 2mny.com.
 - [BDIX servers checker](https://github.com/0xAhmadYousuf/BDIX) - Check and list BDIX-hosted servers. MIT.
 - [bdix-tester](https://gitlab.com/farhansadik/bdix-tester) - Test which sites, FTP and download links are alive over BDIX (GitLab). Licenced (see repo).
+- [sundarbans-ransom-tracker](https://github.com/Affnann/sundarbans-ransom-tracker) - Research tracker of ransomware incidents affecting Bangladesh, with open data and a Zenodo DOI. MIT (code) + CC-BY-4.0 (data).
 
 ## 🏢 Civic tech & public services
 
@@ -302,6 +318,7 @@ Logistics, couriers and anti-fraud:
 - [nyayota](https://github.com/afnan0356/nyayota) - Bangladeshi legal information platform. MIT.
 - [desco-prepaid-api](https://github.com/KhBayazidAhmed/desco-prepaid-api) - DESCO prepaid electricity meter API documentation. ⚠️ No licence file.
 - [metrox-app](https://github.com/fahim2443/metrox-app) - Dhaka Metro Rail NFC card balance app. MIT.
+- [ThrottleIQ](https://github.com/blankframe-tech/ThrottleIQ) - Bangladesh-built bilingual (Bangla/English) GPS ride tracker for bikers, with an active community translation-review process. ⚠️ TSAL v1.1 source-available licence.
 - [electric-bill-bd](https://www.npmjs.com/package/electric-bill-bd) - Electricity bill calculator for DESCO, DPDC, NESCO and other utilities. MIT.
 
 ## 🚨 Crisis response
@@ -349,6 +366,7 @@ Logistics, couriers and anti-fraud:
 - [KonSchool](https://github.com/maacpiash/KonSchool) - Fuzzy-AHP school recommender for Bangladesh. AGPL-3.0.
 - [HSC Stack](https://github.com/hscstack/platform) - Curated free resource platform for Bangladesh HSC and SSC students - notes, guides and materials, by the Dhaka-based hscstack org. Apache-2.0.
 - [F1.VISA.USA](https://github.com/MahediKamal/F1.VISA.USA) - Practical F-1 visa guide by a Bangladeshi engineer. MIT.
+- [BD-Univeristy-Index](https://github.com/sharf-shawon/BD-Univeristy-Index) - Nightly-synced index of Bangladeshi universities with UGC data, developer API and domain verification. ⚠️ Apache-2.0 declared in README, LICENSE file missing.
 
 ## 📚 Awesome lists & communities
 

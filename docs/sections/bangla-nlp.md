@@ -6,7 +6,7 @@
 
 Everything that makes Bangla work on computers: keyboards and input methods, Unicode-Bijoy conversion, normalizers, tokenizers, spell checkers, PDF generation and full NLP stacks. This is the deepest section of Bangladeshi open source — the Avro phonetic lineage alone spans two decades of maintained forks, from the original OmicronLab keyboard through today's Rust engines. Licences matter here and are stated per entry; the BUET research models with non-commercial terms live in the [AI/ML section](aiml.md) with their ⚠️ flags.
 
-**44 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**48 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -41,6 +41,10 @@ Everything that makes Bangla work on computers: keyboards and input methods, Uni
 | [laya-bangla](https://github.com/shamspias/laya-bangla) | Bangla-first LLM routing layer — routing prompts to models based on Bangla-language understanding (লয়া = flow). | Apache-2.0 | see list |
 | [bangla-embed-e5-small-banglish](https://huggingface.co/kazalbrur/bangla-embed-e5-small-banglish) | Bangla/Banglish sentence embeddings — retrieval and semantic search that handles both scripts and the Romanized mix people actually type. | MIT | see list |
 | [bangla-asr-conformer-120m-dialects](https://huggingface.co/kazalbrur/bangla-asr-conformer-120m-dialects) | Dialect-aware Bangla speech recognition — a Conformer model trained to survive regional accents. | Apache-2.0 | see list |
+| [indicf5-bangla-tts](https://huggingface.co/ehzawad/indicf5-bangla-tts) | IndicF5-based Bangla text-to-speech from a Bangladesh-based researcher — Bangla TTS is scarce and this is a working checkpoint | ⚠️ Gated download, non-commercial research licence | 🟢 BD-based |
+| [whisper-large-v3-turbo-bn-BD](https://huggingface.co/ehzawad/whisper-large-v3-turbo-bn-BD) | Whisper large-v3-turbo fine-tune for Bangla (Bangladesh) | ⚠️ Gated download, non-commercial research licence | 🟢 BD-based |
+| [Qwen3-ASR-1.7B-bn-BD](https://huggingface.co/ehzawad/Qwen3-ASR-1.7B-bn-BD) | Compact Qwen3 ASR fine-tune for Bangla — a lighter-weight recognition option | ⚠️ Gated download, non-commercial research licence | 🟢 BD-based |
+| [BanglaLLM (Hugging Face org)](https://huggingface.co/BanglaLLM) | Bangladesh-led org behind the BanglaLLama family, BanglaSafe, bangla-alpaca-orca and 30+ open Bangla models and datasets — the org page is the canonical entry point | Licence per model | 🟢 BD-based |
 | [number-to-bangla](https://github.com/rakibdevs/number-to-bangla) | Convert numbers to Bangla words and digits for Laravel/PHP — invoices, cheques and amounts-in-words without hand-rolled rules. | MIT | 🟢 BD-based |
 | [bangla-to-banglish](https://www.npmjs.com/package/bangla-to-banglish) | Bangla script to Banglish transliteration on npm — for platforms that still store Romanized Bangla. | MIT | 🟢 BD-based |
 | [bangla-likhi](https://www.npmjs.com/package/bangla-likhi) | Bangla typing made easy (বাংলা লিখি = let's write Bangla) — a friendlier programmatic typing interface. | MIT | 🟢 BD-based |

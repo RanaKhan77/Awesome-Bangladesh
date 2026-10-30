@@ -1006,5 +1006,101 @@
   },
   "section": "Bangla language & NLP",
   "last_verified": "2026-10-25"
+ },
+ {
+  "name": "indicf5-bangla-tts",
+  "url": "https://huggingface.co/ehzawad/indicf5-bangla-tts",
+  "description": "IndicF5-based Bangla TTS from a BD researcher (gated, non-commercial)",
+  "license": "research non-commercial (gated)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh-based researcher"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "whisper-large-v3-turbo-bn-BD",
+  "url": "https://huggingface.co/ehzawad/whisper-large-v3-turbo-bn-BD",
+  "description": "Whisper large-v3-turbo fine-tune for Bangla BD (gated, non-commercial)",
+  "license": "research non-commercial (gated)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh-based researcher"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "Qwen3-ASR-1.7B-bn-BD",
+  "url": "https://huggingface.co/ehzawad/Qwen3-ASR-1.7B-bn-BD",
+  "description": "Compact Qwen3 ASR fine-tune for Bangla (gated, non-commercial)",
+  "license": "research non-commercial (gated)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh-based researcher"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "BanglaLLM (org)",
+  "url": "https://huggingface.co/BanglaLLM",
+  "description": "Bangladesh-led org: BanglaLLama family, BanglaSafe, bangla-alpaca-orca, 30+ open models",
+  "license": "licence per model",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh-led org"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "Qwen-MediCare-BD",
+  "url": "https://huggingface.co/CBrootA/Qwen-MediCare-BD",
+  "description": "Offline-first Bangla medical assistant (GGUF) fine-tuned on BD medicines data",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for Bangladesh healthcare"
+  },
+  "section": "aiml",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "sundarbans-ransom-tracker",
+  "url": "https://github.com/Affnann/sundarbans-ransom-tracker",
+  "description": "Research tracker of ransomware incidents affecting Bangladesh with Zenodo DOI",
+  "license": "MIT + CC-BY-4.0 (data)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh security research"
+  },
+  "section": "security",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "ThrottleIQ",
+  "url": "https://github.com/blankframe-tech/ThrottleIQ",
+  "description": "BD-built bilingual GPS ride tracker for bikers with community translation review",
+  "license": "TSAL v1.1 source-available",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh-based team (Dhaka)"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-10-30"
+ },
+ {
+  "name": "BD-Univeristy-Index",
+  "url": "https://github.com/sharf-shawon/BD-Univeristy-Index",
+  "description": "Nightly-synced index of Bangladeshi universities with UGC data + API",
+  "license": "Apache-2.0 (LICENSE file missing)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh UGC data"
+  },
+  "section": "education",
+  "last_verified": "2026-10-30"
  }
 ]
