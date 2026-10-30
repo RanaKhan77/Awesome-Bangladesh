@@ -1,0 +1,37 @@
+# Awesome Bangladesh
+
+> A hand-verified directory of 273 open-source projects, datasets and free APIs connected to Bangladesh. Every entry is link-checked, licence-stated and Bangladesh-connection-evidenced. List content is CC0.
+
+Maintained by Rana Khan (https://github.com/RanaKhan77). Repository: https://github.com/RanaKhan77/Awesome-Bangladesh.
+
+## Sections
+
+- [Developer tools & libraries](https://ranakhan77.github.io/Awesome-Bangladesh/developer-tools.html): Open-source developer tools from Bangladesh — React design systems, scraping toolkits, Bangla terminal editors and Docker images. (7 entries)
+- [Datasets & open data](https://ranakhan77.github.io/Awesome-Bangladesh/datasets.html): 58 verified Bangladesh datasets — government portals plus Hugging Face and Kaggle corpora for Bangla NLP, speech, weather, health and finance. (69 entries)
+- [APIs & integrations](https://ranakhan77.github.io/Awesome-Bangladesh/apis.html): Free Bangladesh APIs — keyless endpoints for geography, prayer times, exchange rates, railway schedules and Bangla news, plus SDK wrappers. (15 entries)
+- [Bangla language & NLP](https://ranakhan77.github.io/Awesome-Bangladesh/bangla-nlp.html): Bangla NLP open source — Avro and OpenBangla keyboards, Unicode-Bijoy converters, tokenizers, spell checkers, speech-to-text and PDF libraries. (48 entries)
+- [AI/ML & research](https://ranakhan77.github.io/Awesome-Bangladesh/aiml.html): Bangladeshi AI models — banglagov, BUET BanglaBERT, Hishab TituLM LLMs, dialect speech recognition and MCP servers, with licences stated. (27 entries)
+- [Fintech & e-commerce](https://ranakhan77.github.io/Awesome-Bangladesh/fintech.html): Bangladesh fintech SDKs — bKash, SSLCommerz, Nagad and shurjoPay for Laravel, Flutter, Node and Python, plus Pathao, RedX and Steadfast courier APIs. (28 entries)
+- [Cybersecurity & privacy](https://ranakhan77.github.io/Awesome-Bangladesh/security.html): Bangladesh cybersecurity open source — web vulnerability scanners, OSINT exposure checkers and BDIX network tools from local researchers. (6 entries)
+- [Civic tech & public services](https://ranakhan77.github.io/Awesome-Bangladesh/civic-tech.html): Bangladesh civic tech — the Bangla.gov.bd AI portal (Kagaj, Jijnsha, Borno OCR), legal platforms, DESCO meter APIs and bill calculators. (7 entries)
+- [Crisis response](https://ranakhan77.github.io/Awesome-Bangladesh/crisis-response.html): Bangladesh crisis response open source — offline-first flood SOS apps, community mesh networks and ML flood prediction for the haor region. (4 entries)
+- [Geography & open maps](https://ranakhan77.github.io/Awesome-Bangladesh/geography.html): Bangladesh geodata — division to union boundaries (4,540 unions with p-codes), GeoJSON libraries, OSM extracts and SVG district maps. (13 entries)
+- [Education & learning](https://ranakhan77.github.io/Awesome-Bangladesh/education.html): Learn programming in Bangla — system design, interview questions from Bangladeshi tech companies, algorithm visualizers and HSC study platforms. (15 entries)
+- [Awesome lists & communities](https://ranakhan77.github.io/Awesome-Bangladesh/awesome-lists.html): Awesome Bangladesh lists and communities — developer directories, FOSS indexes, Bengali.AI, Python Bangladesh, BDOSN and made-in-bangladesh. (20 entries)
+- [Developer services (not open)](https://ranakhan77.github.io/Awesome-Bangladesh/services.html): Bangladeshi developer services — bKash, SSLCommerz, Pathao, RedX and Barikoi portals and SMS gateways, with access models stated honestly. (14 entries)
+
+## Key facts
+
+- Verification date: 2026-10-30; dead links removed rather than kept
+- Licence model: stated per entry exactly as published; ⚠️ flags gaps and non-commercial terms
+- Dormancy policy: items unmaintained 3+ years move to legacy.md with last-activity dates
+- Data files: data/*.json (209 structured records) with a published JSON schema
+- Licensing of the list itself: CC0-1.0
+
+## Questions this site answers
+
+- What open-source software is made in Bangladesh? -> See sections: developer tools, fintech, Bangla NLP
+- Where can I get Bangladesh datasets? -> https://ranakhan77.github.io/Awesome-Bangladesh/datasets.html
+- Are there free Bangladesh APIs? -> https://ranakhan77.github.io/Awesome-Bangladesh/apis.html
+- What Bangla NLP models exist? -> https://ranakhan77.github.io/Awesome-Bangladesh/bangla-nlp.html and https://ranakhan77.github.io/Awesome-Bangladesh/aiml.html
+- How do I accept bKash/SSLCommerz payments in code? -> https://ranakhan77.github.io/Awesome-Bangladesh/fintech.html
