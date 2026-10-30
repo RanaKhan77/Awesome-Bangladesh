@@ -106,7 +106,7 @@ on scope (they distribute pirated streams); the rest are queued below, strongest
 | [Iamsdt/awesome-bengali-ai](https://github.com/Iamsdt/awesome-bengali-ai) | Companion awesome list for Bengali AI (MIT, Khulna maintainer) | List quality/maintenance depth | Sustained updates |
 | [kishormorol/BanglaNLP-Hub](https://github.com/kishormorol/BanglaNLP-Hub) | Community catalog of Bangla NLP resources (MIT, 11 stars) | Overlap with existing NLP sections | Differentiation from bnlp/bnltk listings |
 | [AbiruzzamanMolla/bangla-ocr-by-abir](https://github.com/AbiruzzamanMolla/bangla-ocr-by-abir) | Bangla OCR toolkit by an already-listed maintainer (MIT) | Early stage | Adoption and accuracy results |
-| [muhib-karim/Rambler-Bangla](https://github.com/muhib-karim/Rambler-Bangla) | Gboard smali patcher for Bengali-first voice typing (GPL-3.0) | Bangladesh connection of the maintainer | Maintainer profile |
+| ~~muhib-karim/Rambler-Bangla~~ | Gboard smali patcher for Bengali-first voice typing (GPL-3.0) | REPOSITORY DELETED (404 as of 2026-10-30) — removed from queue | n/a |
 | [Al-Mahamud/kagoj](https://github.com/Al-Mahamud/kagoj) | Flutter e-paper reader (KUET maintainer, MIT, active) | Zero adoption so far | Any release or store listing |
 
 Rejected with reasons (do not re-research): four BDIX IPTV M3U collections
