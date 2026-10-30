@@ -46,7 +46,7 @@ scope and eligibility rules first.
 
 - [DownGit](https://github.com/MinhasKamal/DownGit) - Download any GitHub directory or file as a zip archive. MIT.
 - [@waveinno/ui](https://www.npmjs.com/package/@waveinno/ui) - "The React design system from Bangladesh". MIT.
-- [banglaclaw](https://github.com/Entrogic/banglaclaw) - Web-scraping toolkit built for Bangladeshi use cases, also on [npm](https://www.npmjs.com/package/banglaclaw). Apache-2.0.
+- [banglaclaw](https://www.npmjs.com/package/banglaclaw) - Web-scraping toolkit built for Bangladeshi use cases (npm; the original GitHub repo has since been deleted). Apache-2.0.
 - [filex-editor](https://www.npmjs.com/package/filex-editor) - Bangla-first terminal text editor. MIT.
 - [Online-Compiler](https://github.com/shawon100/Online-Compiler) - Self-hosted online compiler platform. ⚠️ No licence file.
 - [docker-beanstalkd](https://github.com/maateen/docker-beanstalkd) - Docker image for the Beanstalkd work queue. MIT.
@@ -278,7 +278,7 @@ Community SDKs and integrations:
 - [bkashgo](https://github.com/dreygur/bkashgo) - bKash API client for Go. MIT.
 - [flutter-bkash](https://github.com/codeboxrcodehub/flutter-bkash) - bKash checkout for Flutter. BSD-3-Clause.
 - [takaden](https://github.com/saagoor/takaden) - bKash, Nagad, Rocket and Upay payments for Laravel. MIT.
-- [laravel-bdpaygate](https://github.com/byteminus/laravel-bdpaygate) - Every Bangladeshi payment gateway behind one Laravel API, with [bdpaygate-js](https://github.com/byteminus/bdpaygate-js) for Node. MIT.
+- [laravel-bdpaygate](https://packagist.org/packages/byteminus/laravel-bdpaygate) - Every Bangladeshi payment gateway behind one Laravel API (Packagist; the original GitHub repo and the bdpaygate-js Node companion have since been deleted). MIT.
 - [bkash (Laravel, msilabs)](https://github.com/msilabs/bkash) - bKash API for Laravel. MIT.
 - [paykit-bd](https://www.npmjs.com/package/paykit-bd) - Payment clients for Bangladeshi gateways. MIT.
 - [bkash-js](https://www.npmjs.com/package/bkash-js) - bKash web client. MIT.

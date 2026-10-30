@@ -457,8 +457,8 @@
  },
  {
   "name": "laravel-bdpaygate",
-  "url": "https://github.com/byteminus/laravel-bdpaygate",
-  "description": "Every BD payment gateway behind one Laravel API",
+  "url": "https://packagist.org/packages/byteminus/laravel-bdpaygate",
+  "description": "Every BD payment gateway behind one Laravel API (GitHub repo since deleted; Packagist is canonical)",
   "license": "MIT",
   "bd_connection": {
    "tier": "product",
@@ -577,8 +577,8 @@
  },
  {
   "name": "banglaclaw",
-  "url": "https://github.com/Entrogic/banglaclaw",
-  "description": "Web-scraping toolkit for Bangladeshi use cases",
+  "url": "https://www.npmjs.com/package/banglaclaw",
+  "description": "Web-scraping toolkit for Bangladeshi use cases (GitHub repo since deleted; npm is canonical)",
   "license": "Apache-2.0",
   "bd_connection": {
    "tier": "A",

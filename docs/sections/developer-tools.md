@@ -14,7 +14,7 @@ The everyday toolbox: libraries, CLI utilities and frameworks that Bangladeshi d
 |---|---|---|---|
 | [DownGit](https://github.com/MinhasKamal/DownGit) | Downloads any GitHub directory or file as a zip archive straight from the browser — no clone, no sparse checkout. One of the most-forked Bangladeshi utilities on GitHub and a fixture in developer workflows worldwide. | MIT | 🟡 Diaspora |
 | [@waveinno/ui](https://www.npmjs.com/package/@waveinno/ui) | "The React design system from Bangladesh" — a component library from the Dhaka product studio WaveInno, published on npm for production React apps. | MIT | 🔵 BD org / for-BD |
-| [banglaclaw](https://github.com/Entrogic/banglaclaw) | Web-scraping toolkit built for Bangladeshi use cases, also published on [npm](https://www.npmjs.com/package/banglaclaw). Ships with helpers tuned to how local sites are actually built, which generic scrapers handle badly. | Apache-2.0 | 🟢 BD-based |
+| [banglaclaw](https://www.npmjs.com/package/banglaclaw) | Web-scraping toolkit built for Bangladeshi use cases, published on npm (the original GitHub repo has since been deleted). Ships with helpers tuned to how local sites are actually built, which generic scrapers handle badly. | Apache-2.0 | 🟢 BD-based |
 | [filex-editor](https://www.npmjs.com/package/filex-editor) | A Bangla-first terminal text editor, published on npm — typing, editing and saving Bangla text without leaving a terminal session or fighting font setup. | MIT | 🟢 BD-based |
 | [Online-Compiler](https://github.com/shawon100/Online-Compiler) | Self-hosted online compiler platform — spin up a code-execution sandbox for a classroom or team on your own infrastructure instead of renting a judge0 bill. | ⚠️ No licence file | 🟡 Diaspora |
 | [docker-beanstalkd](https://github.com/maateen/docker-beanstalkd) | Docker image for the Beanstalkd work queue, maintained by the Dhaka developer behind a string of developer-experience tooling. Pull-and-run instead of hand-configuring a queue server. | MIT | 🟡 Diaspora |
@@ -26,7 +26,7 @@ The everyday toolbox: libraries, CLI utilities and frameworks that Bangladeshi d
 
 A small tool that found a global audience: type a GitHub URL, get a zip of that directory. It solves the "I just want those three files, not the whole 400 MB repo" problem that every GitHub user hits eventually, and it has quietly become one of the most-forked Bangladeshi projects on the platform.
 
-### [banglaclaw](https://github.com/Entrogic/banglaclaw)
+### [banglaclaw](https://www.npmjs.com/package/banglaclaw)
 
 Scraping Bangladeshi websites is its own discipline — local encodings, local frameworks, local quirks — and this toolkit is built specifically for that reality instead of treating the Bangladeshi web as an afterthought. Published on npm with Apache-2.0, so commercial use is clean.
 

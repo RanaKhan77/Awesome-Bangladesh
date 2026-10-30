@@ -24,7 +24,7 @@ Payment gateways, SDKs and commerce integrations for Bangladesh's financial syst
 | [bkashgo](https://github.com/dreygur/bkashgo) | bKash API client for Go — same story for Go services, from the same maintainer. | MIT | 🟢 BD-based |
 | [flutter-bkash](https://github.com/codeboxrcodehub/flutter-bkash) | bKash checkout for Flutter — mobile apps get native payment flows instead of a webview compromise. | BSD-3-Clause | 🔵 BD org / for-BD |
 | [takaden](https://github.com/saagoor/takaden) | bKash, Nagad, Rocket and Upay payments for Laravel — one package across the four MFS giants. | MIT | see list |
-| [laravel-bdpaygate](https://github.com/byteminus/laravel-bdpaygate) | Every Bangladeshi payment gateway behind one Laravel API, with [bdpaygate-js](https://github.com/byteminus/bdpaygate-js) for Node — gateway-agnostic by design, so swapping providers is a config change. | MIT | see list |
+| [laravel-bdpaygate](https://packagist.org/packages/byteminus/laravel-bdpaygate) | Every Bangladeshi payment gateway behind one Laravel API — gateway-agnostic by design, so swapping providers is a config change. Survives on Packagist; the GitHub repo and bdpaygate-js Node companion have since been deleted. | MIT | see list |
 | [bkash (Laravel, msilabs)](https://github.com/msilabs/bkash) | bKash API for Laravel from msilabs — the wrapper that documented the grant flow for a generation of BD Laravel developers. | MIT | 🔵 BD org / for-BD |
 | [paykit-bd](https://www.npmjs.com/package/paykit-bd) | Payment clients for Bangladeshi gateways on npm — multi-gateway support for Node services. | MIT | 🟢 BD-based |
 | [bkash-js](https://www.npmjs.com/package/bkash-js) | bKash web client for browser-side checkout flows. | MIT | 🟢 BD-based |
