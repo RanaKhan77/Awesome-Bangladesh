@@ -6,7 +6,7 @@
 
 Models, benchmarks and research code from Bangladeshi labs and companies — from BUET's encoder models to Dhaka-built LLM families, plus two MCP servers that bring Bangladesh data into LLM workflows. Each entry notes its licence honestly: community-licence LLMs and non-commercial research checkpoints are labelled, so commercial users know what they can ship before they build on it. Government AI assets are here too, through the banglagov Hugging Face org — the state's first openly published model family.
 
-**26 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**27 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -32,6 +32,7 @@ Models, benchmarks and research code from Bangladeshi labs and companies — fro
 | [bangla-speech-to-text-benchmark](https://github.com/riverbornai/bangla-speech-to-text-benchmark) | Open benchmark of eight Bengali speech-to-text APIs (Sarvam, Deepgram, Gemini, OpenAI, Groq Whisper and others) evaluated on 1,001 Bangla audio clips — the honest scorecard before you pick an ASR vendor. | MIT | 🟢 BD-based |
 | [TituLM](https://huggingface.co/hishab/titulm-llama-3.2-3b-v2.0) | Open-weight Bangla LLM family from Hishab (Dhaka), trained on their own 24.3M-document titulm-bangla-corpus; paper arXiv 2502.11187. The most complete locally-published LLM stack: corpus, base models and paper together. | Llama 3.2 community licence | 🟢 BD-based |
 | [BanglaLLama](https://huggingface.co/BanglaLLM/bangla-llama-7b-instruct-v0.1) | Instruction-tuned Bangla LLM from the Bangladesh-led BanglaLLM org — an earlier open-weight 7B entry in the local LLM lineage. | Llama 2 community licence | 🟢 BD-based |
+| [Qwen-MediCare-BD](https://huggingface.co/CBrootA/Qwen-MediCare-BD) | Offline-first Bangla medical-assistant model (GGUF builds for local use) fine-tuned on Bangladeshi medicines data — healthcare access where connectivity is weak | MIT | 🟢 BD-based |
 | [bangladeshi-bangla-tts-vits](https://huggingface.co/EMTIAZZ/bangladeshi-bangla-tts-vits) | Bangladeshi-dialect Bangla text-to-speech built on VITS, with running demo spaces, by a Dhaka-based ML engineer — TTS tuned to how Bangla is actually spoken in Bangladesh rather than Kolkata-standard prose. | Apache-2.0 | 🟢 BD-based |
 | [BanglaTag](https://huggingface.co/arafatfahim/BanglaTag) | Bangla part-of-speech tagging model by a Dhaka developer — a drop-in POS tagger for pipelines that need morphological context. | Apache-2.0 | 🟢 BD-based |
 | [bengali-whisper-medium](https://huggingface.co/SayedShaun/bengali-whisper-medium) | Whisper fine-tune for Bangla speech recognition from a Dhaka-based maintainer — the practical route to good Bangla transcription on consumer hardware. | Apache-2.0 | 🟢 BD-based |

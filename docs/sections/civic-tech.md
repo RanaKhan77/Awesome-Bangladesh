@@ -6,7 +6,7 @@
 
 Technology aimed at public life: government portals, legal information, utility access and citizen services. The centrepiece is Bangla.gov.bd — the state's own Bangla-computing portal with AI assistants, OCR, corpus and fonts, and downloadable datasets and models on its Hugging Face organisation. Everything here is free to use; where a service is run by a government body we say so explicitly, and where a community project fills a gap the state has not, we say that too.
 
-**6 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**7 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -17,6 +17,7 @@ Technology aimed at public life: government portals, legal information, utility 
 | [nyayota](https://github.com/afnan0356/nyayota) | Bangladeshi legal information platform: law references organised for citizens rather than lawyers, lowering the cost of knowing your rights. | MIT | see list |
 | [desco-prepaid-api](https://github.com/KhBayazidAhmed/desco-prepaid-api) | Community-documented API for DESCO prepaid electricity meters — reverse-engineered documentation for checking balance and usage programmatically, something the utility itself never published. | ⚠️ No licence file | see list |
 | [metrox-app](https://github.com/fahim2443/metrox-app) | Dhaka Metro Rail NFC card balance app — read your MRT pass balance and history from a phone instead of queuing at a machine. Built for the capital's newest transit system. | MIT | 🟡 Diaspora |
+| [ThrottleIQ](https://github.com/blankframe-tech/ThrottleIQ) | Bangladesh-built bilingual (Bangla/English) GPS ride tracker for bikers, with an active community translation-review process and a public CLA | ⚠️ TSAL v1.1 source-available licence | 🟢 BD-based |
 | [electric-bill-bd](https://www.npmjs.com/package/electric-bill-bd) | Electricity bill calculator for DESCO, DPDC, NESCO and other Bangladeshi utilities, published on npm — tariff slabs and VAT rules encoded once so every app does not have to re-derive them. | MIT | 🔵 BD org / for-BD |
 
 ## Editor's picks

@@ -6,7 +6,7 @@
 
 The data layer of the Bangladeshi open ecosystem: government portals, research corpora on Hugging Face and Kaggle, and international hosts carrying Bangladesh data. Each dataset states its licence where the publisher declares one, and licence-free items are flagged rather than silently listed. Frozen research corpora stay listed because a completed dataset is a finished product, not an abandoned one. When a dataset claims a government source, we check that the source is named and linkable.
 
-**59 verified entries** · Last verified: 2026-10-28 · Rules: [curation policy](../curation-policy.md)
+**69 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -21,6 +21,16 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [Bangla-Alphabet](https://github.com/lifeparticle/Bangla-Alphabet) | Bangla alphabet dataset for ML — letters, numerals and punctuation as organised image data, a teaching and classification starter set | MIT | 🟡 Diaspora |
 | [Bangladesh-Legal-Acts-Dataset](https://huggingface.co/datasets/sakhadib/Bangladesh-Legal-Acts-Dataset) | Laws of Bangladesh, machine-readable | CC-BY-4.0 | 🟢 BD-based |
 | [bangla-bagdhara](https://huggingface.co/datasets/sakhadib/bangla-bagdhara) | Bangla idioms (bagdhara) dataset | CC-BY-SA-4.0 | 🟢 BD-based |
+| [bangladesh-scob-judgment-summarization](https://huggingface.co/datasets/Hasin2026/bangladesh-scob-judgment-summarization) | Supreme Court of Bangladesh judgment summarisation dataset — the only SCOB-focused summarisation set found | CC-BY-4.0 | 🟢 BD-based |
+| [bangladesh-civil-litigation-dataset](https://huggingface.co/datasets/advafzal/bangladesh-civil-litigation-dataset) | Bangla civil-litigation corpus with exemplary dataset hygiene (CITATION.cff, changelogs, versioning) | CC-BY-4.0 | 🟢 BD-based |
+| [bangladesh-family-law-wiki](https://huggingface.co/datasets/advafzal/bangladesh-family-law-wiki) | Structured Bangla family-law knowledge base | MIT | 🟢 BD-based |
+| [bangladesh-law-professional](https://huggingface.co/datasets/Sadatsami/bangladesh-law-professional) | Bangla legal-domain instruction-tuning dataset | Apache-2.0 | 🟢 BD-based |
+| [all-Bangladeshi-medicines](https://huggingface.co/datasets/Rifat23434/all-Bangladeshi-medicines) | Brand and generic medicine data for Bangladesh — note a near-identical twin exists at Mahadih534/all-Bangladeshi-medicines; verify which is canonical before citing | CC-BY-2.0 | 🟢 BD-based |
+| [bdlaws (flat table)](https://huggingface.co/datasets/Ashik2380/bdlaws) | Bangladesh laws scraped from bdlaws.minlaw.gov.bd as a flat section table — the bdlaws-derived family; BLAD above is the anchor entry | ⚠️ Licence unknown — link only, do not redistribute | 🟢 BD-based |
+| [ipfs_bangladesh_laws](https://huggingface.co/datasets/endomorphosis/ipfs_bangladesh_laws) | Parquet snapshot of the Bangladesh law corpus | ⚠️ Licence unknown — link only, do not redistribute | 🟢 BD-based |
+| [ipfs_bangladesh_laws_ir](https://huggingface.co/datasets/justicedao/ipfs_bangladesh_laws_ir) | IR/GraphRAG re-package of the Bangladesh law corpus | ⚠️ Licence unknown — link only, do not redistribute | 🟢 BD-based |
+| [bangladesh-bar-council-exam-dataset](https://huggingface.co/datasets/momahadi/bangladesh-bar-council-exam-dataset) | Bangladesh Bar Council examination questions | ⚠️ Licence unknown — link only | 🟢 BD-based |
+| [bd-legal-sft](https://huggingface.co/datasets/tanziro/bd-legal-sft) | Supervised-fine-tuning set built on the BLAD legal corpus | ⚠️ Licence unknown — link only | 🟢 BD-based |
 | [xlsum](https://huggingface.co/datasets/csebuetnlp/xlsum) | Large-scale multilingual summarisation dataset covering Bangla news | ⚠️ CC BY-NC-SA 4.0 — non-commercial | 🔵 BD org / for-BD |
 | [BanglaNMT](https://huggingface.co/datasets/csebuetnlp/BanglaNMT) | Bangla-English parallel corpus | ⚠️ CC BY-NC-SA 4.0 — non-commercial | 🔵 BD org / for-BD |
 | [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) | Bangla speech corpus | CC0-1.0 | 🔵 BD org / for-BD |

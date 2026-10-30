@@ -6,7 +6,7 @@
 
 Security tooling by Bangladeshi researchers: web-application scanners, OSINT exposure checkers and BDIX network utilities. Scope is strict — reconnaissance and defensive tools yes, anything that exists to abuse real people (SMS bombers, phishing kits, piracy lists) is rejected at research time. Tools here are useful to security professionals everywhere, not only in Bangladesh, and each one is verified live before listing.
 
-**5 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**6 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -17,6 +17,7 @@ Security tooling by Bangladeshi researchers: web-application scanners, OSINT exp
 | [2mny-security-scan](https://github.com/RanaKhan77/2mny-security-scan) | Continuous security-scan platform powering 2mny.com — scheduled scans, findings deduplication and per-site reporting, from the Dhaka security team behind much of this list's research tooling. | — | see list |
 | [BDIX servers checker](https://github.com/0xAhmadYousuf/BDIX) | Checks and lists which servers are alive on BDIX, the national internet exchange — the starting point for anyone studying Bangladesh's domestic peering landscape. | MIT | 🟢 BD-based |
 | [bdix-tester](https://gitlab.com/farhansadik/bdix-tester) | Tests which sites, FTP servers and download links are alive over BDIX connections. Hosted on GitLab, not GitHub — one of the few Bangladeshi tools that lives there. | Licenced (see repo) | 🟢 BD-based |
+| [sundarbans-ransom-tracker](https://github.com/Affnann/sundarbans-ransom-tracker) | Research tracker of ransomware incidents affecting Bangladesh, with open data and a Zenodo DOI — crime and security transparency research | MIT (code) + CC-BY-4.0 (data) | 🟢 BD-based |
 
 ## Editor's picks
 

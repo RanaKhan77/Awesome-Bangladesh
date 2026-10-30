@@ -6,7 +6,7 @@
 
 Learning resources in Bangla and for Bangladeshi learners: system-design courses, interview archives, algorithm visualizers, competitive-programming references and student resource platforms. This is the section where community effort dwarfs institutional output — most of these are maintained by individuals giving back, often alumni writing the guide they wish had existed when they started. Everything is free to access; course-locking and paywalls would disqualify an entry here.
 
-**14 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**15 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -26,6 +26,7 @@ Learning resources in Bangla and for Bangladeshi learners: system-design courses
 | [KonSchool](https://github.com/maacpiash/KonSchool) | Fuzzy-AHP school recommender for Bangladesh — a research-grounded tool that ranks school choices from multiple criteria instead of reputation alone. | AGPL-3.0 | 🟡 Diaspora |
 | [HSC Stack](https://github.com/hscstack/platform) | Curated free resource platform for Bangladesh HSC and SSC students — notes, guides and materials, by the Dhaka-based hscstack org. Open education for the two exams that shape most Bangladeshi students' futures. | Apache-2.0 | 🟢 BD-based |
 | [F1.VISA.USA](https://github.com/MahediKamal/F1.VISA.USA) | Practical F-1 visa guide by a Bangladeshi engineer — the process documented by someone who actually went through it, for the thousands who follow the same path each year. | MIT | 🟢 BD-based |
+| [BD-Univeristy-Index](https://github.com/sharf-shawon/BD-Univeristy-Index) | Nightly-synced index of Bangladeshi universities with UGC data, developer API and domain verification | ⚠️ Apache-2.0 declared in README, LICENSE file missing | 🟢 BD-based |
 
 ## Editor's picks
 
