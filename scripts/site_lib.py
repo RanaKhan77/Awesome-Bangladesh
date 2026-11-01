@@ -10,7 +10,7 @@ SITE = "https://ranakhan77.github.io/Awesome-Bangladesh"
 GH = "https://github.com/RanaKhan77/Awesome-Bangladesh"
 
 # IndexNow key (public by design; file {key}.txt is written to the site root)
-INDEXNOW_KEY = "a3f8c2e91d4b7f6a5c0e2b8d9f1a4c7e"
+INDEXNOW_KEY = "a3f8c2e91d4b7f6a5c0e2b8d9f1a4c7e"  # gitleaks:allow - IndexNow keys are published by protocol design (keyLocation file at site root)
 
 SECTIONS = [
     ("developer-tools", "🧰", "Developer tools & libraries",
