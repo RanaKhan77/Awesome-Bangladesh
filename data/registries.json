@@ -694,5 +694,252 @@
   },
   "section": "Awesome lists & communities",
   "last_verified": "2026-10-25"
+ },
+ {
+  "name": "bd-divisions-to-unions",
+  "url": "https://www.npmjs.com/package/bd-divisions-to-unions",
+  "registry": "npm",
+  "description": "Complete Bangladesh administrative hierarchy: divisions to unions.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher azimahmed; last publish 2026-06-22"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bangladesh-districts-upazilas",
+  "url": "https://www.npmjs.com/package/bangladesh-districts-upazilas",
+  "registry": "npm",
+  "description": "All 8 divisions, 64 districts and 495 upazilas of Bangladesh with data.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher cnsakib; last publish 2025-09-02"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "@nodibyte/bd-utils",
+  "url": "https://www.npmjs.com/package/@nodibyte/bd-utils",
+  "registry": "npm",
+  "description": "Bangladeshi mobile-number validation and Bangla digit parsing, zero deps.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher GitHub Actions; last publish 2026-10-21"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bangla-calendar",
+  "url": "https://www.npmjs.com/package/bangla-calendar",
+  "registry": "npm",
+  "description": "Convert JavaScript dates to the Bangla (Bengali) calendar.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher sh4hids; last publish 2023-06-19"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bangla-date-converter",
+  "url": "https://www.npmjs.com/package/bangla-date-converter",
+  "registry": "npm",
+  "description": "Comprehensive Bangla date converter with extensive formatting options.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher mdtanvirahamedshanto; last publish 2025-02-23"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bn-translit",
+  "url": "https://www.npmjs.com/package/bn-translit",
+  "registry": "npm",
+  "description": "Bidirectional Bangla-Banglish transliteration with slugify support.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher shahjalal.bu; last publish 2026-04-29"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "avro-bangla-engine",
+  "url": "https://www.npmjs.com/package/avro-bangla-engine",
+  "registry": "npm",
+  "description": "The Avro Phonetic engine packaged for modern JS use.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher hasnat_shohag; last publish 2026-02-25"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "avro-bangla-suggestions",
+  "url": "https://www.npmjs.com/package/avro-bangla-suggestions",
+  "registry": "npm",
+  "description": "React hook for Avro Phonetic Bangla suggestions and autocomplete.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher hasnat_shohag; last publish 2026-05-23"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bn-ansi-to-unicode",
+  "url": "https://www.npmjs.com/package/bn-ansi-to-unicode",
+  "registry": "npm",
+  "description": "ANSI (Bijoy) Bangla font text to Unicode converter in TypeScript.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher sadeqush; last publish 2022-08-25"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bd_number",
+  "url": "https://www.npmjs.com/package/bd_number",
+  "registry": "npm",
+  "description": "Bangla/English number conversion utilities.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher imtiaz_khandoker; last publish 2023-02-02"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bangla-support",
+  "url": "https://www.npmjs.com/package/bangla-support",
+  "registry": "npm",
+  "description": "Bangla digits and Bangla calendar date utilities.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher GitHub Actions; last publish 2026-07-06"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bangla-stdlib",
+  "url": "https://www.npmjs.com/package/bangla-stdlib",
+  "registry": "npm",
+  "description": "A standard library of Bangla language functions.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher GitHub Actions; last publish 2026-03-22"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "jquery.bangla",
+  "url": "https://www.npmjs.com/package/jquery.bangla",
+  "registry": "npm",
+  "description": "Versatile Bangla input tool for the web (jQuery).",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "npm package, publisher dipu-bd; last publish 2023-03-19"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaT5 (BUET NLP)",
+  "url": "https://huggingface.co/csebuetnlp/banglat5",
+  "registry": "huggingface",
+  "description": "Canonical Bangla T5 seq2seq model from the BUET NLP group (summarisation, NLI, NER, QA).",
+  "license": "MIT (per model card)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-language model"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangla Twoclass Sentiment Analyzer",
+  "url": "https://huggingface.co/Arunavaonly/Bangla-twoclass-Sentiment-Analyzer",
+  "registry": "huggingface",
+  "description": "Most-downloaded Bangla sentiment model on Hugging Face (3.3M+ downloads), positive/negative classification.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-language model"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "wav2vec2 XLS-R 300M Bengali",
+  "url": "https://huggingface.co/arijitx/wav2vec2-xls-r-300m-bengali",
+  "registry": "huggingface",
+  "description": "Fine-tuned XLS-R 300M automatic speech recognition model for Bengali (670k+ downloads).",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-language model"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaASR (bangla-speech-processing)",
+  "url": "https://huggingface.co/bangla-speech-processing/BanglaASR",
+  "registry": "huggingface",
+  "description": "Community Bangla automatic speech recognition model maintained by the bangla-speech-processing org.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-language model"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bengali.AI Whisper-medium ASR",
+  "url": "https://huggingface.co/bengaliAI/tugstugi_bengaliai-asr_whisper-medium",
+  "registry": "huggingface",
+  "description": "Whisper-medium fine-tune for Bangla speech recognition from the Bengali.AI community.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-language model"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaGPT-Pro",
+  "url": "https://huggingface.co/emonHasan01/BanglaGPT-Pro",
+  "registry": "huggingface",
+  "description": "Bangla text-generation model (Gemma-based) for local inference.",
+  "license": "Gemma (custom)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-language model"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
  }
 ]

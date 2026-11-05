@@ -6,7 +6,7 @@
 
 Commercial and free-tier services (not open source) that Bangladeshi developers integrate daily. These are listed separately so the open-source sections stay clean about what is actually open. Access models are stated honestly: sandbox-free, free-tier, or fully commercial. Nothing here is an advertisement — each service is one a verified BD developer actually builds against. Where an open-source SDK for the same service exists, it lives in [Fintech & e-commerce](fintech.md) or [APIs & integrations](apis.md) and is cross-linked from the table.
 
-**14 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**14 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 

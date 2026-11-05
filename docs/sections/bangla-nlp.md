@@ -6,7 +6,7 @@
 
 Everything that makes Bangla work on computers: keyboards and input methods, Unicode-Bijoy conversion, normalizers, tokenizers, spell checkers, PDF generation and full NLP stacks. This is the deepest section of Bangladeshi open source — the Avro phonetic lineage alone spans two decades of maintained forks, from the original OmicronLab keyboard through today's Rust engines. Licences matter here and are stated per entry; the BUET research models with non-commercial terms live in the [AI/ML section](aiml.md) with their ⚠️ flags.
 
-**48 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
+**73 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -60,6 +60,33 @@ Everything that makes Bangla work on computers: keyboards and input methods, Uni
 | [LaTeXbangla](https://github.com/Neehan/LaTeXbangla) | Write Bangla (and Assamese) with ordinary LaTeX — typesetting without XeLaTeX gymnastics. | LPPL-1.3c | 🟡 Diaspora |
 | [BOOKbangla](https://github.com/Neehan/BOOKbangla) | Book class and templates for writing Bangla and Assamese books with LaTeX memoir — the publishing-ready companion to LaTeXbangla. | LPPL-1.3c | 🟡 Diaspora |
 | [sbnltk](https://github.com/Foysal87/sbnltk) | SUST-Bangla NLP toolkit: NER, POS tagging, stemming, word embeddings (MIT) | MIT | 🔵 BD org/for-BD |
+| [Voxcribe](https://github.com/Ratul345/Voxcribe) | Local speech-to-text desktop app and CLI built on faster-whisper, tailored for Bengali transcription — specially tailored for Bengali transcription while offering complete multilingual speech recognition, automatic language detection, real-time streaming. | MIT | 🔵 BD org / for-BD |
+| [Bangla Voice Clock](https://github.com/saifulmd0/bangla-voice-clock) | Desktop talking clock that speaks the time aloud in Bangla as said in Bangladesh; Flutter, offline — A free talking clock that tells the time aloud in Bangla, the way it is said in Bangladesh.. | GPL-3.0 | 🟢 BD-based |
+| [Kothon](https://github.com/tanvir-talha058/Kothon) | Offline Windows voice typer (Vosk) for Bangla, English and Banglish that types into any focused app — kothon converts your speech to text locally with Vosk, applies Banglish-to-Bangla normalization, and types the result into whatever application is focused. | MIT | 🟢 BD-based |
+| [LipiLab (লিপিল্যাব)](https://github.com/afnan-samin/lipilab) | Free Bangla Unicode-to-Bijoy converter with DOCX round-trip that preserves formatting; fully client-side — upload a .docx and download it back with the same layout - bold stays bold, tables stay tables; your text never leaves your device. | proprietary (all rights reserved) | 🔵 BD org / for-BD |
+| [Bengali Coreference under Low-Resource Constraints](https://github.com/zenith19/bengali-coref-low-resource) | Research code and data for Bengali coreference: 41 gold docs beat 141 mixed docs; 66.73 CoNLL F1 best result — 41 gold-standard documents outperform 141 mixed gold + silver ones, for every model tested ... 66.73 CoNLL F1 (MuRIL-Large). | MIT | 🔵 BD org / for-BD |
+| [Rickshaw Rong (রিকশা রং)](https://github.com/Teamz-Lab-LTD/rickshaw-rong-bangla-font) | Free OpenType-SVG color Bangla font painted in Dhaka rickshaw-art style; ships the .otf builds, specimen site and a Python build pipeline — README: 'A free Bangla color font, painted in Dhaka rickshaw-art style' — dist/RickshawRong-Regular.otf downloadable, shaping from Baloo Da 2, online generator at tool.teamzlab.com. | OFL-1.1 | 🟢 BD-based |
+| [Odri for Windows](https://github.com/odri-bn/odri-windows) | Native Windows TSF input method turning phonetic Latin typing into Bangla script in real time; ships an installer and prebuilt x64 releases. | GPL-3.0 | 🔵 BD org / for-BD |
+| [Orus-OCR-0.1](https://github.com/MahirHamiAbrar/Orus-OCR-V0) | Small CPU-fast OCR for Bangla, English and mixed handwriting-first pages; returns language, handwriting flag and structured text — README: '1.06M-parameter CTC line recognizer... Bangla handwriting 6.9% CER' vs 'Indra OCR 1.1: 84.6% (BN-HTRd)' — frozen release with weights, train.sh recipe, 8.4MB pipeline, run.py CLI. | MIT-NC (custom; det.onnx upstream OpenRAIL-M) | 🔵 BD org / for-BD |
+| [Bornotoron (বর্ণতরণ)](https://github.com/TajkirHossen-14/Bornotoron) | Framework-free Banglish-to-Bangla writing tool: dictionary-first spelling from 4,000+ entries, homophone choices and learned corrections — README: 'Ami banglay likhchi → আমি বাংলায় লিখছি... 4000+ spelling entries. Zero frameworks. Your words stay yours.' — Avro-inspired engine, tests, offline PWA. | MIT | 🔵 BD org / for-BD |
+| [Shobdo Keyboard](https://github.com/34rns/shobdo-keyboard) | Offline Android keyboard for Bangla (Probhat), Banglish phonetic and English, 13 themes, no INTERNET permission, no ads and no trackers. | MIT | 🟢 BD-based |
+| [Project Lip Sync](https://github.com/BlahBlah23406/project-lip-sync) | Web tool that dubs English YouTube lectures into Bangla: Claude translation, Edge TTS voices, FFmpeg muxing and a dual-audio web player. | MIT | 🔵 BD org / for-BD |
+| [Borno-LM](https://github.com/MdRimon29/borno-lm) | From-scratch decoder-only Bangla language model (152M params) in PyTorch: SentencePiece tokenizer, corpus training, checkpoints, generation — "builds a SentencePiece tokenizer, streams a small Bangla text corpus, pretrains the model, saves checkpoints, and generates text" — 152,510,976 parameters verified in-notebook.. | MIT | 🔵 BD org / for-BD |
+| [Bangla Calendar (বাংলা ক্যালেন্ডার)](https://github.com/abusayed0206/bangla-calendar) | Windows desktop widget showing the Bangla date, full Bangla calendar, seasons and system-tray support; published on Microsoft Store — "A beautiful Bangla date widget for Windows... Display current Bangla date, full Bangla calendar view, current Bangla season" with Microsoft Store listing 9pcmxnfhvb6f.. | Apache-2.0 | 🟢 BD-based |
+| [Uchcharonai (Uccharon AI)](https://github.com/HumbleHamim/Uccharon-AI-by-Kirrahdia-team) | Bangla pronunciation coach web app: record your voice, get a transcription, and see mismatched words highlighted against a target sentence. | ⚠️ No licence file | 🟢 BD-based |
+| [Bangla Voice Typing](https://github.com/graphicarray/Bangla-Voice-Typing-Chrome-Extension) | Chrome extension (Manifest V3) that types punctuated Bangla text into any text box from speech, with spoken punctuation commands — "Speak Bangla. Get clean, punctuated Bangla text typed straight into any text box... Adds punctuation (including the Bangla দাঁড়ি ।), removes fillers (আ, উম, হুম)" — v2.1.0, hold Alt+C.. | MIT | 🔵 BD org / for-BD |
+| [bangla-calendar](https://www.npmjs.com/package/bangla-calendar) | Convert JavaScript dates to the Bangla (Bengali) calendar. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [bangla-date-converter](https://www.npmjs.com/package/bangla-date-converter) | Comprehensive Bangla date converter with extensive formatting options. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [bn-translit](https://www.npmjs.com/package/bn-translit) | Bidirectional Bangla-Banglish transliteration with slugify support. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [avro-bangla-engine](https://www.npmjs.com/package/avro-bangla-engine) | The Avro Phonetic engine packaged for modern JS use. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [avro-bangla-suggestions](https://www.npmjs.com/package/avro-bangla-suggestions) | React hook for Avro Phonetic Bangla suggestions and autocomplete. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [bn-ansi-to-unicode](https://www.npmjs.com/package/bn-ansi-to-unicode) | ANSI (Bijoy) Bangla font text to Unicode converter in TypeScript. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [bd_number](https://www.npmjs.com/package/bd_number) | Bangla/English number conversion utilities. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [bangla-support](https://www.npmjs.com/package/bangla-support) | Bangla digits and Bangla calendar date utilities. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [bangla-stdlib](https://www.npmjs.com/package/bangla-stdlib) | A standard library of Bangla language functions. | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+| [jquery.bangla](https://www.npmjs.com/package/jquery.bangla) | Versatile Bangla input tool for the web (jQuery). | ⚠️ Licence unspecified | 🔵 BD org / for-BD |
+
+
 
 ## Editor's picks
 

@@ -6,7 +6,7 @@
 
 The data layer of the Bangladeshi open ecosystem: government portals, research corpora on Hugging Face and Kaggle, and international hosts carrying Bangladesh data. Each dataset states its licence where the publisher declares one, and licence-free items are flagged rather than silently listed. Frozen research corpora stay listed because a completed dataset is a finished product, not an abandoned one. When a dataset claims a government source, we check that the source is named and linkable.
 
-**69 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
+**72 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -81,6 +81,11 @@ The data layer of the Bangladeshi open ecosystem: government portals, research c
 | [Bangla speech corpora (bangla-language-processing)](https://github.com/bangla-language-processing/bangla-speech-corpora) | Cleaned Bangla speech corpus collection for ASR research | unspecified | 🔵 BD org/for-BD |
 | [Bangla news headline categorisation](https://github.com/eftekhar-hossain/bangla-news-headlines-categorization) | Deep-learning dataset and baselines for Bangla headline topic classification (GPL-3.0) | GPL-3.0 | 🟡 Diaspora |
 | [Bengali hate speech dataset](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset) | Hate-speech dataset distilled from 250M articles of Bangla news and social media (MIT) | MIT | 🟡 Diaspora |
+| [BanglaSafe](https://github.com/BanglaLLM/banglasafe) | Bengali LLM safety benchmark: 879 statute-anchored prompts across 17 harm categories, with PyPI eval lib — 879 statute-anchored prompts, 17 harm categories; leaderboard of 18 models; dataset on Hugging Face. | MIT | 🔵 BD org / for-BD |
+| [Kothar Rong - Open Bangla Slang Dataset](https://github.com/Hisernberg/bangla-slang-dataset) | Open Bangla slang lexicon: 3,318 verified entries, 20 categories, romanization, offensiveness ratings, audio — open, multi-source lexicon of Bangla slang - regional street dialects, internet meme culture, campus slang ... 20 style & regional categories; 2,300+ audio clips. | CC-BY-SA-4.0 | 🔵 BD org / for-BD |
+| [EconDelta](https://github.com/clauding-lab/econdelta) | Autonomous daily pipeline that scrapes, parses and reconciles Bangladesh's macroeconomic indicators into one queryable repository. | ⚠️ No licence file | 🟢 BD-based |
+
+
 
 ## Editor's picks
 

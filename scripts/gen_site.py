@@ -135,11 +135,11 @@ SECTION_BANNER = lambda slug, title, bn: f'''<svg viewBox="0 0 896 180" xmlns="h
 # Bangla letter per section (matches banner system)
 BN_LETTER = {"developer-tools":"ড","datasets":"ত","apis":"এ","bangla-nlp":"ব","aiml":"য","fintech":"৳",
              "security":"ন","civic-tech":"স","crisis-response":"দ","geography":"ম","education":"শ",
-             "awesome-lists":"অ","services":"প"}
+             "awesome-lists":"অ","everyday-apps":"দৈ","services":"প"}
 
 FAQS = [
  ("What is Awesome Bangladesh?",
-  "Awesome Bangladesh is a hand-verified directory of open-source software, datasets, APIs and research connected to Bangladesh — 200+ entries across 13 sections covering Bangla NLP, government open data, fintech SDKs, maps, security tools and learning resources. Every entry states its licence and Bangladesh connection, and the whole list is CC0-licensed."),
+  "Awesome Bangladesh is a hand-verified directory of open-source software, datasets, APIs and research connected to Bangladesh — 330+ entries across 14 sections covering Bangla NLP, government open data, fintech SDKs, maps, security tools and learning resources. Every entry states its licence and Bangladesh connection, and the whole list is CC0-licensed."),
  ("Who maintains Awesome Bangladesh?",
   "The list is maintained by Rana Khan (RanaKhan77 on GitHub), with contributions welcome through the repository's CONTRIBUTING.md guide. Issues reporting stale links or wrong licence notes are treated as valuable contributions."),
  ("What counts as connected to Bangladesh?",
@@ -191,6 +191,7 @@ NAV_LABELS = {
     "bangla-nlp": "Bangla NLP", "aiml": "AI/ML", "fintech": "Fintech",
     "security": "Security", "civic-tech": "Civic", "crisis-response": "Crisis",
     "geography": "Maps", "education": "Learn", "awesome-lists": "Lists",
+    "everyday-apps": "Apps",
     "services": "Services",
 }
 

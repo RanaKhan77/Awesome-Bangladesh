@@ -17,4 +17,5 @@ with full tables, editor's picks and verification notes.
 - [🧭 Geography & open maps](geography.md)
 - [🎓 Education & learning](education.md)
 - [📚 Awesome lists & communities](awesome-lists.md)
+- [📱 Everyday apps](everyday-apps.md)
 - [🏪 Developer services (not open)](services.md)

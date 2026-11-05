@@ -20,6 +20,9 @@ openly in the [verification queue](docs/verification-queue.md) instead of being 
 Items that went unmaintained move to [legacy.md](legacy.md) — still useful, honestly
 labelled with last-activity dates, never silently deleted.
 
+**388 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
+Bangladesh connection evidenced, every licence stated as published.
+
 Maintained by [Rana Khan](https://github.com/RanaKhan77). Contributions welcome — see
 [Contributing](CONTRIBUTING.md), and please read the
 scope and eligibility rules first.
@@ -38,6 +41,7 @@ scope and eligibility rules first.
 - [🧭 Geography & open maps](#-geography--open-maps)
 - [🎓 Education & learning](#-education--learning)
 - [📚 Awesome lists & communities](#-awesome-lists--communities)
+- [📱 Everyday apps](#-everyday-apps)
 - [🏪 Developer services (not open)](#-developer-services-not-open)
 
 ## 🧰 Developer tools & libraries
@@ -51,6 +55,26 @@ scope and eligibility rules first.
 - [Online-Compiler](https://github.com/shawon100/Online-Compiler) - Self-hosted online compiler platform. ⚠️ No licence file.
 - [docker-beanstalkd](https://github.com/maateen/docker-beanstalkd) - Docker image for the Beanstalkd work queue. MIT.
 - [vim-for-devops](https://github.com/maateen/vim-for-devops) - DevOps-tuned Vim configuration. Custom licence.
+- [Zyvo AI](https://github.com/zyvo9/ZYVO-AI) - Free AI coding CLI for Android Termux and desktop; ships 17 free models and takes prompts in Banglish. MIT.
+- [Kindle PDF Converter](https://github.com/TanvirAnzum/kindle-pdf-converter) - Windows app that re-lays-out PDF books (Bangla, English, scanned) page-by-page for a 6-inch Kindle screen. AGPL-3.0.
+- [Likhi (লিখি)](https://github.com/KhaledBinAmir/likhi) - Free Bangla phonetic keyboard for Windows: type 'amar'/'amr' and get আমার with learned suggestions. MIT.
+- [Kiebord (Borno Community Edition)](https://github.com/JayedAhsan/Kiebord) - Free Bangla IME for Android with a Rust engine; Borno/Avro phonetic, National (BSTI), Probhat layouts. GPL-3.0.
+- [BornoMala (বর্ণমালা)](https://github.com/asmkhalid111/BornoMala) - Rust Bangla input platform for Windows (TSF) and Linux (Fcitx5) unifying phonetic, National, Probhat, Bijoy. MIT OR Apache-2.0.
+- [BornoFree (বর্ণফ্রি)](https://github.com/maruf7705/BornoFree) - Pure-Rust Bengali typing engine and input method for Windows and Arch Linux, no legacy .NET dependencies. MIT.
+- [Humming Keyboard](https://github.com/muhib-karim/humming-keyboard) - Privacy-first Android keyboard with offline voice typing and Avro/Ridmik-style Bangla phonetic typing. Apache-2.0.
+- [BanglaFlow (বাংলাফ্লো)](https://github.com/MillatSakib/BanglaFlow-Bangla-Phonetic-Keyboard-for-linux) - Native Bengali phonetic input method for Linux (IBus/GNOME) with a longest-match phonetic tokenizer. GPL-3.0.
+- [ToolGhor (টুলঘর)](https://github.com/ashifurrahmanbadhon/toolghor) - 27 in-browser tools (PDF, image, QR, calculators) in a privacy-first Next.js site with Bangla/English UI. MIT.
+- [Savx F4 WiFi Logger](https://github.com/Jewel-iitdu/savx-inverter-wifi-logger) - ESP32-S3 firmware plus web app that logs Savx F4 solar inverter data (sold in BD) with Bangla Telegram alerts. MIT.
+- [DropMate](https://github.com/iamshihab2020/DropMate) - Wi-Fi-only messenger and file sender for Windows/Android: chats and any-size files device-to-device, no cloud. Apache-2.0.
+- [Jesun.Code](https://github.com/JesunAhmadUshno/jesun-code) - Plain-English programming language (711 tests) whose 'use bangla' mode turns every keyword into Bangla. MIT.
+- [voiceover-studio](https://github.com/arafat1023/voiceover-studio) - Turns a script, screenshots and a voice clip into narrated Bangla/English demo videos with cloned-voice TTS, captions and synced highlights. MIT.
+- [Bongo PHP Packages](https://github.com/Solayman/bongo-php-packages) - Fifty zero-dependency PHP packages for the Bongo PHP framework, including bKash, Nagad, SSLCommerz and AamarPay gateway integrations for BD. MIT.
+- [BN Script](https://github.com/sayedrisat/bnscript) - Bangla-inspired programming language that compiles to JavaScript, with runtime, CLI, REPL, tests and a VS Code extension. MIT.
+- [ibus-bornona](https://github.com/rmahbub01/ibus-bornona) - Native Rust IBus input engine implementing the Bornona Bengali keyboard layout for Linux, with Alt+Space switching and layout viewer. GPL-3.0.
+- [bangla-i18n](https://github.com/AkibUllah/bangla-i18n-toolkit) - Zero-dependency TypeScript toolkit for Bangla/English products: numerals, Taka formatting, dates, plurals, phone and NID checks. MIT.
+- [bd-divisions-to-unions](https://www.npmjs.com/package/bd-divisions-to-unions) - Complete Bangladesh administrative hierarchy: divisions to unions. ⚠️ Licence unspecified (see registry page).
+- [bangladesh-districts-upazilas](https://www.npmjs.com/package/bangladesh-districts-upazilas) - All 8 divisions, 64 districts and 495 upazilas of Bangladesh with data. ⚠️ Licence unspecified (see registry page).
+- [@nodibyte/bd-utils](https://www.npmjs.com/package/@nodibyte/bd-utils) - Bangladeshi mobile-number validation and Bangla digit parsing, zero deps. ⚠️ Licence unspecified (see registry page).
 
 ## 📦 Datasets & open data
 
@@ -137,6 +161,9 @@ International open-data hosts carrying Bangladesh data:
 - [OpenDengue](https://doi.org/10.6084/m9.figshare.24259573) - Open global dengue case database including Bangladesh monthly and daily DGHS-sourced series. CC-BY-4.0.
 - [Common Voice Scripted Speech 27.0 (Bengali)](https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r) - Mozilla's official current Bengali scripted-speech release: over a million clips and 1,277 hours of read speech from 23,019 speakers — a newer, larger distribution than the [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) copy above. CC0-1.0.
 - [Bengali Wikipedia dumps](https://dumps.wikimedia.org/bnwiki/latest/) - Wikimedia's always-current database dumps of the Bengali Wikipedia — the canonical raw corpus behind most Bangla NLP work, pages-articles multistream included. Content CC BY-SA; dumps free to download.
+- [BanglaSafe](https://github.com/BanglaLLM/banglasafe) - Bengali LLM safety benchmark: 879 statute-anchored prompts across 17 harm categories, with PyPI eval lib. MIT.
+- [Kothar Rong - Open Bangla Slang Dataset](https://github.com/Hisernberg/bangla-slang-dataset) - Open Bangla slang lexicon: 3,318 verified entries, 20 categories, romanization, offensiveness ratings, audio. CC-BY-SA-4.0.
+- [EconDelta](https://github.com/clauding-lab/econdelta) - Autonomous daily pipeline that scrapes, parses and reconciles Bangladesh's macroeconomic indicators into one queryable repository. ⚠️ No licence file.
 
 ## 🔌 APIs & integrations
 
@@ -224,6 +251,31 @@ Typesetting:
 
 - [LaTeXbangla](https://github.com/Neehan/LaTeXbangla) - Write Bangla (and Assamese) with ordinary LaTeX. LPPL-1.3c.
 - [BOOKbangla](https://github.com/Neehan/BOOKbangla) - Book class and templates for writing Bangla and Assamese books with LaTeX memoir. LPPL-1.3c.
+- [Voxcribe](https://github.com/Ratul345/Voxcribe) - Local speech-to-text desktop app and CLI built on faster-whisper, tailored for Bengali transcription. MIT.
+- [Bangla Voice Clock](https://github.com/saifulmd0/bangla-voice-clock) - Desktop talking clock that speaks the time aloud in Bangla as said in Bangladesh; Flutter, offline. GPL-3.0.
+- [Kothon](https://github.com/tanvir-talha058/Kothon) - Offline Windows voice typer (Vosk) for Bangla, English and Banglish that types into any focused app. MIT.
+- [LipiLab (লিপিল্যাব)](https://github.com/afnan-samin/lipilab) - Free Bangla Unicode-to-Bijoy converter with DOCX round-trip that preserves formatting; fully client-side. proprietary (all rights reserved).
+- [Bengali Coreference under Low-Resource Constraints](https://github.com/zenith19/bengali-coref-low-resource) - Research code and data for Bengali coreference: 41 gold docs beat 141 mixed docs; 66.73 CoNLL F1 best result. MIT.
+- [Rickshaw Rong (রিকশা রং)](https://github.com/Teamz-Lab-LTD/rickshaw-rong-bangla-font) - Free OpenType-SVG color Bangla font painted in Dhaka rickshaw-art style; ships the .otf builds, specimen site and a Python build pipeline. OFL-1.1.
+- [Odri for Windows](https://github.com/odri-bn/odri-windows) - Native Windows TSF input method turning phonetic Latin typing into Bangla script in real time; ships an installer and prebuilt x64 releases. GPL-3.0.
+- [Orus-OCR-0.1](https://github.com/MahirHamiAbrar/Orus-OCR-V0) - Small CPU-fast OCR for Bangla, English and mixed handwriting-first pages; returns language, handwriting flag and structured text. MIT-NC (custom; det.onnx upstream OpenRAIL-M).
+- [Bornotoron (বর্ণতরণ)](https://github.com/TajkirHossen-14/Bornotoron) - Framework-free Banglish-to-Bangla writing tool: dictionary-first spelling from 4,000+ entries, homophone choices and learned corrections. MIT.
+- [Shobdo Keyboard](https://github.com/34rns/shobdo-keyboard) - Offline Android keyboard for Bangla (Probhat), Banglish phonetic and English, 13 themes, no INTERNET permission, no ads and no trackers. MIT.
+- [Project Lip Sync](https://github.com/BlahBlah23406/project-lip-sync) - Web tool that dubs English YouTube lectures into Bangla: Claude translation, Edge TTS voices, FFmpeg muxing and a dual-audio web player. MIT.
+- [Borno-LM](https://github.com/MdRimon29/borno-lm) - From-scratch decoder-only Bangla language model (152M params) in PyTorch: SentencePiece tokenizer, corpus training, checkpoints, generation. MIT.
+- [Bangla Calendar (বাংলা ক্যালেন্ডার)](https://github.com/abusayed0206/bangla-calendar) - Windows desktop widget showing the Bangla date, full Bangla calendar, seasons and system-tray support; published on Microsoft Store. Apache-2.0.
+- [Uchcharonai (Uccharon AI)](https://github.com/HumbleHamim/Uccharon-AI-by-Kirrahdia-team) - Bangla pronunciation coach web app: record your voice, get a transcription, and see mismatched words highlighted against a target sentence. ⚠️ No licence file.
+- [Bangla Voice Typing](https://github.com/graphicarray/Bangla-Voice-Typing-Chrome-Extension) - Chrome extension (Manifest V3) that types punctuated Bangla text into any text box from speech, with spoken punctuation commands. MIT.
+- [bangla-calendar](https://www.npmjs.com/package/bangla-calendar) - Convert JavaScript dates to the Bangla (Bengali) calendar. ⚠️ Licence unspecified (see registry page).
+- [bangla-date-converter](https://www.npmjs.com/package/bangla-date-converter) - Comprehensive Bangla date converter with extensive formatting options. ⚠️ Licence unspecified (see registry page).
+- [bn-translit](https://www.npmjs.com/package/bn-translit) - Bidirectional Bangla-Banglish transliteration with slugify support. ⚠️ Licence unspecified (see registry page).
+- [avro-bangla-engine](https://www.npmjs.com/package/avro-bangla-engine) - The Avro Phonetic engine packaged for modern JS use. ⚠️ Licence unspecified (see registry page).
+- [avro-bangla-suggestions](https://www.npmjs.com/package/avro-bangla-suggestions) - React hook for Avro Phonetic Bangla suggestions and autocomplete. ⚠️ Licence unspecified (see registry page).
+- [bn-ansi-to-unicode](https://www.npmjs.com/package/bn-ansi-to-unicode) - ANSI (Bijoy) Bangla font text to Unicode converter in TypeScript. ⚠️ Licence unspecified (see registry page).
+- [bd_number](https://www.npmjs.com/package/bd_number) - Bangla/English number conversion utilities. ⚠️ Licence unspecified (see registry page).
+- [bangla-support](https://www.npmjs.com/package/bangla-support) - Bangla digits and Bangla calendar date utilities. ⚠️ Licence unspecified (see registry page).
+- [bangla-stdlib](https://www.npmjs.com/package/bangla-stdlib) - A standard library of Bangla language functions. ⚠️ Licence unspecified (see registry page).
+- [jquery.bangla](https://www.npmjs.com/package/jquery.bangla) - Versatile Bangla input tool for the web (jQuery). ⚠️ Licence unspecified (see registry page).
 
 ## 🤖 AI/ML & research
 
@@ -256,6 +308,23 @@ Typesetting:
 - [BengaliRegionalASR (Barishal & Sylhet)](https://huggingface.co/sha1779/BengaliRegionalASR_barishal_sylhet) - Dialect-aware ASR trained on BengaliAI's regional-dialect data for two Bangladeshi divisions. Apache-2.0.
 - [@entrogic-net/mcp-server-bangladesh](https://www.npmjs.com/package/@entrogic-net/mcp-server-bangladesh) - MCP server exposing Bangladesh reference data to LLM clients, from the BanglaClaw team. Apache-2.0.
 - [bangla-news-mcp](https://pypi.org/project/bangla-news-mcp/) - MCP server that retrieves live Bangla news into LLM contexts, by Abid Mohammad Jawad (open source, GitHub hurutta/bangla-news-mcp).
+- [SellerMate BD](https://github.com/mah-shamim/sellermate-bd) - Self-hosted AI assistant (Ollama) that writes Bangla/English product descriptions and SEO copy for BD sellers. MIT.
+- [DocTrust](https://github.com/rafiimam/DocTrust) - Reviewer agent that cross-examines BD identity document sets (NID, birth certificate) and flags mismatches. MIT.
+- [Gochalo (গোছালো)](https://github.com/mahmudhasan-k/gochalo) - Bilingual AI workspace that turns Bangladeshi notices and circulars into tasks, deadlines and document plans. MIT.
+- [ClinicDesk AI](https://github.com/mstnisa/clinicdesk-ai) - Bilingual AI front desk for small clinics: answers patients on WhatsApp and web, books, escalates to staff. MIT.
+- [MedEdge AI](https://github.com/AmanurRahman101/mededge-ai) - Pipeline that turns paper lab reports and doctor dictation into verified HL7 FHIR bundles, anonymising pages before any model reads them. Apache-2.0.
+- [BanglaHealth-AI](https://github.com/muhammadrakib2299/BanglaHealth-AI) - Explainable diabetes and heart risk stratification for low-resource BD clinics: SHAP-backed three-tier scores, FastAPI, Streamlit dashboard. MIT.
+- [Bangla Sign Language Detector](https://github.com/iamnajib71/Real-Time-Bangla-Sign-Language-Detector) - Reproducible Bangla hand-sign recognition (CNN vs MobileNetV2) with image, video and live-camera inputs plus a PyQt5 app; tested on KU-BdSL. MIT.
+- [LAI — Local AI & Android Automation Runtime](https://github.com/soobujmiah/lai) - Source-only Android runtime for private on-device LLMs (llama.cpp/GGUF) with a Bangla-first interface and consent-gated device automation. Apache-2.0.
+- [BdSL Vision](https://github.com/rdaslam12/BdSL-Vision-Bangla-Sign-Recognition-Edge-ML) - Bangladesh Sign Language recognition pipeline: 4,139 annotated samples, 18 classes, YOLOv8s training and ONNX browser-inference demo. ⚠️ No licence file.
+- [SignBridge](https://github.com/Tayebbb/signbridge) - Experimental web app pairing Bangla videos with saved avatar-signing tracks (BdSL), clearly marking which meaning it could not sign. ⚠️ No licence file.
+- [Bengali Books Engine](https://github.com/xzenhot/books) - Multi-agent engine that plans, writes, reviews and publishes complete Bengali books from a single CLI; ships 7,800+ generated chapter files. ⚠️ No licence file.
+- [BanglaT5 (BUET NLP)](https://huggingface.co/csebuetnlp/banglat5) - Canonical Bangla T5 seq2seq model from the BUET NLP group (summarisation, NLI, NER, QA). MIT (per model card).
+- [Bangla Twoclass Sentiment Analyzer](https://huggingface.co/Arunavaonly/Bangla-twoclass-Sentiment-Analyzer) - Most-downloaded Bangla sentiment model on Hugging Face (3.3M+ downloads), positive/negative classification. MIT.
+- [wav2vec2 XLS-R 300M Bengali](https://huggingface.co/arijitx/wav2vec2-xls-r-300m-bengali) - Fine-tuned XLS-R 300M automatic speech recognition model for Bengali (670k+ downloads). Apache-2.0.
+- [BanglaASR (bangla-speech-processing)](https://huggingface.co/bangla-speech-processing/BanglaASR) - Community Bangla automatic speech recognition model maintained by the bangla-speech-processing org. MIT.
+- [Bengali.AI Whisper-medium ASR](https://huggingface.co/bengaliAI/tugstugi_bengaliai-asr_whisper-medium) - Whisper-medium fine-tune for Bangla speech recognition from the Bengali.AI community. Apache-2.0.
+- [BanglaGPT-Pro](https://huggingface.co/emonHasan01/BanglaGPT-Pro) - Bangla text-generation model (Gemma-based) for local inference. Gemma (custom).
 
 ## 💒 Fintech & e-commerce
 
@@ -297,6 +366,24 @@ Logistics, couriers and anti-fraud:
 - [pathao-courier (TypeScript)](https://github.com/shahria7k/pathao-courier) - Pathao courier SDK for TypeScript. MIT.
 - [courier-woocommerce-plugin](https://github.com/pathao-eng/courier-woocommerce-plugin) - Official Pathao courier plugin for WooCommerce. GPL-3.0.
 - [Fraud-Checker-BD-Courier-Laravel](https://github.com/AbiruzzamanMolla/Fraud-Checker-BD-Courier-Laravel) - Courier fraud checking for Bangladeshi e-commerce. Custom licence.
+- [Bangladesh Tax Calculator](https://github.com/nadimtuhin/tax-calculator) - Browser app that computes Bangladeshi income tax for salaried people, comparing FY 2025-26 vs 2026-27 rules. MIT.
+- [Bhromon](https://github.com/rbr48/Bhromon) - Offline-first Flutter app for families, offices, messes and samities: chat, shared expenses, ledgers, SOS. Apache-2.0.
+- [Cashout Counter](https://github.com/Shishir-ip/Bkash-Cashout-Counter) - Free offline Android calculator for bKash and Nagad cash-out charges in Bangladesh; Kotlin/Compose. MIT.
+- [Cloud Accounting & ERP](https://github.com/imranbru99/cloud-accounting-erp) - Laravel 12 multi-tenant accounting ERP with exact-precision double-entry ledger, maker-checker approvals, invoicing and inventory; BN/EN UI. MIT.
+- [AI Sales Assistant (Laravel)](https://github.com/imranbru99/laravel-ai-sales-assistant) - Laravel platform that scores leads, drafts follow-ups and runs sales ops, with bKash/Nagad/SSLCommerz gateways and Bangla/English output. MIT.
+- [DeshiPay](https://github.com/hello2himel/deshiPay) - Gives a shop or creator one payment link: a Bangla QR with the amount baked in, plus bKash, Nagad and bank details to copy. Not a processor. AGPL-3.0.
+- [Echo & Aura Ticketing](https://github.com/Ashfak-Hossain/EchoAndAura) - Ticketing platform for a Dhaka live-events organiser: public shop, admin console and door scanner around manual bKash verification. AGPL-3.0.
+- [DokanOS](https://github.com/razikuljoni/DokanOS) - Multi-tenant POS, inventory and baki credit-ledger SaaS for Bangladeshi corner shops, with offline queuing and Taka ageing buckets. Demo. MIT.
+- [ERPNext Bangladesh VAT Compliance](https://github.com/invento-software-limited/ERPNext-Bangladesh-VAT-Compliance) - Frappe app adding Bangladesh VAT compliance to ERPNext: Mushak 6.1/6.2/6.3 reports, VAT challans, VDS handling and compliant invoicing. MIT.
+- [Taka Plan](https://github.com/sm-supports/taka-plan) - Free no-signup personal-finance planner PWA in Bangla, English and 10 more languages; goal-based monthly savings plans. MIT.
+- [DailyTally](https://github.com/CodeWithRoni/DailyTally) - Mobile-friendly bilingual (Bangla/English) expense and lending ledger with budgets, reminders, CSV/PDF reports and cloud backups. ⚠️ No licence file.
+- [GearUp](https://github.com/abdullahmamun1/gearUp-frontend) - Sports and outdoor gear rental marketplace for Bangladesh: live availability, Stripe payments with deposits, owner chat and AI trip planner. ⚠️ No licence file.
+- [Nikhut Hisab](https://github.com/almamun252/Nikhut-Hisab-App) - Android personal-finance app in English and Bangla: income/expenses, debts, budgets, shopping lists, PDF reports and Drive backup. ⚠️ No licence file.
+- [Giftbook (উপহারের খাতা)](https://github.com/montasim/giftbook) - Bangla wedding-gift ledger PWA that records গায়ে হলুদ/বিয়ে gifts in the family's own Google Sheet; works offline with Bangla digits. ⚠️ No licence file.
+- [Hajj Tracking Software](https://github.com/Ehasan07/hajj-tracking-software) - Production Hajj-agency management system: bilingual money receipts with QR verification, zamzam delivery tracking and monthly statements. ⚠️ No licence file.
+- [Hishab (My Daily Hishab)](https://github.com/shahriarjahin/my-daily-hishab) - Personal money app with wallets, budgets and bookkeeping in English, Bangla and Banglish; ships signed Android APK releases. ⚠️ No licence file.
+- [Taka Tracker](https://github.com/Ehasan07/takatracker) - Offline-first personal accounting PWA for Bangladesh: income, expenses, loans, DPS savings, insurance and AI analytics in Bengali. ⚠️ No licence file.
+- [BakiBondhu (বাকিবন্ধু)](https://github.com/mrofiqul/bakibondhu) - Bangla-first offline credit-ledger app for Bangladeshi micro-merchants: customer baki, payments, sales and SMS/WhatsApp reminders. MIT.
 
 ## 🔒 Cybersecurity & privacy
 
@@ -308,6 +395,7 @@ Logistics, couriers and anti-fraud:
 - [BDIX servers checker](https://github.com/0xAhmadYousuf/BDIX) - Check and list BDIX-hosted servers. MIT.
 - [bdix-tester](https://gitlab.com/farhansadik/bdix-tester) - Test which sites, FTP and download links are alive over BDIX (GitLab). Licenced (see repo).
 - [sundarbans-ransom-tracker](https://github.com/Affnann/sundarbans-ransom-tracker) - Research tracker of ransomware incidents affecting Bangladesh, with open data and a Zenodo DOI. MIT (code) + CC-BY-4.0 (data).
+- [Shurokkha](https://github.com/mohammadyaksafu/DIU_Hackathon_final) - AI trust and financial-safety copilot for upay: LightGBM plus Gemini scam detection for mobile-money users, deployed with OpenAPI docs. ⚠️ No licence file.
 
 ## 🏢 Civic tech & public services
 
@@ -320,6 +408,19 @@ Logistics, couriers and anti-fraud:
 - [metrox-app](https://github.com/fahim2443/metrox-app) - Dhaka Metro Rail NFC card balance app. MIT.
 - [ThrottleIQ](https://github.com/blankframe-tech/ThrottleIQ) - Bangladesh-built bilingual (Bangla/English) GPS ride tracker for bikers, with an active community translation-review process. ⚠️ TSAL v1.1 source-available licence.
 - [electric-bill-bd](https://www.npmjs.com/package/electric-bill-bd) - Electricity bill calculator for DESCO, DPDC, NESCO and other utilities. MIT.
+- [ESBC-AI](https://github.com/farjanaferdausi-cs50ai/ESBC-AI) - Bilingual RAG assistant that answers questions on Bangladeshi government services with cited .gov.bd sources. MIT.
+- [OshudBot](https://github.com/yaqzans/oshudbot) - Offline Bangla/Banglish medicine info assistant over a 21,714-brand Bangladeshi drug database; Streamlit. MIT.
+- [BD Rail Ticket Alarm](https://github.com/saikatnjm/bd-rail-ticket-alarm) - Brave/Chrome extension that alarms the moment Bangladesh Railway tickets go on sale on eticket.gov.bd. MIT.
+- [Fishing Women Bangladesh](https://github.com/mmrtonmoybd/fishing-women-bangladesh) - Bangla community reporting platform where Bangladesh's fishing women publish stories, photos and audio. MIT.
+- [bd-legal-rag](https://github.com/roy032/bd-legal-rag) - Bilingual RAG over Bangladeshi statutes: cited section-level answers in Bangla, English or romanised Bangla. MIT.
+- [Tellwater](https://github.com/fariha-nirjana/tellwater) - Checks whether a garment factory's wastewater was really treated, cross-examining its meters, logbook photos and lab reports with AI. MIT.
+- [Pother Bondhu (পথের বন্ধু)](https://github.com/FaiazPronoy/Pother-Bondhu) - Animal-rescue network for Dhaka: post a street animal in trouble and volunteers respond; includes adoption, teams, vet map and PetPoints. proprietary (all-rights-reserved, view/run-only).
+- [Foundation Hisab Khata](https://github.com/TheSpideyBro/foundation-app) - Digital hisab khata for a Bengali welfare foundation: joma entries with allocation preview, Bengali JPEG receipts with QR, member ledgers. MIT.
+- [HireBangla](https://github.com/muhammadrakib2299/HireBangla) - Job-search platform aggregating seven Bangladeshi job boards with a resume builder, skill assessments and per-job match scoring. MIT.
+- [BillBoard](https://github.com/akifislam/billboard-app) - Android app that aggregates NESCO, DESCO and PGCL prepaid electricity and gas meters: balances, payments and low-balance alerts. ⚠️ No licence file.
+- [Bhumi Setu (ভূমি সেতু)](https://github.com/mhcybroot/landtrust-bhumisetu) - Land-record ledger and title-deed verification platform: chain-of-title across CS/SA/RS/BS surveys, PostGIS overlap and unit conversion. ⚠️ No licence file.
+- [KrishiBangla (কৃষিবাংলা)](https://github.com/shishir3051/krishibangla) - Bangla-first agriculture site for all 64 districts: live weather, market prices, disaster alerts, crop guides and AI leaf-disease scan. ⚠️ No licence file.
+- [PesticideNext (পেস্টিসাইডনেক্সট)](https://github.com/moniruzjaman/AgriChem-Guide-Pest-Control-Database) - Bilingual PWA holding 9,000+ DAE-registered pesticide formulations with live gov-API search and resistance-rotation guidance. ⚠️ No licence file.
 
 ## 🚨 Crisis response
 
@@ -329,6 +430,8 @@ Logistics, couriers and anti-fraud:
 - [mukto-mesh](https://github.com/HyperZx2O/mukto-mesh) - Community mesh-network hub born from the July 2024 internet shutdown. MIT.
 - [ResQ_Bangladesh](https://github.com/404Ah-Nafis/ResQ_Bangladesh) - Offline-first disaster response PWA. ⚠️ No licence file.
 - [HaorFloodAlert](https://github.com/shkoli/HaorFloodAlert) - Machine-learning flood prediction for the haor region. MIT.
+- [Durjog Bondhu (দুর্যোগ বন্ধু)](https://github.com/mfaysal-dev/durjog-bondhu) - Offline-first Bangla disaster-prep PWA: cyclone signal explainer, hazard guides, offline shelter finder, kit checklist and one-tap SOS SMS. MIT.
+- [Aabhas — Flood Outlook for Bangladesh](https://github.com/riyadh5674/Aabhas-flood-predictor-bangladesh) - Station-level 24/48/72-hour probabilistic flood outlook for Bangladesh, with a leakage-aware ML pipeline, frozen model, live API and maps. MIT.
 
 ## 🧭 Geography & open maps
 
@@ -347,6 +450,11 @@ Logistics, couriers and anti-fraud:
 - [manchitro](https://www.npmjs.com/package/manchitro) - Typed SVG maps of all 64 Bangladesh districts (মানচিত্র = map). MIT.
 - [Geofabrik Bangladesh extract](https://download.geofabrik.de/asia/bangladesh.html) - Regularly updated OpenStreetMap extract for Bangladesh, shapefile and GeoJSON. ODbL.
 - [OpenStreetMap Bangladesh](https://wiki.openstreetmap.org/wiki/Bangladesh) - Community hub for Bangladesh mapping efforts and import coordination. CC-BY-SA (wiki).
+- [Road Network Growth Model](https://github.com/rahasan36/road-growth-model) - Research code and figures for a paper forecasting road-network growth by class, with Bangladesh (plus Brazil, Nigeria) case studies to 2050. CC-BY-NC-ND-4.0.
+- [Field Shift](https://github.com/Zul-Qarnain/field-shift) - Crop-rotation planner for Bangladeshi farmers using NASA POWER and GPM IMERG satellite data, ranking rotations with reasons shown in Bangla. Apache-2.0.
+- [Outrun Dhaka](https://github.com/Hal0MG/outrun-dhaka) - Browser arcade racer through 15 Dhaka districts with landmarks, rickshaws and monsoon weather; art, music and engines generated in code. MIT.
+- [Metro Station Finder](https://github.com/tashfiqul-islam/metro-station-finder) - Next.js app that shows the nearest Dhaka MRT metro station to any location, with distance and fare calculation between stations. ⚠️ No licence file.
+- [UHI Local Climate Zones — Dhaka](https://github.com/BEHS/UHI_LCZ) - GeoTIFF Local Climate Zone maps for Dhaka (plus Kampala and San Salvador) for 2016 and 2023, from a published urban-heat-island study. CC0-1.0.
 
 ## 🎓 Education & learning
 
@@ -367,6 +475,22 @@ Logistics, couriers and anti-fraud:
 - [HSC Stack](https://github.com/hscstack/platform) - Curated free resource platform for Bangladesh HSC and SSC students - notes, guides and materials, by the Dhaka-based hscstack org. Apache-2.0.
 - [F1.VISA.USA](https://github.com/MahediKamal/F1.VISA.USA) - Practical F-1 visa guide by a Bangladeshi engineer. MIT.
 - [BD-Univeristy-Index](https://github.com/sharf-shawon/BD-Univeristy-Index) - Nightly-synced index of Bangladeshi universities with UGC data, developer API and domain verification. ⚠️ Apache-2.0 declared in README, LICENSE file missing.
+- [MCQ Shuffler Pro](https://github.com/afnan-samin/MCQ_Shuffler_Pro) - Client-side web tool that shuffles MCQ questions into multiple exam sets from DOCX/CSV, Bijoy-aware. MIT.
+- [Khadga (খড়্গ)](https://github.com/TitaniaRoro/Khadga) - Browser arcade game teaching Bengal's Muslim-rule history (1204-1757): 9 chapters, 90 history cards, Bangla UI. GPL-3.0.
+- [Borno-Sudoku (বর্ণ-সুডোকু)](https://github.com/TitaniaRoro/BornoSudoku) - Bengali alphabet and word Sudoku puzzle game for Android (6x6/9x9) plus anagram mini-games; Compose M3. MIT.
+- [ICTOB Prep Lab](https://github.com/mfaysal-dev/ictob-prep-lab) - Offline-first bilingual PWA for ICT Olympiad Bangladesh prep: 84 MCQs over 14 segments, timed mock tests and four interactive ICT labs. MIT.
+- [Madrasha Management Software](https://github.com/mdsharifmia-dev/Madrasha-Management-Software) - Multi-tenant SaaS ERP for Bangladeshi Qawmi and Alia madrasas: finance and mess ledgers, Hifz tracking, payroll, hostel and communications. MIT.
+- [Type Kori (টাইপ করি)](https://github.com/auntor69/type-kori) - Free browser Bangla typing trainer: 12 lessons, endless speed runs, weak-key drills, 261 themes and local-only progress. No sign-up or ads. MIT.
+- [Quran Sathi (কুরআন সাথী)](https://github.com/ansar-design/quran-sathi) - Free Bangla Quran app: all 114 suras with Bangla meaning, offline Juz Amma Husary recitation, tajweed colours, hifz planner, learning path. GPL-3.0.
+- [FocusTube](https://github.com/mradifhassan/focus-tube-desktop) - Distraction-free YouTube client for HSC students in Bangladesh: 1,000+ curated OnnoRokom Pathshala videos, no ads or recommendations at all. AGPL-3.0.
+- [Bangla GPT APP](https://github.com/tanviruchahs2580/Bangla-GPT-APP) - NCTB-grounded Bangla AI tutor platform with five roles, streaming tutor chat, quizzes, school tenancy, child-safety moderation and PWA. MIT.
+- [FormBondhu (ফর্মবন্ধু)](https://github.com/ai-naymul/formbondhu) - Photograph a filled university form or dorkhast; open-weights Gemma finds what will get it rejected and explains each fix in Bangla/English. MIT.
+- [Just Imagine](https://github.com/mubinui/just-imagine) - Bilingual Bangla/English learning app where children talk with characters, build playable stories and join interactive STEM lessons. ⚠️ No licence file.
+- [TypeWithLearn (TypeLingo)](https://github.com/atikurrahmanxm/typelingo-learning-zone) - English-learning and touch-typing web platform with 3,000+ practice sentences, 130+ speed passages and Bengali translations. ⚠️ No licence file.
+- [JS Arena](https://github.com/Mostafijemon24/JS-Arena) - Bangla-first interactive JavaScript learning platform: 44-skill tree with lessons, quizzes, debugging challenges and interview prep. ⚠️ No licence file.
+- [TuitionHub](https://github.com/Razia-rosie/Tution-Hub) - Verified tutoring marketplace for Bangladesh: tutor and coaching-centre discovery, demo classes, schedules, homework, grades, diaries. ⚠️ No licence file.
+- [Bengal Unfolded](https://github.com/Cipher-Text/bengal-unfolded) - Bilingual Bangla/English digital history of Bengal: 3,800+ structured event files with timelines and quotes, from Gangaridai onward. ⚠️ No licence file.
+- [Boi Mohol (বই মহল)](https://github.com/TahsinAPrthib/Boimohol) - Bangla-first reading platform: book discovery with 'start here' picks, shelves, reviews, free public-domain PDFs and book exchange. ⚠️ No licence file.
 
 ## 📚 Awesome lists & communities
 
@@ -397,6 +521,20 @@ Communities and organisations:
 - [Deshi-Startup](https://github.com/Deshi-Startup) - Open-source startup manual and community in Bangla. MIT.
 - [OpenBangla](https://github.com/OpenBangla) - Community behind OpenBangla Keyboard and its Rust input stack.
 - [OmicronLab](https://github.com/OmicronLab) - Historic home of Avro Keyboard; current repositories are mirrors of the pre-GitHub project.
+- [BanglaNLP Hub](https://github.com/kishormorol/BanglaNLP-Hub) - Community catalog of Bangla NLP resources: 814 papers, 67 datasets, 22 models, 26 tasks and 9 tools, with live site and Zenodo DOI. MIT.
+
+## 📱 Everyday apps
+
+> 📖 Deep dive with full tables and picks: [section guide](docs/sections/everyday-apps.md)
+
+- [Shelfie](https://github.com/Ifad7/shelfie) - Flask app that turns book photos into an organised library on Gemini's free tier; built-in EPUB/PDF reader. MIT.
+- [Bookworm Buddies](https://github.com/mebmrauf/bookworm-buddies) - Plain-PHP community platform where readers in Bangladesh lend, swap and give away physical books; includes schema, seed data and PHP tests. MIT.
+- [BanglaChan (বাংলাচান)](https://github.com/tktajwar/bachan) - Self-hostable anonymous Bengali imageboard written in Rust: boards, threads and per-thread hashed user IDs, with no registration required. AGPL-3.0.
+- [Recipe-Note (রাঁধুনি)](https://github.com/mahmud035/recipe-note) - Paste a Bengali YouTube cooking link, get an editable Bangla recipe and a print-ready PDF; runs end-to-end on a $0 hosting and API budget. ⚠️ No licence file.
+- [News Photocard Generator](https://github.com/mmrtonmoybd/news-photocard-generator) - Laravel 11 web app for creating branded, shareable Bangla news photocards with frames, Bangla-calendar dates and SSLCommerz payments. ⚠️ No licence file.
+- [Newspaper Office Management](https://github.com/mmrtonmoybd/newspaper-office-management) - Laravel back-office for newspaper offices: advertisement registers, Bangla cash books, press materials and circulation, with permissions. ⚠️ No licence file.
+- [MessMate BD](https://github.com/Majortarif/messmate-bd) - All-in-one PWA for bachelors in Dhaka: mess (shared housing) management, money tracking and housing search, in Bangla and English. ⚠️ No licence file.
+- [90s Kid BD (নব্বইয়ের শিশু)](https://github.com/dhrupo/90skidbd) - Bangla nostalgia checklist of 1990s Bangladesh: tick 60 memories in 6 chapters, get a shareable SSC-style marksheet, challenge friends. ⚠️ No licence file.
 
 ## 🏪 Developer services (not open)
 

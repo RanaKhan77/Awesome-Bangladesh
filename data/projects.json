@@ -1102,5 +1102,1289 @@
   },
   "section": "education",
   "last_verified": "2026-10-30"
+ },
+ {
+  "name": "Zyvo AI",
+  "url": "https://github.com/zyvo9/ZYVO-AI",
+  "description": "Free AI coding CLI for Android Termux and desktop; ships 17 free models and takes prompts in Banglish.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Banglish-first agent skills; BD developer (9MPROFESSOR)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Kindle PDF Converter",
+  "url": "https://github.com/TanvirAnzum/kindle-pdf-converter",
+  "description": "Windows app that re-lays-out PDF books (Bangla, English, scanned) page-by-page for a 6-inch Kindle screen.",
+  "license": "AGPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for Bangla book readers; maintainer in Bangladesh"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Likhi (লিখি)",
+  "url": "https://github.com/KhaledBinAmir/likhi",
+  "description": "Free Bangla phonetic keyboard for Windows: type 'amar'/'amr' and get আমার with learned suggestions.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla phonetic input; maintainer in Dhaka"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Kiebord (Borno Community Edition)",
+  "url": "https://github.com/JayedAhsan/Kiebord",
+  "description": "Free Bangla IME for Android with a Rust engine; Borno/Avro phonetic, National (BSTI), Probhat layouts.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla IME; maintainer in Dhaka (Codepotro founder)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BornoMala (বর্ণমালা)",
+  "url": "https://github.com/asmkhalid111/BornoMala",
+  "description": "Rust Bangla input platform for Windows (TSF) and Linux (Fcitx5) unifying phonetic, National, Probhat, Bijoy.",
+  "license": "MIT OR Apache-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "unifies all major Bangla layouts incl. Bijoy"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BornoFree (বর্ণফ্রি)",
+  "url": "https://github.com/maruf7705/BornoFree",
+  "description": "Pure-Rust Bengali typing engine and input method for Windows and Arch Linux, no legacy .NET dependencies.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "modern alternative to legacy Bijoy/.NET Bangla keyboards"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Humming Keyboard",
+  "url": "https://github.com/muhib-karim/humming-keyboard",
+  "description": "Privacy-first Android keyboard with offline voice typing and Avro/Ridmik-style Bangla phonetic typing.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla phonetic typing for Avro/Ridmik users"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaFlow (বাংলাফ্লো)",
+  "url": "https://github.com/MillatSakib/BanglaFlow-Bangla-Phonetic-Keyboard-for-linux",
+  "description": "Native Bengali phonetic input method for Linux (IBus/GNOME) with a longest-match phonetic tokenizer.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Avro-style phonetic IME for Linux; maintainer in BD (Sirajganj)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "ToolGhor (টুলঘর)",
+  "url": "https://github.com/ashifurrahmanbadhon/toolghor",
+  "description": "27 in-browser tools (PDF, image, QR, calculators) in a privacy-first Next.js site with Bangla/English UI.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "maintainer in Dhaka; Bangla-first UI"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Savx F4 WiFi Logger",
+  "url": "https://github.com/Jewel-iitdu/savx-inverter-wifi-logger",
+  "description": "ESP32-S3 firmware plus web app that logs Savx F4 solar inverter data (sold in BD) with Bangla Telegram alerts.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "for the inverter sold in Bangladesh by 'Brands of IPS Bazar'; IIT DU maintainer"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "DropMate",
+  "url": "https://github.com/iamshihab2020/DropMate",
+  "description": "Wi-Fi-only messenger and file sender for Windows/Android: chats and any-size files device-to-device, no cloud.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "maintainer in Khulna, BD; English + Bangla UI"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Jesun.Code",
+  "url": "https://github.com/JesunAhmadUshno/jesun-code",
+  "description": "Plain-English programming language (711 tests) whose 'use bangla' mode turns every keyword into Bangla.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "full Bangla keyword mode with Bengali digits (৫, ৩.১৪)"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "voiceover-studio",
+  "url": "https://github.com/arafat1023/voiceover-studio",
+  "description": "Turns a script, screenshots and a voice clip into narrated Bangla/English demo videos with cloned-voice TTS, captions and synced highlights.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-first TTS (IndicF5) with bundled Bangla voice; bn is the default language"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bongo PHP Packages",
+  "url": "https://github.com/Solayman/bongo-php-packages",
+  "description": "Fifty zero-dependency PHP packages for the Bongo PHP framework, including bKash, Nagad, SSLCommerz and AamarPay gateway integrations for BD.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "BD payment gateways plus bangla-tools and bd-locations packages; Nobotech Labs"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BN Script",
+  "url": "https://github.com/sayedrisat/bnscript",
+  "description": "Bangla-inspired programming language that compiles to JavaScript, with runtime, CLI, REPL, tests and a VS Code extension.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla keywords (dhori/jodi/dekhi) with English aliases for Bangla programmers"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "ibus-bornona",
+  "url": "https://github.com/rmahbub01/ibus-bornona",
+  "description": "Native Rust IBus input engine implementing the Bornona Bengali keyboard layout for Linux, with Alt+Space switching and layout viewer.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bengali Bornona (বর্ণনা) fixed keyboard layout engine"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bangla-i18n",
+  "url": "https://github.com/AkibUllah/bangla-i18n-toolkit",
+  "description": "Zero-dependency TypeScript toolkit for Bangla/English products: numerals, Taka formatting, dates, plurals, phone and NID checks.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Taka formatting, Bangladeshi phone numbers and NID validation"
+  },
+  "section": "developer-tools",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangladesh Tax Calculator",
+  "url": "https://github.com/nadimtuhin/tax-calculator",
+  "description": "Browser app that computes Bangladeshi income tax for salaried people, comparing FY 2025-26 vs 2026-27 rules.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh tax law; maintainer in Dhaka"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bhromon",
+  "url": "https://github.com/rbr48/Bhromon",
+  "description": "Offline-first Flutter app for families, offices, messes and samities: chat, shared expenses, ledgers, SOS.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for BD messes/samities; Play Store listing targets Bangladesh"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Cashout Counter",
+  "url": "https://github.com/Shishir-ip/Bkash-Cashout-Counter",
+  "description": "Free offline Android calculator for bKash and Nagad cash-out charges in Bangladesh; Kotlin/Compose.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "built for bKash/Nagad MFS users; AIUB (BD) student maintainer"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Cloud Accounting & ERP",
+  "url": "https://github.com/imranbru99/cloud-accounting-erp",
+  "description": "Laravel 12 multi-tenant accounting ERP with exact-precision double-entry ledger, maker-checker approvals, invoicing and inventory; BN/EN UI.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla+English UI by Dhaka developer Imran Ahmed (imrandev.bd)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "AI Sales Assistant (Laravel)",
+  "url": "https://github.com/imranbru99/laravel-ai-sales-assistant",
+  "description": "Laravel platform that scores leads, drafts follow-ups and runs sales ops, with bKash/Nagad/SSLCommerz gateways and Bangla/English output.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Local BD gateways (bKash/Nagad/Rocket/SSLCommerz) built in; Dhaka developer"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "DeshiPay",
+  "url": "https://github.com/hello2himel/deshiPay",
+  "description": "Gives a shop or creator one payment link: a Bangla QR with the amount baked in, plus bKash, Nagad and bank details to copy. Not a processor.",
+  "license": "AGPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla QR / bKash / Nagad payment pages for BD shops; BD maintainer"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Echo & Aura Ticketing",
+  "url": "https://github.com/Ashfak-Hossain/EchoAndAura",
+  "description": "Ticketing platform for a Dhaka live-events organiser: public shop, admin console and door scanner around manual bKash verification.",
+  "license": "AGPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Ticketing for Dhaka events (echoandaura.com) with bKash payment flow"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "DokanOS",
+  "url": "https://github.com/razikuljoni/DokanOS",
+  "description": "Multi-tenant POS, inventory and baki credit-ledger SaaS for Bangladeshi corner shops, with offline queuing and Taka ageing buckets. Demo.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for BD mudi dokans/pharmacies; baki khata ledger in Taka; Dhaka maintainer"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "ERPNext Bangladesh VAT Compliance",
+  "url": "https://github.com/invento-software-limited/ERPNext-Bangladesh-VAT-Compliance",
+  "description": "Frappe app adding Bangladesh VAT compliance to ERPNext: Mushak 6.1/6.2/6.3 reports, VAT challans, VDS handling and compliant invoicing.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh NBR Mushak VAT forms; maintained by BD company Invento Software"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Taka Plan",
+  "url": "https://github.com/sm-supports/taka-plan",
+  "description": "Free no-signup personal-finance planner PWA in Bangla, English and 10 more languages; goal-based monthly savings plans.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Maintainer in Bangladesh; Bangla-first UI with taka and Bangla digits"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "DailyTally",
+  "url": "https://github.com/CodeWithRoni/DailyTally",
+  "description": "Mobile-friendly bilingual (Bangla/English) expense and lending ledger with budgets, reminders, CSV/PDF reports and cloud backups.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla ledger requiring Bangladesh mobile-number accounts; BD developer"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "GearUp",
+  "url": "https://github.com/abdullahmamun1/gearUp-frontend",
+  "description": "Sports and outdoor gear rental marketplace for Bangladesh: live availability, Stripe payments with deposits, owner chat and AI trip planner.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Marketplace for local providers across Bangladesh; English+Bangla i18n"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Nikhut Hisab",
+  "url": "https://github.com/almamun252/Nikhut-Hisab-App",
+  "description": "Android personal-finance app in English and Bangla: income/expenses, debts, budgets, shopping lists, PDF reports and Drive backup.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-first khata app (নিখুঁত হিসাব) with a 'Rough Khata' mode"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Giftbook (উপহারের খাতা)",
+  "url": "https://github.com/montasim/giftbook",
+  "description": "Bangla wedding-gift ledger PWA that records গায়ে হলুদ/বিয়ে gifts in the family's own Google Sheet; works offline with Bangla digits.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla-first app for Bangladeshi wedding gift khata; maintainer in Dhaka"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Hajj Tracking Software",
+  "url": "https://github.com/Ehasan07/hajj-tracking-software",
+  "description": "Production Hajj-agency management system: bilingual money receipts with QR verification, zamzam delivery tracking and monthly statements.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "SaaS for Bangladeshi Hajj agencies; Bangla+English receipts (hajj.takatracker.com)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Hishab (My Daily Hishab)",
+  "url": "https://github.com/shahriarjahin/my-daily-hishab",
+  "description": "Personal money app with wallets, budgets and bookkeeping in English, Bangla and Banglish; ships signed Android APK releases.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla/Banglish money app for Bangladeshi users; downloadable APK"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Taka Tracker",
+  "url": "https://github.com/Ehasan07/takatracker",
+  "description": "Offline-first personal accounting PWA for Bangladesh: income, expenses, loans, DPS savings, insurance and AI analytics in Bengali.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "হিসাব — personal accounting app for Bangladesh (takatracker.com)"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BakiBondhu (বাকিবন্ধু)",
+  "url": "https://github.com/mrofiqul/bakibondhu",
+  "description": "Bangla-first offline credit-ledger app for Bangladeshi micro-merchants: customer baki, payments, sales and SMS/WhatsApp reminders.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "baki (credit) ledger for Bangladeshi micro-merchants"
+  },
+  "section": "fintech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Voxcribe",
+  "url": "https://github.com/Ratul345/Voxcribe",
+  "description": "Local speech-to-text desktop app and CLI built on faster-whisper, tailored for Bengali transcription.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla-first transcription tool (GUI + CLI)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangla Voice Clock",
+  "url": "https://github.com/saifulmd0/bangla-voice-clock",
+  "description": "Desktop talking clock that speaks the time aloud in Bangla as said in Bangladesh; Flutter, offline.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla time-telling app; maintainer in Dinajpur, BD"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Kothon",
+  "url": "https://github.com/tanvir-talha058/Kothon",
+  "description": "Offline Windows voice typer (Vosk) for Bangla, English and Banglish that types into any focused app.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Banglish voice typing; maintainer in Dhaka"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "LipiLab (লিপিল্যাব)",
+  "url": "https://github.com/afnan-samin/lipilab",
+  "description": "Free Bangla Unicode-to-Bijoy converter with DOCX round-trip that preserves formatting; fully client-side.",
+  "license": "proprietary (all rights reserved)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "solves BD's Unicode/Bijoy divide; live at lipilab.pro.bd"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bengali Coreference under Low-Resource Constraints",
+  "url": "https://github.com/zenith19/bengali-coref-low-resource",
+  "description": "Research code and data for Bengali coreference: 41 gold docs beat 141 mixed docs; 66.73 CoNLL F1 best result.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bengali NLP research; KONVENS 2026 oral + arXiv paper"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Rickshaw Rong (রিকশা রং)",
+  "url": "https://github.com/Teamz-Lab-LTD/rickshaw-rong-bangla-font",
+  "description": "Free OpenType-SVG color Bangla font painted in Dhaka rickshaw-art style; ships the .otf builds, specimen site and a Python build pipeline.",
+  "license": "OFL-1.1",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Dhaka rickshaw-art heritage font released by Teamz Lab (Dhaka)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Odri for Windows",
+  "url": "https://github.com/odri-bn/odri-windows",
+  "description": "Native Windows TSF input method turning phonetic Latin typing into Bangla script in real time; ships an installer and prebuilt x64 releases.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla phonetic keyboard for Windows (odri-core engine)"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Orus-OCR-0.1",
+  "url": "https://github.com/MahirHamiAbrar/Orus-OCR-V0",
+  "description": "Small CPU-fast OCR for Bangla, English and mixed handwriting-first pages; returns language, handwriting flag and structured text.",
+  "license": "MIT-NC (custom; det.onnx upstream OpenRAIL-M)",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla handwriting OCR; trained with BanglaWriting data; 1.06M-param model"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bornotoron (বর্ণতরণ)",
+  "url": "https://github.com/TajkirHossen-14/Bornotoron",
+  "description": "Framework-free Banglish-to-Bangla writing tool: dictionary-first spelling from 4,000+ entries, homophone choices and learned corrections.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Banglish→Bangla phonetic typing for Bengali users; live at bornotoron.vercel.app"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Shobdo Keyboard",
+  "url": "https://github.com/34rns/shobdo-keyboard",
+  "description": "Offline Android keyboard for Bangla (Probhat), Banglish phonetic and English, 13 themes, no INTERNET permission, no ads and no trackers.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla/Banglish input for Bangladeshi Android users; privacy-first"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Project Lip Sync",
+  "url": "https://github.com/BlahBlah23406/project-lip-sync",
+  "description": "Web tool that dubs English YouTube lectures into Bangla: Claude translation, Edge TTS voices, ffmpeg muxing and a dual-audio web player.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla dubbing pipeline with Islamic-terminology safeguards and sacred-terms tests"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Borno-LM",
+  "url": "https://github.com/MdRimon29/borno-lm",
+  "description": "From-scratch decoder-only Bangla language model (152M params) in PyTorch: SentencePiece tokenizer, corpus training, checkpoints, generation.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla LM trained on the bn-foundational-pretrain-corpus"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangla Calendar (বাংলা ক্যালেন্ডার)",
+  "url": "https://github.com/abusayed0206/bangla-calendar",
+  "description": "Windows desktop widget showing the Bangla date, full Bangla calendar, seasons and system-tray support; published on Microsoft Store.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla calendar app with Bangladesh-flag green theme by BD developer"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Uchcharonai (Uccharon AI)",
+  "url": "https://github.com/HumbleHamim/Uccharon-AI-by-Kirrahdia-team",
+  "description": "Bangla pronunciation coach web app: record your voice, get a transcription, and see mismatched words highlighted against a target sentence.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla pronunciation practice; maintainer based in Sylhet, Bangladesh"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangla Voice Typing",
+  "url": "https://github.com/graphicarray/Bangla-Voice-Typing-Chrome-Extension",
+  "description": "Chrome extension (Manifest V3) that types punctuated Bangla text into any text box from speech, with spoken punctuation commands.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla voice input with Bangla digits (১২৫ টাকা) and filler-word removal"
+  },
+  "section": "bangla-nlp",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "MCQ Shuffler Pro",
+  "url": "https://github.com/afnan-samin/MCQ_Shuffler_Pro",
+  "description": "Client-side web tool that shuffles MCQ questions into multiple exam sets from DOCX/CSV, Bijoy-aware.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla/Bijoy-aware exam-set tool for BD teachers"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Khadga (খড়্গ)",
+  "url": "https://github.com/TitaniaRoro/Khadga",
+  "description": "Browser arcade game teaching Bengal's Muslim-rule history (1204-1757): 9 chapters, 90 history cards, Bangla UI.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bengal history education game, entirely in Bangla"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Borno-Sudoku (বর্ণ-সুডোকু)",
+  "url": "https://github.com/TitaniaRoro/BornoSudoku",
+  "description": "Bengali alphabet and word Sudoku puzzle game for Android (6x6/9x9) plus anagram mini-games; Compose M3.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla alphabet literacy game (ক-চ grids, বাংলাদেশ word puzzles)"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "ICTOB Prep Lab",
+  "url": "https://github.com/mfaysal-dev/ictob-prep-lab",
+  "description": "Offline-first bilingual PWA for ICT Olympiad Bangladesh prep: 84 MCQs over 14 segments, timed mock tests and four interactive ICT labs.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for ICT Olympiad Bangladesh by Mahir Faysal (BD); live at ictob-prep-lab.vercel.app"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Madrasha Management Software",
+  "url": "https://github.com/mdsharifmia-dev/Madrasha-Management-Software",
+  "description": "Multi-tenant SaaS ERP for Bangladeshi Qawmi and Alia madrasas: finance and mess ledgers, Hifz tracking, payroll, hostel and communications.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Engineered for BD madrasas (Befaqul context, Bangla UI); maintainer in Bangladesh"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Type Kori (টাইপ করি)",
+  "url": "https://github.com/auntor69/type-kori",
+  "description": "Free browser Bangla typing trainer: 12 lessons, endless speed runs, weak-key drills, 261 themes and local-only progress. No sign-up or ads.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla typing trainer by a Dhaka developer; works with Avro/system layouts"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Quran Sathi (কুরআন সাথী)",
+  "url": "https://github.com/ansar-design/quran-sathi",
+  "description": "Free Bangla Quran app: all 114 suras with Bangla meaning, offline Juz Amma Husary recitation, tajweed colours, hifz planner, learning path.",
+  "license": "GPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla Quran app; publisher Tosa Creations Limited, Dhaka"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "FocusTube",
+  "url": "https://github.com/mradifhassan/focus-tube-desktop",
+  "description": "Distraction-free YouTube client for HSC students in Bangladesh: 1,000+ curated OnnoRokom Pathshala videos, no ads or recommendations at all.",
+  "license": "AGPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for BD HSC students; bundles OnnoRokom Pathshala catalog; BD maintainer"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangla GPT APP",
+  "url": "https://github.com/tanviruchahs2580/Bangla-GPT-APP",
+  "description": "NCTB-grounded Bangla AI tutor platform with five roles, streaming tutor chat, quizzes, school tenancy, child-safety moderation and PWA.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Grounded in Bangladesh's NCTB curriculum; bn/en i18n; live web app"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "FormBondhu (ফর্মবন্ধু)",
+  "url": "https://github.com/ai-naymul/formbondhu",
+  "description": "Photograph a filled university form or dorkhast; open-weights Gemma finds what will get it rejected and explains each fix in Bangla/English.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for IIUC (Chattogram) students; Bangla fixes and corrected letters"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Just Imagine",
+  "url": "https://github.com/mubinui/just-imagine",
+  "description": "Bilingual Bangla/English learning app where children talk with characters, build playable stories and join interactive STEM lessons.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Deployed at justimagine.mymentor.bd (.bd domain); Bangla-first for BD children"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "TypeWithLearn (TypeLingo)",
+  "url": "https://github.com/atikurrahmanxm/typelingo-learning-zone",
+  "description": "English-learning and touch-typing web platform with 3,000+ practice sentences, 130+ speed passages and Bengali translations.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Maintainer in Bangladesh; Bengali translations with Hind Siliguri font"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "JS Arena",
+  "url": "https://github.com/Mostafijemon24/JS-Arena",
+  "description": "Bangla-first interactive JavaScript learning platform: 44-skill tree with lessons, quizzes, debugging challenges and interview prep.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "বাংলা lessons, quizzes and interview questions for Bangla-speaking learners"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "TuitionHub",
+  "url": "https://github.com/Razia-rosie/Tution-Hub",
+  "description": "Verified tutoring marketplace for Bangladesh: tutor and coaching-centre discovery, demo classes, schedules, homework, grades, diaries.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Tutoring marketplace for Bangladeshi guardians and students"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bengal Unfolded",
+  "url": "https://github.com/Cipher-Text/bengal-unfolded",
+  "description": "Bilingual Bangla/English digital history of Bengal: 3,800+ structured event files with timelines and quotes, from Gangaridai onward.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "History of Bengal and Bangladesh; Bangladesh-based org (Cipher-Text)"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Boi Mohol (বই মহল)",
+  "url": "https://github.com/TahsinAPrthib/Boimohol",
+  "description": "Bangla-first reading platform: book discovery with 'start here' picks, shelves, reviews, free public-domain PDFs and book exchange.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla-first web app for readers in Bangladesh; Bangladesh time and Bangla digits"
+  },
+  "section": "education",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "ESBC-AI",
+  "url": "https://github.com/farjanaferdausi-cs50ai/ESBC-AI",
+  "description": "Bilingual RAG assistant that answers questions on Bangladeshi government services with cited .gov.bd sources.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "explains BD .gov.bd services in Bangla/English; live app on Vercel"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "OshudBot",
+  "url": "https://github.com/yaqzans/oshudbot",
+  "description": "Offline Bangla/Banglish medicine info assistant over a 21,714-brand Bangladeshi drug database; Streamlit.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh drug database (brands from Square, Beximco et al.)"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BD Rail Ticket Alarm",
+  "url": "https://github.com/saikatnjm/bd-rail-ticket-alarm",
+  "description": "Brave/Chrome extension that alarms the moment Bangladesh Railway tickets go on sale on eticket.gov.bd.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for Bangladesh Railway ticketing (eticket.railway.gov.bd)"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Fishing Women Bangladesh",
+  "url": "https://github.com/mmrtonmoybd/fishing-women-bangladesh",
+  "description": "Bangla community reporting platform where Bangladesh's fishing women publish stories, photos and audio.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "run by BD org Report71; maintainer in Dhaka"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "bd-legal-rag",
+  "url": "https://github.com/roy032/bd-legal-rag",
+  "description": "Bilingual RAG over Bangladeshi statutes: cited section-level answers in Bangla, English or romanised Bangla.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh law QA with section-level citations; local Bangla-tuned model"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Tellwater",
+  "url": "https://github.com/fariha-nirjana/tellwater",
+  "description": "Checks whether a garment factory's wastewater was really treated, cross-examining its meters, logbook photos and lab reports with AI.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for Bangladesh's RMG supply chain; Muse Voice lets factories reply in Bangla"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Pother Bondhu (পথের বন্ধু)",
+  "url": "https://github.com/FaiazPronoy/Pother-Bondhu",
+  "description": "Animal-rescue network for Dhaka: post a street animal in trouble and volunteers respond; includes adoption, teams, vet map and PetPoints.",
+  "license": "proprietary (all-rights-reserved, view/run-only)",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Dhaka street-animal rescue platform; bilingual BN/EN; live on Render"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Foundation Hisab Khata",
+  "url": "https://github.com/TheSpideyBro/foundation-app",
+  "description": "Digital hisab khata for a Bengali welfare foundation: joma entries with allocation preview, Bengali JPEG receipts with QR, member ledgers.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Digitises a Bengali community foundation's paper khata; Bangla-first UI"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "HireBangla",
+  "url": "https://github.com/muhammadrakib2299/HireBangla",
+  "description": "Job-search platform aggregating seven Bangladeshi job boards with a resume builder, skill assessments and per-job match scoring.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Scrapers for BDJobs, Shomvob, Skill.jobs and other BD job boards"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BillBoard",
+  "url": "https://github.com/akifislam/billboard-app",
+  "description": "Android app that aggregates NESCO, DESCO and PGCL prepaid electricity and gas meters: balances, payments and low-balance alerts.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Tracks Bangladeshi utility meters (NESCO/DESCO/PGCL); on Google Play"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bhumi Setu (ভূমি সেতু)",
+  "url": "https://github.com/mhcybroot/landtrust-bhumisetu",
+  "description": "Land-record ledger and title-deed verification platform: chain-of-title across CS/SA/RS/BS surveys, PostGIS overlap and unit conversion.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Digital land records for Bangladesh (package bd.com.landtrust); katha/bigha units, Khatiyan chain"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "KrishiBangla (কৃষিবাংলা)",
+  "url": "https://github.com/shishir3051/krishibangla",
+  "description": "Bangla-first agriculture site for all 64 districts: live weather, market prices, disaster alerts, crop guides and AI leaf-disease scan.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Agriculture platform for Bangladeshi farmers using DAE/BBS/World Bank BD data"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "PesticideNext (পেস্টিসাইডনেক্সট)",
+  "url": "https://github.com/moniruzjaman/AgriChem-Guide-Pest-Control-Database",
+  "description": "Bilingual PWA holding 9,000+ DAE-registered pesticide formulations with live gov-API search and resistance-rotation guidance.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "DAE-registered pesticides and live ppw.krishi.gov.bd search for BD farmers"
+  },
+  "section": "civic-tech",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "SellerMate BD",
+  "url": "https://github.com/mah-shamim/sellermate-bd",
+  "description": "Self-hosted AI assistant (Ollama) that writes Bangla/English product descriptions and SEO copy for BD sellers.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for Bangladeshi online sellers; maintainer in Dhaka"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "DocTrust",
+  "url": "https://github.com/rafiimam/DocTrust",
+  "description": "Reviewer agent that cross-examines BD identity document sets (NID, birth certificate) and flags mismatches.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for BD NID/KYC checking; maintainer in Dhaka (Jamuna Bank eKYC)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Gochalo (গোছালো)",
+  "url": "https://github.com/mahmudhasan-k/gochalo",
+  "description": "Bilingual AI workspace that turns Bangladeshi notices and circulars into tasks, deadlines and document plans.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for BD students/families (DU admission, e-passport examples); SUST maintainer"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "ClinicDesk AI",
+  "url": "https://github.com/mstnisa/clinicdesk-ai",
+  "description": "Bilingual AI front desk for small clinics: answers patients on WhatsApp and web, books, escalates to staff.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "built for Dhaka physiotherapy clinics; live demo + HF mirror"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "MedEdge AI",
+  "url": "https://github.com/AmanurRahman101/mededge-ai",
+  "description": "Pipeline that turns paper lab reports and doctor dictation into verified HL7 FHIR bundles, anonymising pages before any model reads them.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla dictation translation; built for low-resource clinic workflows"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaHealth-AI",
+  "url": "https://github.com/muhammadrakib2299/BanglaHealth-AI",
+  "description": "Explainable diabetes and heart risk stratification for low-resource BD clinics: SHAP-backed three-tier scores, FastAPI, Streamlit dashboard.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built around Bangladesh's 0.58-physicians-per-1000 gap; Dhaka maintainer"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bangla Sign Language Detector",
+  "url": "https://github.com/iamnajib71/Real-Time-Bangla-Sign-Language-Detector",
+  "description": "Reproducible Bangla hand-sign recognition (CNN vs MobileNetV2) with image, video and live-camera inputs plus a PyQt5 app; tested on KU-BdSL.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla sign language (BdSL) accessibility; rebuilt from B.Sc. thesis with releases"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "LAI — Local AI & Android Automation Runtime",
+  "url": "https://github.com/soobujmiah/lai",
+  "description": "Source-only Android runtime for private on-device LLMs (llama.cpp/GGUF) with a Bangla-first interface and consent-gated device automation.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla-first on-device AI runtime by Dhaka maintainer Sobuj Miah"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BdSL Vision",
+  "url": "https://github.com/rdaslam12/BdSL-Vision-Bangla-Sign-Recognition-Edge-ML",
+  "description": "Bangladesh Sign Language recognition pipeline: 4,139 annotated samples, 18 classes, YOLOv8s training and ONNX browser-inference demo.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "BdSL (Bangladesh Sign Language) recognition for deaf Bangladeshis"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "SignBridge",
+  "url": "https://github.com/Tayebbb/signbridge",
+  "description": "Experimental web app pairing Bangla videos with saved avatar-signing tracks (BdSL), clearly marking which meaning it could not sign.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh Sign Language accessibility for Bangla video content"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bengali Books Engine",
+  "url": "https://github.com/xzenhot/books",
+  "description": "Multi-agent engine that plans, writes, reviews and publishes complete Bengali books from a single CLI; ships 7,800+ generated chapter files.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bengali literary generation engine (MCP Bangla agents)"
+  },
+  "section": "aiml",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Shelfie",
+  "url": "https://github.com/Ifad7/shelfie",
+  "description": "Flask app that turns book photos into an organised library on Gemini's free tier; built-in EPUB/PDF reader.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla book shelves (বাংলা সাহিত্য); Daily Star + Bengali book-news feed"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Bookworm Buddies",
+  "url": "https://github.com/mebmrauf/bookworm-buddies",
+  "description": "Plain-PHP community platform where readers in Bangladesh lend, swap and give away physical books; includes schema, seed data and PHP tests.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built by a Dhaka developer for readers in Bangladesh (repo description)"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaChan (বাংলাচান)",
+  "url": "https://github.com/tktajwar/bachan",
+  "description": "Self-hostable anonymous Bengali imageboard written in Rust: boards, threads and per-thread hashed user IDs, with no registration required.",
+  "license": "AGPL-3.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bengali-language community forum; Dhaka maintainer; live on Railway"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Recipe-Note (রাঁধুনি)",
+  "url": "https://github.com/mahmud035/recipe-note",
+  "description": "Paste a Bengali YouTube cooking link, get an editable Bangla recipe and a print-ready PDF; runs end-to-end on a $0 hosting and API budget.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for a Bengali home cook; Bangla quantity formatter; BD maintainer (Gopalganj)"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "News Photocard Generator",
+  "url": "https://github.com/mmrtonmoybd/news-photocard-generator",
+  "description": "Laravel 11 web app for creating branded, shareable Bangla news photocards with frames, Bangla-calendar dates and SSLCommerz payments.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangla text and Bangla-calendar dates; SSLCommerz (BD payment gateway) billing"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Newspaper Office Management",
+  "url": "https://github.com/mmrtonmoybd/newspaper-office-management",
+  "description": "Laravel back-office for newspaper offices: advertisement registers, Bangla cash books, press materials and circulation, with permissions.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for Bangladeshi newspaper offices; data-entry screens in Bangla"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "MessMate BD",
+  "url": "https://github.com/Majortarif/messmate-bd",
+  "description": "All-in-one PWA for bachelors in Dhaka: mess (shared housing) management, money tracking and housing search, in Bangla and English.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "ঢাকার ব্যাচেলরদের মেস — built for Dhaka mess life"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "90s Kid BD (নব্বইয়ের শিশু)",
+  "url": "https://github.com/dhrupo/90skidbd",
+  "description": "Bangla nostalgia checklist of 1990s Bangladesh: tick 60 memories in 6 chapters, get a shareable SSC-style marksheet, challenge friends.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "1990s Bangladesh childhood nostalgia (BTV, টিফিন, ঈদ); BD developer"
+  },
+  "section": "everyday-apps",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Durjog Bondhu (দুর্যোগ বন্ধু)",
+  "url": "https://github.com/mfaysal-dev/durjog-bondhu",
+  "description": "Offline-first Bangla disaster-prep PWA: cyclone signal explainer, hazard guides, offline shelter finder, kit checklist and one-tap SOS SMS.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for Bangladesh's cyclone/flood context; one-tap calls to 999/1090 hotlines"
+  },
+  "section": "crisis-response",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Aabhas — Flood Outlook for Bangladesh",
+  "url": "https://github.com/riyadh5674/Aabhas-flood-predictor-bangladesh",
+  "description": "Station-level 24/48/72-hour probabilistic flood outlook for Bangladesh, with a leakage-aware ML pipeline, frozen model, live API and maps.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Flood forecasting for Bangladesh stations; honest FFWC-adjacent research prototype"
+  },
+  "section": "crisis-response",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Road Network Growth Model",
+  "url": "https://github.com/rahasan36/road-growth-model",
+  "description": "Research code and figures for a paper forecasting road-network growth by class, with Bangladesh (plus Brazil, Nigeria) case studies to 2050.",
+  "license": "CC-BY-NC-ND-4.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh (BGD) case study; lead author Rakibul Ahasan; data on Zenodo"
+  },
+  "section": "geography",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Field Shift",
+  "url": "https://github.com/Zul-Qarnain/field-shift",
+  "description": "Crop-rotation planner for Bangladeshi farmers using NASA POWER and GPM IMERG satellite data, ranking rotations with reasons shown in Bangla.",
+  "license": "Apache-2.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for Bangladeshi farmers (NASA Space Apps 2026); Bangla output, live demo"
+  },
+  "section": "geography",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Outrun Dhaka",
+  "url": "https://github.com/Hal0MG/outrun-dhaka",
+  "description": "Browser arcade racer through 15 Dhaka districts with landmarks, rickshaws and monsoon weather; art, music and engines generated in code.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Dhaka geography, landmarks and street culture as the game world; playable free"
+  },
+  "section": "geography",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Metro Station Finder",
+  "url": "https://github.com/tashfiqul-islam/metro-station-finder",
+  "description": "Next.js app that shows the nearest Dhaka MRT metro station to any location, with distance and fare calculation between stations.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for Dhaka Metro (MRT-6) commuters"
+  },
+  "section": "geography",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "UHI Local Climate Zones — Dhaka",
+  "url": "https://github.com/BEHS/UHI_LCZ",
+  "description": "GeoTIFF Local Climate Zone maps for Dhaka (plus Kampala and San Salvador) for 2016 and 2023, from a published urban-heat-island study.",
+  "license": "CC0-1.0",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "30m-resolution Dhaka LCZ maps for urban heat island research"
+  },
+  "section": "geography",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Shurokkha",
+  "url": "https://github.com/mohammadyaksafu/DIU_Hackathon_final",
+  "description": "AI trust and financial-safety copilot for upay: LightGBM plus Gemini scam detection for mobile-money users, deployed with OpenAPI docs.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Built for upay (Bangladeshi MFS); AI DEV FEST 2026 DIU x upay hackathon champion"
+  },
+  "section": "security",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "BanglaNLP Hub",
+  "url": "https://github.com/kishormorol/BanglaNLP-Hub",
+  "description": "Community catalog of Bangla NLP resources: 814 papers, 67 datasets, 22 models, 26 tasks and 9 tools, with live site and Zenodo DOI.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Dedicated Bangla NLP catalog; data also published as a Hugging Face dataset"
+  },
+  "section": "awesome-lists",
+  "last_verified": "2026-11-06"
  }
 ]

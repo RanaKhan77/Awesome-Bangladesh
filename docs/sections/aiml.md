@@ -6,7 +6,7 @@
 
 Models, benchmarks and research code from Bangladeshi labs and companies — from BUET's encoder models to Dhaka-built LLM families, plus two MCP servers that bring Bangladesh data into LLM workflows. Each entry notes its licence honestly: community-licence LLMs and non-commercial research checkpoints are labelled, so commercial users know what they can ship before they build on it. Government AI assets are here too, through the banglagov Hugging Face org — the state's first openly published model family.
 
-**27 verified entries** · Last verified: 2026-10-30 · Rules: [curation policy](../curation-policy.md)
+**44 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -39,6 +39,25 @@ Models, benchmarks and research code from Bangladeshi labs and companies — fro
 | [BengaliRegionalASR (Barishal & Sylhet)](https://huggingface.co/sha1779/BengaliRegionalASR_barishal_sylhet) | Dialect-aware ASR trained on BengaliAI's regional-dialect data for two Bangladeshi divisions — addressing the reality that Barishai and Sylheti Bangla break standard ASR models. | Apache-2.0 | 🔵 BD org / for-BD |
 | [@entrogic-net/mcp-server-bangladesh](https://www.npmjs.com/package/@entrogic-net/mcp-server-bangladesh) | MCP server exposing Bangladesh reference data (geography, utilities and more) to LLM clients, from the BanglaClaw team — so AI assistants can answer BD questions with real data instead of guessing. | Apache-2.0 | 🟢 BD-based |
 | [bangla-news-mcp](https://pypi.org/project/bangla-news-mcp/) | MCP server that retrieves live Bangla news into LLM contexts, by Abid Mohammad Jawad (open source, GitHub hurutta/bangla-news-mcp) — current-events grounding for Bangla-speaking AI workflows. | — | 🟢 BD-based |
+| [SellerMate BD](https://github.com/mah-shamim/sellermate-bd) | Self-hosted AI assistant (Ollama) that writes Bangla/English product descriptions and SEO copy for BD sellers — generates Bangla/English product descriptions, key features, SEO metadata, Facebook captions, and FAQs using a locally hosted Ollama model. | MIT | 🟢 BD-based |
+| [DocTrust](https://github.com/rafiimam/DocTrust) | Reviewer agent that cross-examines BD identity document sets (NID, birth certificate) and flags mismatches — reads every field of every document in Bangla, English and Hindi ... deterministic code decides the verdict; measured on 40 synthetic Bangla sets. | MIT | 🟢 BD-based |
+| [Gochalo (গোছালো)](https://github.com/mahmudhasan-k/gochalo) | Bilingual AI workspace that turns Bangladeshi notices and circulars into tasks, deadlines and document plans — starting audience is Bangladeshi students and families navigating everyday applications and notices; deployed with FastAPI backend. | MIT | 🟢 BD-based |
+| [ClinicDesk AI](https://github.com/mstnisa/clinicdesk-ai) | Bilingual AI front desk for small clinics: answers patients on WhatsApp and web, books, escalates to staff — most small clinics in Dhaka get their patient enquiries on WhatsApp ... books appointments, and passes the conversation to a staff member when it should. | MIT | 🟢 BD-based |
+| [MedEdge AI](https://github.com/AmanurRahman101/mededge-ai) | Pipeline that turns paper lab reports and doctor dictation into verified HL7 FHIR bundles, anonymising pages before any model reads them. | Apache-2.0 | 🔵 BD org / for-BD |
+| [BanglaHealth-AI](https://github.com/muhammadrakib2299/BanglaHealth-AI) | Explainable diabetes and heart risk stratification for low-resource BD clinics: SHAP-backed three-tier scores, FastAPI, Streamlit dashboard. | MIT | 🟢 BD-based |
+| [Bangla Sign Language Detector](https://github.com/iamnajib71/Real-Time-Bangla-Sign-Language-Detector) | Reproducible Bangla hand-sign recognition (CNN vs MobileNetV2) with image, video and live-camera inputs plus a PyQt5 app; tested on KU-BdSL. | MIT | 🔵 BD org / for-BD |
+| [LAI — Local AI & Android Automation Runtime](https://github.com/soobujmiah/lai) | Source-only Android runtime for private on-device LLMs (llama.cpp/GGUF) with a Bangla-first interface and consent-gated device automation. | Apache-2.0 | 🟢 BD-based |
+| [BdSL Vision](https://github.com/rdaslam12/BdSL-Vision-Bangla-Sign-Recognition-Edge-ML) | Bangladesh Sign Language recognition pipeline: 4,139 annotated samples, 18 classes, YOLOv8s training and ONNX browser-inference demo — "4,139 annotated samples · 18 classes · YOLOv8s · mAP@0.50 0.639... Real ONNX inference runs locally in the browser with image upload and camera input, Bengali labels.". | ⚠️ No licence file | 🟢 BD-based |
+| [SignBridge](https://github.com/Tayebbb/signbridge) | Experimental web app pairing Bangla videos with saved avatar-signing tracks (BdSL), clearly marking which meaning it could not sign. | ⚠️ No licence file | 🟢 BD-based |
+| [Bengali Books Engine](https://github.com/xzenhot/books) | Multi-agent engine that plans, writes, reviews and publishes complete Bengali books from a single CLI; ships 7,800+ generated chapter files. | ⚠️ No licence file | 🔵 BD org / for-BD |
+| [BanglaT5 (BUET NLP)](https://huggingface.co/csebuetnlp/banglat5) | Canonical Bangla T5 seq2seq model from the BUET NLP group (summarisation, NLI, NER, QA). | MIT (per model card) | 🔵 BD org / for-BD |
+| [Bangla Twoclass Sentiment Analyzer](https://huggingface.co/Arunavaonly/Bangla-twoclass-Sentiment-Analyzer) | Most-downloaded Bangla sentiment model on Hugging Face (3.3M+ downloads), positive/negative classification. | MIT | 🔵 BD org / for-BD |
+| [wav2vec2 XLS-R 300M Bengali](https://huggingface.co/arijitx/wav2vec2-xls-r-300m-bengali) | Fine-tuned XLS-R 300M automatic speech recognition model for Bengali (670k+ downloads). | Apache-2.0 | 🔵 BD org / for-BD |
+| [BanglaASR (bangla-speech-processing)](https://huggingface.co/bangla-speech-processing/BanglaASR) | Community Bangla automatic speech recognition model maintained by the bangla-speech-processing org. | MIT | 🔵 BD org / for-BD |
+| [Bengali.AI Whisper-medium ASR](https://huggingface.co/bengaliAI/tugstugi_bengaliai-asr_whisper-medium) | Whisper-medium fine-tune for Bangla speech recognition from the Bengali.AI community. | Apache-2.0 | 🔵 BD org / for-BD |
+| [BanglaGPT-Pro](https://huggingface.co/emonHasan01/BanglaGPT-Pro) | Bangla text-generation model (Gemma-based) for local inference. | Gemma (custom) | 🔵 BD org / for-BD |
+
+
 
 ## Editor's picks
 

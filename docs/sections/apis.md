@@ -6,7 +6,7 @@
 
 Public and free-tier APIs serving Bangladesh data — geography, prayer times, exchange rates, news feeds, railway information and more. Where an API needs a key we say so; keyless endpoints are marked as the easiest starting points. Live endpoints are checked during verification, not just their documentation pages. Official commercial APIs (payments, logistics) live in the [Fintech](fintech.md) and [Services](services.md) sections instead, and the open-source SDKs that wrap them live there too.
 
-**15 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**15 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 

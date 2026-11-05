@@ -742,5 +742,41 @@
   },
   "section": "datasets",
   "last_verified": "2026-10-30"
+ },
+ {
+  "name": "BanglaSafe",
+  "url": "https://github.com/BanglaLLM/banglasafe",
+  "description": "Bengali LLM safety benchmark: 879 statute-anchored prompts across 17 harm categories, with PyPI eval lib.",
+  "license": "MIT",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "BanglaLLM org benchmark; published in Findings of EMNLP 2026"
+  },
+  "section": "datasets",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "Kothar Rong - Open Bangla Slang Dataset",
+  "url": "https://github.com/Hisernberg/bangla-slang-dataset",
+  "description": "Open Bangla slang lexicon: 3,318 verified entries, 20 categories, romanization, offensiveness ratings, audio.",
+  "license": "CC-BY-SA-4.0",
+  "bd_connection": {
+   "tier": "C",
+   "evidence": "Bangla language dataset; ELITE Research Lab competition entry"
+  },
+  "section": "datasets",
+  "last_verified": "2026-11-06"
+ },
+ {
+  "name": "EconDelta",
+  "url": "https://github.com/clauding-lab/econdelta",
+  "description": "Autonomous daily pipeline that scrapes, parses and reconciles Bangladesh's macroeconomic indicators into one queryable repository.",
+  "license": "unspecified",
+  "bd_connection": {
+   "tier": "A",
+   "evidence": "Bangladesh macro data pipeline from official BD sources, with live dashboard"
+  },
+  "section": "datasets",
+  "last_verified": "2026-11-06"
  }
 ]

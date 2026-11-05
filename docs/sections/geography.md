@@ -6,7 +6,7 @@
 
 Administrative boundaries, geocoding libraries and map data for Bangladesh — the division → district → upazila → union hierarchy that every BD app eventually needs. The classic datasets here are among the most widely used Bangladeshi repositories on GitHub, and for good reason: everything downstream, from delivery pricing to disaster mapping, starts with this hierarchy. Boundary files are checked for actual data content, not just a README and a logo.
 
-**13 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**18 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -25,6 +25,13 @@ Administrative boundaries, geocoding libraries and map data for Bangladesh — t
 | [manchitro](https://www.npmjs.com/package/manchitro) | Typed SVG maps of all 64 Bangladesh districts (মানচিত্র = map) — drop a district map into a React dashboard without a tile server or a GIS stack. | MIT | 🟢 BD-based |
 | [Geofabrik Bangladesh extract](https://download.geofabrik.de/asia/bangladesh.html) | Regularly updated OpenStreetMap extract for Bangladesh in shapefile, GeoJSON and other formats — the standard starting point for local OSM work without planet-file machinery. | ODbL (OpenStreetMap data) | 🔵 BD org / for-BD |
 | [OpenStreetMap Bangladesh](https://wiki.openstreetmap.org/wiki/Bangladesh) | Community hub for Bangladesh mapping efforts and import coordination — where to find the mappers and the conventions before you build on OSM data. | CC-BY-SA (wiki) | 🔵 BD org / for-BD |
+| [Road Network Growth Model](https://github.com/rahasan36/road-growth-model) | Research code and figures for a paper forecasting road-network growth by class, with Bangladesh (plus Brazil, Nigeria) case studies to 2050. | CC-BY-NC-ND-4.0 | 🟢 BD-based |
+| [Field Shift](https://github.com/Zul-Qarnain/field-shift) | Crop-rotation planner for Bangladeshi farmers using NASA POWER and GPM IMERG satellite data, ranking rotations with reasons shown in Bangla. | Apache-2.0 | 🟢 BD-based |
+| [Outrun Dhaka](https://github.com/Hal0MG/outrun-dhaka) | Browser arcade racer through 15 Dhaka districts with landmarks, rickshaws and monsoon weather; art, music and engines generated in code. | MIT | 🟢 BD-based |
+| [Metro Station Finder](https://github.com/tashfiqul-islam/metro-station-finder) | Next.js app that shows the nearest Dhaka MRT metro station to any location, with distance and fare calculation between stations — "Finding the closest metro station in Dhaka was a real headache... quickly showing the closest metro station and how far it is just by entering a location." Deployed on GitHub Pages.. | ⚠️ No licence file | 🟢 BD-based |
+| [UHI Local Climate Zones — Dhaka](https://github.com/BEHS/UHI_LCZ) | GeoTIFF Local Climate Zone maps for Dhaka (plus Kampala and San Salvador) for 2016 and 2023, from a published urban-heat-island study — "The geospatial data associated with the study (i.e., LCZ maps for 2016 and 2023, for Dhaka, Kampala, and San Salvador) are stored as GeoTIFs" — lcz_bd_dhaka_2016/2023_30m.zip.. | CC0-1.0 | 🟢 BD-based |
+
+
 
 ## Editor's picks
 

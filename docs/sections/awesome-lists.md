@@ -6,7 +6,7 @@
 
 Sibling lists and community directories that map the wider Bangladeshi ecosystem — developer directories, FOSS indexes, portfolios, and the older Bangla-computing lists that predate this one. We link rather than duplicate: if another list covers a niche better, it belongs here. Community organisations are listed for their community role, not their git activity, and sleeping lists stay listed when they are still the best map of their territory — with their dormancy stated plainly.
 
-**20 verified entries** · Last verified: 2026-10-25 · Rules: [curation policy](../curation-policy.md)
+**21 verified entries** · Last verified: 2026-11-06 · Rules: [curation policy](../curation-policy.md)
 
 ## The full table
 
@@ -32,6 +32,9 @@ Sibling lists and community directories that map the wider Bangladeshi ecosystem
 | [OpenBangla](https://github.com/OpenBangla) | Community behind OpenBangla Keyboard and its Rust input stack — the modern continuation of the Avro lineage, see the [Bangla NLP section](bangla-nlp.md). | — | see list |
 | [OmicronLab](https://github.com/OmicronLab) | Historic home of Avro Keyboard — the input method that put Bangla on millions of machines. Current repositories are mirrors of the pre-GitHub project, kept for the record. | — | see list |
 | [bangla-corpus](https://github.com/sagorbrur/bangla-corpus) | Curated list of Bangla NLP corpora and datasets | unspecified | 🟢 BD-based |
+| [BanglaNLP Hub](https://github.com/kishormorol/BanglaNLP-Hub) | Community catalog of Bangla NLP resources: 814 papers, 67 datasets, 22 models, 26 tasks and 9 tools, with live site and Zenodo DOI — "A community-maintained catalog of Bangla (Bengali) NLP resources — papers, datasets, models, tools, and benchmarks" with badges: 814 papers, 67 datasets, 22 models; live site + CI.. | MIT | 🔵 BD org / for-BD |
+
+
 
 ## Editor's picks
 
