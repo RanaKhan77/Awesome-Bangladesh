@@ -20,7 +20,7 @@ openly in the [verification queue](docs/verification-queue.md) instead of being 
 Items that went unmaintained move to [legacy.md](legacy.md) — still useful, honestly
 labelled with last-activity dates, never silently deleted.
 
-**388 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
+**391 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
 Bangladesh connection evidenced, every licence stated as published.
 
 Maintained by [Rana Khan](https://github.com/RanaKhan77). Contributions welcome — see
@@ -153,6 +153,7 @@ Notable Kaggle datasets about Bangladesh:
 - [SUBESCO Bangla Speech Emotion](https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset) - Audio-only emotional speech corpus from SUST researchers. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [Bangla Isolated Speech Dataset](https://www.kaggle.com/datasets/mehrabhosain/bangla-isolated-speech-dataset) - 1,800 isolated-word samples in Bangla and English (published 2025; also on Mendeley Data). LGPL-3.0.
 
+- [bangladesh-law](https://github.com/lexifina/bangladesh-law) - Bangladesh law history as a dataset: one commit per law taking effect, sourced from the official Laws of Bangladesh site. Custom licence (BD legislative texts — see repo LICENSE).
 - [BangladeshExport Export Statistics](https://bangladeshexport.com/export-statistics) - Bangladesh export statistics organised from official sources (EPB, Bangladesh Bank, NBR Customs, BIDA): monthly and full-year totals, HS-code product breakdowns, top destinations and regional splits, with downloadable XLSX and source-link dates shown. Free to access.
 
 International open-data hosts carrying Bangladesh data:
@@ -194,6 +195,7 @@ Input methods and phonetics:
 - [sbnltk](https://github.com/Foysal87/sbnltk) - SUST-Bangla NLP toolkit: NER, POS tagging, stemming, word embeddings (MIT). MIT.
 - [OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard) - The leading open-source Bangla keyboard for Linux. GPL-3.0.
 - [riti](https://github.com/OpenBangla/riti) - Next-generation Bangla input method engine in Rust. MPL-2.0.
+- [Jolpai Keyboard](https://github.com/Yeamin-Talukder/jolpai-keyboard) - Free, open-source, privacy-first Bangla & English keyboard for Android by a maintainer in Barishal. Apache-2.0.
 - [jsAvroPhonetic](https://github.com/torifat/jsAvroPhonetic) - Avro Phonetic conversion in JavaScript. ⚠️ No licence file.
 - [iAvro](https://github.com/torifat/iAvro) - Avro Phonetic for macOS. ⚠️ No licence file.
 - [Lekho](https://github.com/ARahim3/Lekho) - Avro Phonetic input for Apple Silicon Macs. Custom licence.
@@ -281,6 +283,7 @@ Typesetting:
 
 > 📖 Deep dive with full tables and picks: [section guide](docs/sections/aiml.md)
 
+- [mongla_ws](https://github.com/fh1m/mongla_ws) - Independent ROS 2 autonomy stack for autonomous underwater vehicles — custom controllers from a Dhaka-based maintainer, named after the Mongla port. MIT.
 - [banglagov (Hugging Face)](https://huggingface.co/banglagov) - Official Hugging Face org of the Bangla.gov.bd government initiative: banGPT2-Base, banBERT-Base, banELECTRA-Base and banT5-Base pretrained models plus the Ban-Sign-Sent-9K sign-language dataset. Licence terms per model card.
 - [BanglaBERT](https://github.com/csebuetnlp/banglabert) - Pretrained Bangla language models from the BUET NLP group. ⚠️ CC BY-NC-SA 4.0 — non-commercial.
 - [BanglaNLG](https://github.com/csebuetnlp/BanglaNLG) - BanglaT5 generation and summarisation models. ⚠️ No licence file.
