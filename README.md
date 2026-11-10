@@ -20,7 +20,7 @@ openly in the [verification queue](docs/verification-queue.md) instead of being 
 Items that went unmaintained move to [legacy.md](legacy.md) — still useful, honestly
 labelled with last-activity dates, never silently deleted.
 
-**391 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
+**405 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
 Bangladesh connection evidenced, every licence stated as published.
 
 Maintained by [Rana Khan](https://github.com/RanaKhan77). Contributions welcome — see
