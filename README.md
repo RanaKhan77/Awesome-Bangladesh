@@ -392,7 +392,7 @@ Logistics, couriers and anti-fraud:
 
 > 📖 Deep dive with full tables and picks: [section guide](docs/sections/security.md)
 
-- [Website-Vulnerability-Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Open-source scanner with 202 deterministic modules: XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress and MCP/AI-LLM security. MIT.
+- [Website-Vulnerability-Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Open-source scanner with 218 deterministic modules: XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress and MCP/AI-LLM security. MIT.
 - [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted OSINT exposure checker for email, username, phone and password leaks; 22 keyless sources, HIBP k-anonymity, no API keys. MIT.
 - [2mny-security-scan](https://github.com/RanaKhan77/2mny-security-scan) - Continuous security-scan platform powering 2mny.com.
 - [BDIX servers checker](https://github.com/0xAhmadYousuf/BDIX) - Check and list BDIX-hosted servers. MIT.
