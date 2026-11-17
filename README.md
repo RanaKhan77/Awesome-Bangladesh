@@ -20,7 +20,7 @@ openly in the [verification queue](docs/verification-queue.md) instead of being 
 Items that went unmaintained move to [legacy.md](legacy.md) — still useful, honestly
 labelled with last-activity dates, never silently deleted.
 
-**405 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
+**402 verified entries · 14 sections · list CC0-1.0** — every link checked live, every
 Bangladesh connection evidenced, every licence stated as published.
 
 Maintained by [Rana Khan](https://github.com/RanaKhan77). Contributions welcome — see
@@ -163,7 +163,7 @@ International open-data hosts carrying Bangladesh data:
 - [Common Voice Scripted Speech 27.0 (Bengali)](https://mozilladatacollective.com/datasets/cmu5kut0d00pomh07yay2f34r) - Mozilla's official current Bengali scripted-speech release: over a million clips and 1,277 hours of read speech from 23,019 speakers — a newer, larger distribution than the [CommonVoiceBangla](https://huggingface.co/datasets/bengaliAI/CommonVoiceBangla) copy above. CC0-1.0.
 - [Bengali Wikipedia dumps](https://dumps.wikimedia.org/bnwiki/latest/) - Wikimedia's always-current database dumps of the Bengali Wikipedia — the canonical raw corpus behind most Bangla NLP work, pages-articles multistream included. Content CC BY-SA; dumps free to download.
 - [BanglaSafe](https://github.com/BanglaLLM/banglasafe) - Bengali LLM safety benchmark: 879 statute-anchored prompts across 17 harm categories, with PyPI eval lib. MIT.
-- [Kothar Rong - Open Bangla Slang Dataset](https://github.com/Hisernberg/bangla-slang-dataset) - Open Bangla slang lexicon: 3,318 verified entries, 20 categories, romanization, offensiveness ratings, audio. CC-BY-SA-4.0.
+- [Deshi Slang](https://github.com/amirulsizan/deshi-slang) - Open Bengali slang and harmful-language dataset for moderation and safety research. MIT.
 - [EconDelta](https://github.com/clauding-lab/econdelta) - Autonomous daily pipeline that scrapes, parses and reconciles Bangladesh's macroeconomic indicators into one queryable repository. ⚠️ No licence file.
 
 ## 🔌 APIs & integrations
@@ -405,7 +405,6 @@ Logistics, couriers and anti-fraud:
 
 - [Bangla.gov.bd](https://bangla.gov.bd/bn) - The Bangladesh government's Bangla-language computing portal from the ICT Division (BCC): Kagaj AI writing assistant, Jijnsha AI government-service assistant, Borno OCR, the National Corpus, a Bangla spell checker, MS Word add-ins and free Bangla fonts, plus downloadable datasets and models on its [Hugging Face org](https://huggingface.co/banglagov). Free to use; licence terms stated per tool.
 - [protidhwani](https://github.com/ragib01-kuet/protidhwani) - Community safety intelligence platform. MIT.
-- [nyayota](https://github.com/afnan0356/nyayota) - Bangladeshi legal information platform. MIT.
 - [desco-prepaid-api](https://github.com/KhBayazidAhmed/desco-prepaid-api) - DESCO prepaid electricity meter API documentation. ⚠️ No licence file.
 - [metrox-app](https://github.com/fahim2443/metrox-app) - Dhaka Metro Rail NFC card balance app. MIT.
 - [ThrottleIQ](https://github.com/blankframe-tech/ThrottleIQ) - Bangladesh-built bilingual (Bangla/English) GPS ride tracker for bikers, with an active community translation-review process. ⚠️ TSAL v1.1 source-available licence.
@@ -477,7 +476,6 @@ Logistics, couriers and anti-fraud:
 - [HSC Stack](https://github.com/hscstack/platform) - Curated free resource platform for Bangladesh HSC and SSC students - notes, guides and materials, by the Dhaka-based hscstack org. Apache-2.0.
 - [F1.VISA.USA](https://github.com/MahediKamal/F1.VISA.USA) - Practical F-1 visa guide by a Bangladeshi engineer. MIT.
 - [BD-Univeristy-Index](https://github.com/sharf-shawon/BD-Univeristy-Index) - Nightly-synced index of Bangladeshi universities with UGC data, developer API and domain verification. ⚠️ Apache-2.0 declared in README, LICENSE file missing.
-- [MCQ Shuffler Pro](https://github.com/afnan-samin/MCQ_Shuffler_Pro) - Client-side web tool that shuffles MCQ questions into multiple exam sets from DOCX/CSV, Bijoy-aware. MIT.
 - [Khadga (খড়্গ)](https://github.com/TitaniaRoro/Khadga) - Browser arcade game teaching Bengal's Muslim-rule history (1204-1757): 9 chapters, 90 history cards, Bangla UI. GPL-3.0.
 - [Borno-Sudoku (বর্ণ-সুডোকু)](https://github.com/TitaniaRoro/BornoSudoku) - Bengali alphabet and word Sudoku puzzle game for Android (6x6/9x9) plus anagram mini-games; Compose M3. MIT.
 - [ICTOB Prep Lab](https://github.com/mfaysal-dev/ictob-prep-lab) - Offline-first bilingual PWA for ICT Olympiad Bangladesh prep: 84 MCQs over 14 segments, timed mock tests and four interactive ICT labs. MIT.
