@@ -209,12 +209,11 @@ Input methods and phonetics:
 
 Rust crates by the OpenBangla community:
 
-- [okkhor](https://crates.io/crates/okkhor) - Unicode to Bijoy and back.
-- [poriborton](https://crates.io/crates/poriborton) - Unicode-Bijoy converter library.
-- [upodesh](https://crates.io/crates/upodesh) - Autosuggest engine for Bangla input.
-- [emojicon](https://crates.io/crates/emojicon) - Emoji handling with Bangla text.
-- [ponjika](https://crates.io/crates/ponjika) - Bengali (Bangladeshi) calendar library.
-- [bangla](https://crates.io/crates/bangla) - Number formatting and calendar utilities for Bangla.
+- [okkhor](https://github.com/kaziridwan/okkhor) - Unicode to Bijoy and back.
+- [poriborton](https://github.com/OpenBangla/poriborton) - Unicode-Bijoy converter library.
+- [upodesh](https://github.com/OpenBangla/upodesh) - Autosuggest engine for Bangla input.
+- [emojicon](https://github.com/mominul/emojicon) - Emoji handling with Bangla text.
+- [ponjika](https://github.com/mustakimur/ponjika) - Bengali (Bangladeshi) calendar library.
 - [obadh_engine](https://github.com/unmukto-org/obadh_engine) - Deterministic rule-based Roman-to-Bangla transliteration engine in Rust, powering the Obadh keyboards for Apple platforms. MIT.
 
 NLP toolkits and models:
@@ -560,7 +559,6 @@ Commercial and restricted services that Bangladeshi developers build against eve
 | [Bangladesh Bank exchange rates](https://www.bb.org.bd/en/index.php/econdata/econposition)                                                                                                                            | Official taka rates                                      | No API; site terms apply                              | Use the free keyless exchange-rate endpoint ([open.er-api.com](https://open.er-api.com/)) for BDT rates                              |
 | [Survey of Bangladesh](https://www.sob.gov.bd/)                                                                                                                                                                       | Official base maps and geodata                           | Verbatim terms: no reproduction, no export, no resale | Use [geoBoundaries](https://www.geoboundaries.org/) (CC-BY-4.0), HDX COD-AB (CC-BY-3.0 IGO) or OpenStreetMap (ODbL) instead          |
 | [Bangladesh Meteorological Department](https://bmd.gov.bd/)                                                                                                                                                           | Weather and climate data                                 | Purchase                                              | Use open Kaggle weather datasets or NOAA for research                                                                                |
-| [Bangla AI Gateway](https://www.banglaai.org/)                                                                                                                                                                        | Commercial Bangla LLM/OCR API                            | Commercial                                            | Free SDKs ([npm](https://www.npmjs.com/package/bangla-ai), [PyPI](https://pypi.org/project/bangla-ai-sdk/)) against the paid gateway |
 
 ## Contributing
 
