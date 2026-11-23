@@ -575,9 +575,3 @@ valuable contribution.
   <sub><b>Made in Bangladesh</b> · Maintained by <a href="https://github.com/RanaKhan77">Rana Khan</a> · <a href="https://www.linkedin.com/in/ranakhan/">LinkedIn</a></sub><br>
   <sub>List content is dedicated to the public domain under <a href="LICENSE">CC0-1.0</a> - copy freely, no attribution required. Found it useful? A ⭐ on the way out keeps it growing.</sub>
 </div>
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have released all copyright and related rights to this list under the [CC0 1.0 Universal (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/). Each tool keeps its own license — this license covers the curation and descriptions only.
